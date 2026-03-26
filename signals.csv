@@ -1,345 +1,345 @@
 area,ticker,interval,signal,candles_from_last
-sp500,A,1d,"['hammer', 'engulfing', 'piercing_line']","[26, 11, 7]"
-sp500,AAPL,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1221, 967, 345, 207]"
+sp500,A,1d,"['hammer', 'engulfing', 'piercing_line']","[32, 17, 13]"
+sp500,AAPL,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1224, 970, 348, 210]"
 sp500,ABBV,1d,,
-sp500,ABNB,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[415, 409, 408, 245, 84]"
-sp500,ABT,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'engulfing']","[505, 256, 82, 43, 35]"
-sp500,ACGL,1d,"['hammer', 'inverted_hammer', 'hammer']","[314, 277, 44]"
-sp500,ACN,1d,"['inverted_hammer', 'hammer', 'engulfing', 'engulfing']","[408, 174, 30, 21]"
-sp500,ADI,1d,"['inverted_hammer', 'piercing_line', 'engulfing']","[554, 240, 10]"
-sp500,ADM,1d,['inverted_hammer'],[343]
-sp500,ADP,1d,"['hammer', 'inverted_hammer', 'inverted_hammer']","[129, 37, 28]"
-sp500,ADSK,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[1023, 880, 493, 264, 261]"
+sp500,ABNB,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[418, 412, 411, 248, 87]"
+sp500,ABT,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'engulfing']","[508, 259, 85, 46, 38]"
+sp500,ACGL,1d,"['hammer', 'inverted_hammer', 'hammer']","[317, 280, 47]"
+sp500,ACN,1d,"['inverted_hammer', 'hammer', 'engulfing', 'engulfing']","[411, 177, 33, 24]"
+sp500,ADI,1d,"['inverted_hammer', 'piercing_line', 'engulfing']","[557, 243, 13]"
+sp500,ADM,1d,['inverted_hammer'],[346]
+sp500,ADP,1d,"['hammer', 'inverted_hammer', 'inverted_hammer']","[132, 40, 31]"
+sp500,ADSK,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[1026, 883, 496, 267, 264]"
 sp500,AEE,1d,,
 sp500,AEP,1d,,
-sp500,AES,1d,"['inverted_hammer', 'engulfing']","[94, 13]"
-sp500,AFL,1d,['inverted_hammer'],[240]
-sp500,AIG,1d,"['inverted_hammer', 'inverted_hammer']","[299, 51]"
+sp500,AES,1d,"['inverted_hammer', 'engulfing']","[97, 16]"
+sp500,AFL,1d,['inverted_hammer'],[243]
+sp500,AIG,1d,"['inverted_hammer', 'inverted_hammer']","[302, 54]"
 sp500,AIZ,1d,,
-sp500,AJG,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[566, 319, 160]"
-sp500,AKAM,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[453, 344, 337, 336, 269]"
-sp500,ALB,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1069, 408, 240, 233]"
-sp500,ALGN,1d,"['hammer', 'hammer, rebound', 'hammer', 'hammer', 'hammer']","[245, 241, 122, 119, 11]"
+sp500,AJG,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[569, 322, 163]"
+sp500,AKAM,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[456, 347, 340, 339, 272]"
+sp500,ALB,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1072, 411, 243, 236]"
+sp500,ALGN,1d,"['hammer', 'hammer, rebound', 'hammer', 'hammer', 'hammer']","[248, 244, 125, 122, 14]"
 sp500,ALL,1d,,
-sp500,ALLE,1d,"['hammer', 'inverted_hammer']","[84, 23]"
-sp500,AMAT,1d,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[335, 240, 150, 146, 11]"
-sp500,AMCR,1d,"['inverted_hammer', 'hammer', 'hammer']","[240, 11, 10]"
-sp500,AMD,1d,"['hammer', 'inverted_hammer', 'engulfing', 'piercing_line', 'hammer']","[890, 870, 408, 264, 81]"
-sp500,AME,1d,['inverted_hammer'],[299]
+sp500,ALLE,1d,"['hammer', 'inverted_hammer']","[87, 26]"
+sp500,AMAT,1d,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[338, 243, 153, 149, 14]"
+sp500,AMCR,1d,"['inverted_hammer', 'hammer', 'hammer']","[243, 14, 13]"
+sp500,AMD,1d,"['hammer', 'inverted_hammer', 'engulfing', 'piercing_line', 'hammer']","[893, 873, 411, 267, 84]"
+sp500,AME,1d,['inverted_hammer'],[302]
 sp500,AMGN,1d,,
-sp500,AMP,1d,['inverted_hammer'],[3]
+sp500,AMP,1d,['inverted_hammer'],[6]
 sp500,AMT,1d,,
-sp500,AMZN,1d,"['hammer', 'hammer', 'engulfing', 'hammer', 'engulfing']","[409, 269, 259, 83, 24]"
-sp500,ANET,1d,"['engulfing', 'inverted_hammer', 'rebound', 'engulfing', 'inverted_hammer']","[722, 270, 241, 240, 93]"
-sp500,AON,1d,"['inverted_hammer', 'hammer']","[299, 102]"
-sp500,AOS,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[286, 240, 10, 9, 7]"
+sp500,AMZN,1d,"['hammer', 'hammer', 'engulfing', 'hammer', 'engulfing']","[412, 272, 262, 86, 27]"
+sp500,ANET,1d,"['engulfing', 'inverted_hammer', 'rebound', 'engulfing', 'inverted_hammer']","[725, 273, 244, 243, 96]"
+sp500,AON,1d,"['inverted_hammer', 'hammer']","[302, 105]"
+sp500,AOS,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[289, 243, 13, 12, 10]"
 sp500,APA,1d,,
-sp500,APD,1d,['piercing_line'],[69]
+sp500,APD,1d,['piercing_line'],[72]
 sp500,APH,1d,,
-sp500,APO,1d,['inverted_hammer'],[262]
-sp500,APP,1d,"['inverted_hammer', 'hammer', 'rebound', 'inverted_hammer', 'hammer']","[968, 880, 825, 260, 31]"
-sp500,APTV,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[441, 343, 241, 158, 8]"
-sp500,ARE,1d,['inverted_hammer'],[97]
-sp500,ARES,1d,"['inverted_hammer', 'engulfing', 'hammer', 'inverted_hammer', 'hammer']","[408, 240, 38, 21, 16]"
-sp500,ATO,1d,['inverted_hammer'],[240]
-sp500,AVB,1d,['inverted_hammer'],[7]
-sp500,AVGO,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[626, 262, 240]"
-sp500,AVY,1d,['hammer'],[10]
-sp500,AWK,1d,['inverted_hammer'],[127]
-sp500,AXON,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[409, 269, 138, 87, 83]"
-sp500,AXP,1d,"['hammer', 'rebound', 'hammer', 'hammer']","[261, 241, 160, 46]"
-sp500,BA,1d,"['engulfing', 'hammer', 'engulfing', 'hammer', 'hammer']","[505, 261, 259, 14, 2]"
-sp500,BAC,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[408, 43, 19, 11, 10]"
-sp500,BALL,1d,"['inverted_hammer', 'inverted_hammer']","[277, 240]"
+sp500,APO,1d,['inverted_hammer'],[265]
+sp500,APP,1d,"['inverted_hammer', 'hammer', 'rebound', 'inverted_hammer', 'hammer']","[971, 883, 828, 263, 34]"
+sp500,APTV,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[444, 346, 244, 161, 11]"
+sp500,ARE,1d,['inverted_hammer'],[100]
+sp500,ARES,1d,"['inverted_hammer', 'engulfing', 'hammer', 'inverted_hammer', 'hammer']","[411, 243, 41, 24, 19]"
+sp500,ATO,1d,['inverted_hammer'],[243]
+sp500,AVB,1d,['inverted_hammer'],[10]
+sp500,AVGO,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[629, 265, 243]"
+sp500,AVY,1d,['hammer'],[13]
+sp500,AWK,1d,['inverted_hammer'],[130]
+sp500,AXON,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[412, 272, 141, 90, 86]"
+sp500,AXP,1d,"['hammer', 'rebound', 'hammer', 'hammer']","[264, 244, 163, 49]"
+sp500,BA,1d,"['engulfing', 'hammer', 'engulfing', 'hammer', 'hammer']","[508, 264, 262, 17, 5]"
+sp500,BAC,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[411, 46, 22, 14, 13]"
+sp500,BALL,1d,"['inverted_hammer', 'inverted_hammer']","[280, 243]"
 sp500,BAX,1d,,
-sp500,BBY,1d,['inverted_hammer'],[241]
-sp500,BDX,1d,['hammer'],[8]
-sp500,BEN,1d,"['inverted_hammer', 'hammer']","[240, 8]"
+sp500,BBY,1d,['inverted_hammer'],[244]
+sp500,BDX,1d,['hammer'],[11]
+sp500,BEN,1d,"['inverted_hammer', 'hammer']","[243, 11]"
 sp500,BG,1d,,
-sp500,BIIB,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[414, 367, 345, 336, 238]"
+sp500,BIIB,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[417, 370, 348, 339, 241]"
 sp500,BK,1d,,
 sp500,BKR,1d,,
-sp500,BLDR,1d,"['hammer', 'hammer', 'inverted_hammer', 'hammer', 'engulfing']","[306, 299, 12, 11, 10]"
-sp500,BMY,1d,['inverted_hammer'],[229]
-sp500,BR,1d,"['engulfing', 'hammer']","[95, 38]"
-sp500,BRO,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing', 'hammer']","[161, 133, 96, 94, 27]"
-sp500,BSX,1d,"['engulfing', 'hammer', 'hammer', 'hammer', 'rebound']","[968, 347, 129, 128, 8]"
-sp500,BX,1d,"['inverted_hammer', 'engulfing']","[94, 29]"
-sp500,BXP,1d,['hammer'],[10]
-sp500,C,1d,['inverted_hammer'],[408]
-sp500,CAG,1d,,
+sp500,BLDR,1d,"['hammer', 'hammer', 'inverted_hammer', 'hammer', 'engulfing']","[309, 302, 15, 14, 13]"
+sp500,BMY,1d,['inverted_hammer'],[232]
+sp500,BR,1d,"['engulfing', 'hammer']","[98, 41]"
+sp500,BRO,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing', 'hammer']","[164, 136, 99, 97, 30]"
+sp500,BSX,1d,"['engulfing', 'hammer', 'hammer', 'hammer', 'rebound']","[971, 350, 132, 131, 11]"
+sp500,BX,1d,"['inverted_hammer', 'engulfing']","[97, 32]"
+sp500,BXP,1d,['hammer'],[13]
+sp500,C,1d,['inverted_hammer'],[411]
+sp500,CAG,1d,['hammer'],[1]
 sp500,CAH,1d,,
-sp500,CARR,1d,['inverted_hammer'],[977]
-sp500,CAT,1d,"['inverted_hammer', 'inverted_hammer']","[477, 408]"
-sp500,CB,1d,['inverted_hammer'],[161]
-sp500,CBOE,1d,['inverted_hammer'],[311]
-sp500,CBRE,1d,"['hammer', 'hammer', 'hammer', 'engulfing', 'hammer']","[622, 600, 95, 94, 93]"
+sp500,CARR,1d,['inverted_hammer'],[980]
+sp500,CAT,1d,"['inverted_hammer', 'inverted_hammer']","[480, 411]"
+sp500,CB,1d,['inverted_hammer'],[164]
+sp500,CBOE,1d,['inverted_hammer'],[314]
+sp500,CBRE,1d,"['hammer', 'hammer', 'hammer', 'engulfing', 'hammer']","[625, 603, 98, 97, 96]"
 sp500,CCI,1d,,
-sp500,CCL,1d,"['inverted_hammer', 'hammer', 'hammer', 'rebound', 'engulfing']","[619, 301, 261, 241, 10]"
-sp500,CDNS,1d,"['engulfing', 'hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[861, 845, 553, 473, 353]"
+sp500,CCL,1d,"['inverted_hammer', 'hammer', 'hammer', 'rebound', 'engulfing']","[622, 304, 264, 244, 13]"
+sp500,CDNS,1d,"['engulfing', 'hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[864, 848, 556, 476, 356]"
 sp500,CDW,1d,,
-sp500,CEG,1d,"['hammer', 'hammer', 'piercing_line', 'hammer', 'inverted_hammer']","[420, 269, 240, 147, 43]"
+sp500,CEG,1d,"['hammer', 'hammer', 'piercing_line', 'hammer', 'inverted_hammer']","[423, 272, 243, 150, 46]"
 sp500,CF,1d,,
-sp500,CFG,1d,['hammer'],[11]
-sp500,CHD,1d,"['inverted_hammer', 'inverted_hammer']","[3, 2]"
-sp500,CHRW,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[346, 286, 240]"
-sp500,CHTR,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing', 'rebound', 'inverted_hammer']","[312, 257, 158, 88, 43]"
-sp500,CI,1d,['inverted_hammer'],[314]
+sp500,CFG,1d,['hammer'],[14]
+sp500,CHD,1d,"['inverted_hammer', 'inverted_hammer']","[6, 5]"
+sp500,CHRW,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[349, 289, 243]"
+sp500,CHTR,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing', 'rebound', 'inverted_hammer']","[315, 260, 161, 91, 46]"
+sp500,CI,1d,['inverted_hammer'],[317]
 sp500,CINF,1d,,
-sp500,CL,1d,['hammer'],[1]
-sp500,CLX,1d,"['hammer', 'hammer']","[11, 2]"
+sp500,CL,1d,['hammer'],[4]
+sp500,CLX,1d,"['hammer', 'hammer']","[14, 5]"
 sp500,CMCSA,1d,,
 sp500,CME,1d,,
-sp500,CMG,1d,"['hammer', 'hammer', 'inverted_hammer', 'engulfing', 'hammer']","[270, 137, 98, 94, 91]"
-sp500,CMI,1d,['inverted_hammer'],[660]
+sp500,CMG,1d,"['hammer', 'hammer', 'inverted_hammer', 'engulfing', 'hammer']","[273, 140, 101, 97, 94]"
+sp500,CMI,1d,['inverted_hammer'],[663]
 sp500,CMS,1d,,
-sp500,CNC,1d,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'engulfing', 'inverted_hammer']","[705, 704, 505, 177, 6]"
+sp500,CNC,1d,"['engulfing', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer']","[707, 508, 180, 9, 2]"
 sp500,CNP,1d,,
-sp500,COF,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[978, 84, 11, 10]"
-sp500,COIN,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[649, 241, 84, 83, 34]"
-sp500,COO,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[454, 436, 434, 315, 10]"
+sp500,COF,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[981, 87, 14, 13]"
+sp500,COIN,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[652, 244, 87, 86, 37]"
+sp500,COO,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[457, 439, 437, 318, 13]"
 sp500,COP,1d,,
 sp500,COR,1d,,
-sp500,CPAY,1d,"['inverted_hammer', 'hammer', 'engulfing', 'hammer', 'hammer']","[601, 443, 311, 160, 155]"
-sp500,CPB,1d,['inverted_hammer'],[12]
-sp500,CPRT,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[882, 311, 306, 261, 202]"
-sp500,CPT,1d,"['inverted_hammer', 'inverted_hammer']","[345, 7]"
-sp500,CRH,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[298, 189, 12]"
-sp500,CRL,1d,"['inverted_hammer', 'hammer', 'piercing_line', 'piercing_line', 'hammer']","[294, 291, 274, 243, 32]"
-sp500,CRM,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[245, 204, 153, 36, 20]"
-sp500,CRWD,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[801, 269, 263, 262, 81]"
+sp500,CPAY,1d,"['inverted_hammer', 'hammer', 'engulfing', 'hammer', 'hammer']","[604, 446, 314, 163, 158]"
+sp500,CPB,1d,['inverted_hammer'],[15]
+sp500,CPRT,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[885, 314, 309, 264, 205]"
+sp500,CPT,1d,"['inverted_hammer', 'inverted_hammer']","[348, 10]"
+sp500,CRH,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[301, 192, 15]"
+sp500,CRL,1d,"['inverted_hammer', 'hammer', 'piercing_line', 'piercing_line', 'hammer']","[297, 294, 277, 246, 35]"
+sp500,CRM,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[248, 207, 156, 39, 23]"
+sp500,CRWD,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[804, 272, 266, 265, 84]"
 sp500,CSCO,1d,,
-sp500,CSGP,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer, engulfing', 'inverted_hammer']","[96, 50, 48, 24, 16]"
-sp500,CSX,1d,['inverted_hammer'],[143]
+sp500,CSGP,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer, engulfing', 'inverted_hammer']","[99, 53, 51, 27, 19]"
+sp500,CSX,1d,['inverted_hammer'],[146]
 sp500,CTAS,1d,,
 sp500,CTRA,1d,,
-sp500,CTSH,1d,['inverted_hammer'],[240]
-sp500,CTVA,1d,"['inverted_hammer', 'inverted_hammer']","[604, 408]"
-sp500,CVNA,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[597, 311, 261, 241, 97]"
-sp500,CVS,1d,"['inverted_hammer', 'hammer']","[97, 1]"
+sp500,CTSH,1d,['inverted_hammer'],[243]
+sp500,CTVA,1d,"['inverted_hammer', 'inverted_hammer']","[607, 411]"
+sp500,CVNA,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[600, 314, 264, 244, 100]"
+sp500,CVS,1d,"['inverted_hammer', 'hammer']","[100, 4]"
 sp500,CVX,1d,,
 sp500,D,1d,,
-sp500,DAL,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[303, 261, 241, 12, 10]"
-sp500,DASH,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing', 'hammer']","[1077, 981, 893, 887, 1]"
+sp500,DAL,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[306, 264, 244, 15, 13]"
+sp500,DASH,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing', 'hammer']","[1080, 984, 896, 890, 4]"
 sp500,DAY,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[953, 858, 261, 234, 125]"
 sp500,DD,1d,,
-sp500,DDOG,1d,"['hammer', 'rebound', 'inverted_hammer', 'inverted_hammer', 'hammer']","[270, 260, 154, 53, 19]"
-sp500,DE,1d,['inverted_hammer'],[240]
-sp500,DECK,1d,"['engulfing', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[423, 415, 264, 101, 14]"
-sp500,DELL,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'piercing_line', 'hammer']","[409, 284, 264, 240, 91]"
-sp500,DG,1d,"['inverted_hammer', 'hammer', 'hammer']","[640, 96, 10]"
-sp500,DGX,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[176, 2, 1]"
-sp500,DHI,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[431, 319, 316, 312]"
-sp500,DHR,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[856, 603, 602, 482]"
-sp500,DIS,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[408, 240, 125, 34]"
+sp500,DDOG,1d,"['hammer', 'rebound', 'inverted_hammer', 'inverted_hammer', 'hammer']","[273, 263, 157, 56, 22]"
+sp500,DE,1d,['inverted_hammer'],[243]
+sp500,DECK,1d,"['engulfing', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[426, 418, 267, 104, 17]"
+sp500,DELL,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'piercing_line', 'hammer']","[412, 287, 267, 243, 94]"
+sp500,DG,1d,"['inverted_hammer', 'hammer', 'hammer']","[643, 99, 13]"
+sp500,DGX,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[179, 5, 4]"
+sp500,DHI,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[434, 322, 319, 315]"
+sp500,DHR,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[859, 606, 605, 485]"
+sp500,DIS,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[411, 243, 128, 37]"
 sp500,DLR,1d,,
-sp500,DLTR,1d,"['engulfing', 'inverted_hammer', 'rebound', 'hammer', 'inverted_hammer']","[623, 390, 342, 117, 114]"
-sp500,DOC,1d,['inverted_hammer'],[33]
+sp500,DLTR,1d,"['engulfing', 'inverted_hammer', 'rebound', 'hammer', 'inverted_hammer']","[626, 393, 345, 120, 117]"
+sp500,DOC,1d,['inverted_hammer'],[36]
 sp500,DOV,1d,,
 sp500,DOW,1d,,
-sp500,DPZ,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[420, 97, 27, 1]"
-sp500,DRI,1d,"['inverted_hammer', 'hammer']","[240, 10]"
+sp500,DPZ,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[423, 100, 30, 4]"
+sp500,DRI,1d,"['inverted_hammer', 'hammer']","[243, 13]"
 sp500,DTE,1d,,
 sp500,DUK,1d,,
-sp500,DVA,1d,"['hammer', 'hammer', 'hammer', 'engulfing', 'engulfing']","[975, 875, 760, 759, 45]"
+sp500,DVA,1d,"['hammer', 'hammer', 'hammer', 'engulfing', 'engulfing']","[978, 878, 763, 762, 48]"
 sp500,DVN,1d,,
-sp500,DXCM,1d,"['hammer', 'hammer', 'engulfing', 'hammer', 'inverted_hammer']","[259, 188, 122, 118, 7]"
+sp500,DXCM,1d,"['hammer', 'hammer', 'engulfing', 'hammer', 'inverted_hammer']","[262, 191, 125, 121, 10]"
 sp500,EA,1d,,
-sp500,EBAY,1d,"['inverted_hammer', 'inverted_hammer', 'piercing_line']","[240, 139, 95]"
-sp500,ECL,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[412, 97, 10, 7, 2]"
+sp500,EBAY,1d,"['inverted_hammer', 'inverted_hammer', 'piercing_line']","[243, 142, 98]"
+sp500,ECL,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[415, 100, 13, 10, 5]"
 sp500,ED,1d,,
-sp500,EFX,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'piercing_line', 'inverted_hammer']","[333, 299, 93, 91, 34]"
-sp500,EG,1d,"['inverted_hammer', 'inverted_hammer']","[285, 283]"
+sp500,EFX,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'piercing_line', 'inverted_hammer']","[336, 302, 96, 94, 37]"
+sp500,EG,1d,"['inverted_hammer', 'inverted_hammer']","[288, 286]"
 sp500,EIX,1d,,
-sp500,EL,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[723, 649, 241, 10]"
-sp500,ELV,1d,"['inverted_hammer', 'hammer']","[367, 16]"
-sp500,EME,1d,"['hammer', 'hammer', 'hammer']","[1021, 81, 12]"
-sp500,EMR,1d,"['hammer', 'hammer']","[157, 4]"
+sp500,EL,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[726, 652, 244, 13]"
+sp500,ELV,1d,"['inverted_hammer', 'hammer']","[370, 19]"
+sp500,EME,1d,"['hammer', 'hammer', 'hammer']","[1024, 84, 15]"
+sp500,EMR,1d,"['hammer', 'hammer']","[160, 7]"
 sp500,EOG,1d,,
-sp500,EPAM,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'piercing_line', 'hammer']","[346, 270, 264, 251, 158]"
-sp500,EQR,1d,['inverted_hammer'],[95]
-sp500,EQT,1d,"['inverted_hammer', 'hammer']","[526, 66]"
-sp500,ERIE,1d,"['hammer', 'rebound', 'inverted_hammer']","[10, 8, 1]"
+sp500,EPAM,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'piercing_line', 'hammer']","[349, 273, 267, 254, 161]"
+sp500,EQR,1d,['inverted_hammer'],[98]
+sp500,EQT,1d,"['inverted_hammer', 'hammer']","[529, 69]"
+sp500,ERIE,1d,"['hammer', 'rebound', 'inverted_hammer']","[13, 11, 4]"
 sp500,ES,1d,,
 sp500,ESS,1d,,
-sp500,ETN,1d,"['inverted_hammer', 'engulfing', 'hammer']","[242, 240, 81]"
+sp500,ETN,1d,"['inverted_hammer', 'engulfing', 'hammer']","[245, 243, 84]"
 sp500,ETR,1d,,
-sp500,EVRG,1d,['inverted_hammer'],[92]
-sp500,EW,1d,"['hammer', 'inverted_hammer', 'hammer', 'rebound', 'engulfing']","[657, 651, 629, 610, 124]"
+sp500,EVRG,1d,['inverted_hammer'],[95]
+sp500,EW,1d,"['hammer', 'inverted_hammer', 'hammer', 'rebound', 'engulfing']","[660, 654, 632, 613, 127]"
 sp500,EXC,1d,,
 sp500,EXE,1d,,
-sp500,EXPD,1d,['inverted_hammer'],[241]
-sp500,EXPE,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[934, 408, 284, 38, 22]"
-sp500,EXR,1d,,
-sp500,F,1d,,
+sp500,EXPD,1d,['inverted_hammer'],[244]
+sp500,EXPE,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[937, 411, 287, 41, 25]"
+sp500,EXR,1d,['inverted_hammer'],[2]
+sp500,F,1d,['hammer'],[4]
 sp500,FANG,1d,,
 sp500,FAST,1d,,
-sp500,FCX,1d,"['piercing_line', 'hammer']","[240, 2]"
+sp500,FCX,1d,"['piercing_line', 'hammer']","[243, 5]"
 sp500,FDS,1d,,
-sp500,FDX,1d,['inverted_hammer'],[240]
+sp500,FDX,1d,['inverted_hammer'],[243]
 sp500,FE,1d,,
-sp500,FFIV,1d,"['inverted_hammer', 'hammer', 'engulfing', 'piercing_line', 'inverted_hammer']","[454, 448, 263, 240, 99]"
-sp500,FIS,1d,['hammer'],[45]
-sp500,FISV,1d,"['hammer', 'engulfing', 'hammer', 'hammer', 'inverted_hammer']","[1025, 702, 260, 204, 92]"
-sp500,FITB,1d,['inverted_hammer'],[7]
-sp500,FIX,1d,"['inverted_hammer', 'hammer']","[1021, 241]"
-sp500,FOX,1d,['engulfing'],[23]
-sp500,FOXA,1d,['inverted_hammer'],[240]
+sp500,FFIV,1d,"['inverted_hammer', 'hammer', 'engulfing', 'piercing_line', 'inverted_hammer']","[457, 451, 266, 243, 102]"
+sp500,FIS,1d,['hammer'],[48]
+sp500,FISV,1d,"['hammer', 'engulfing', 'hammer', 'hammer', 'inverted_hammer']","[1028, 705, 263, 207, 95]"
+sp500,FITB,1d,['inverted_hammer'],[10]
+sp500,FIX,1d,"['inverted_hammer', 'hammer']","[1024, 244]"
+sp500,FOX,1d,['engulfing'],[26]
+sp500,FOXA,1d,['inverted_hammer'],[243]
 sp500,FRT,1d,,
-sp500,FSLR,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[544, 534, 533, 432, 16]"
-sp500,FTNT,1d,"['hammer', 'inverted_hammer', 'hammer', 'engulfing', 'hammer']","[890, 408, 261, 240, 156]"
+sp500,FSLR,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[547, 537, 536, 435, 19]"
+sp500,FTNT,1d,"['hammer', 'inverted_hammer', 'hammer', 'engulfing', 'hammer']","[893, 411, 264, 243, 159]"
 sp500,FTV,1d,,
 sp500,GD,1d,,
-sp500,GDDY,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'rebound']","[270, 189, 172, 83, 24]"
-sp500,GE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1082, 940, 880, 346]"
-sp500,GEHC,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[601, 348, 238]"
-sp500,GEN,1d,['inverted_hammer'],[2]
+sp500,GDDY,1d,"['inverted_hammer', 'hammer', 'hammer', 'rebound', 'rebound']","[192, 175, 86, 27, 2]"
+sp500,GE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1085, 943, 883, 349]"
+sp500,GEHC,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[604, 351, 241]"
+sp500,GEN,1d,['inverted_hammer'],[5]
 sp500,GEV,1d,,
-sp500,GILD,1d,['inverted_hammer'],[240]
+sp500,GILD,1d,['inverted_hammer'],[243]
 sp500,GIS,1d,,
-sp500,GL,1d,"['hammer', 'inverted_hammer', 'hammer']","[319, 96, 95]"
-sp500,GLW,1d,['inverted_hammer'],[260]
-sp500,GM,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1032, 603, 284]"
-sp500,GNRC,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[657, 602, 409, 278, 241]"
-sp500,GOOG,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'piercing_line', 'hammer']","[946, 416, 242, 240, 28]"
-sp500,GOOGL,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer, rebound', 'rebound', 'hammer']","[946, 416, 242, 241, 28]"
-sp500,GPC,1d,['inverted_hammer'],[3]
-sp500,GPN,1d,"['hammer', 'inverted_hammer']","[95, 43]"
-sp500,GRMN,1d,"['piercing_line', 'hammer']","[240, 93]"
-sp500,GS,1d,['inverted_hammer'],[240]
+sp500,GL,1d,"['hammer', 'inverted_hammer', 'hammer']","[322, 99, 98]"
+sp500,GLW,1d,['inverted_hammer'],[263]
+sp500,GM,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1035, 606, 287]"
+sp500,GNRC,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[660, 605, 412, 281, 244]"
+sp500,GOOG,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'piercing_line', 'hammer']","[949, 419, 245, 243, 31]"
+sp500,GOOGL,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer, rebound', 'rebound', 'hammer']","[949, 419, 245, 244, 31]"
+sp500,GPC,1d,['inverted_hammer'],[6]
+sp500,GPN,1d,"['hammer', 'inverted_hammer']","[98, 46]"
+sp500,GRMN,1d,"['piercing_line', 'hammer']","[243, 96]"
+sp500,GS,1d,['inverted_hammer'],[243]
 sp500,HAL,1d,,
-sp500,HAS,1d,['inverted_hammer'],[601]
-sp500,HBAN,1d,['hammer'],[11]
-sp500,HCA,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[1040, 342, 164]"
-sp500,HD,1d,['hammer'],[90]
+sp500,HAS,1d,['inverted_hammer'],[604]
+sp500,HBAN,1d,['hammer'],[14]
+sp500,HCA,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing', 'hammer']","[1043, 345, 167, 2]"
+sp500,HD,1d,['hammer'],[93]
 sp500,HIG,1d,,
-sp500,HII,1d,['inverted_hammer'],[240]
-sp500,HLT,1d,"['hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[1082, 708, 261, 242, 240]"
-sp500,HOLX,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing', 'hammer', 'inverted_hammer']","[313, 312, 311, 59, 33]"
+sp500,HII,1d,['inverted_hammer'],[243]
+sp500,HLT,1d,"['hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[1085, 711, 264, 245, 243]"
+sp500,HOLX,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing', 'hammer', 'inverted_hammer']","[316, 315, 314, 62, 36]"
 sp500,HON,1d,,
-sp500,HOOD,1d,"['hammer', 'inverted_hammer', 'engulfing', 'hammer', 'inverted_hammer']","[727, 723, 722, 241, 43]"
-sp500,HPE,1d,"['inverted_hammer', 'rebound', 'inverted_hammer']","[386, 241, 84]"
-sp500,HPQ,1d,"['inverted_hammer', 'inverted_hammer', 'rebound', 'hammer']","[204, 44, 42, 33]"
+sp500,HOOD,1d,"['hammer', 'inverted_hammer', 'engulfing', 'hammer', 'inverted_hammer']","[730, 726, 725, 244, 46]"
+sp500,HPE,1d,"['inverted_hammer', 'rebound', 'inverted_hammer']","[389, 244, 87]"
+sp500,HPQ,1d,"['inverted_hammer', 'inverted_hammer', 'rebound', 'hammer']","[207, 47, 45, 36]"
 sp500,HRL,1d,,
-sp500,HSIC,1d,"['engulfing', 'inverted_hammer', 'hammer', 'hammer', 'inverted_hammer']","[593, 498, 443, 382, 161]"
+sp500,HSIC,1d,"['engulfing', 'inverted_hammer', 'hammer', 'hammer', 'inverted_hammer']","[596, 501, 446, 385, 164]"
 sp500,HST,1d,,
-sp500,HSY,1d,['hammer'],[97]
+sp500,HSY,1d,['hammer'],[100]
 sp500,HUBB,1d,,
-sp500,HUM,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'engulfing']","[133, 129, 93, 34, 33]"
-sp500,HWM,1d,"['inverted_hammer', 'piercing_line']","[1080, 240]"
-sp500,IBKR,1d,"['hammer', 'hammer']","[1043, 81]"
+sp500,HUM,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'engulfing']","[136, 132, 96, 37, 36]"
+sp500,HWM,1d,"['inverted_hammer', 'piercing_line']","[1083, 243]"
+sp500,IBKR,1d,"['hammer', 'hammer']","[1046, 84]"
 sp500,IBM,1d,,
-sp500,ICE,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[345, 97, 26]"
-sp500,IEX,1d,"['inverted_hammer', 'inverted_hammer']","[3, 2]"
-sp500,IFF,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[657, 522, 273, 2]"
-sp500,INCY,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'engulfing']","[629, 619, 614, 407, 252]"
-sp500,INTC,1d,"['hammer', 'hammer', 'rebound', 'hammer']","[409, 408, 385, 160]"
-sp500,INVH,1d,"['inverted_hammer', 'inverted_hammer']","[161, 7]"
-sp500,IP,1d,"['inverted_hammer', 'hammer']","[240, 10]"
-sp500,IQV,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[549, 446, 445, 264, 245]"
-sp500,IR,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'piercing_line', 'engulfing']","[602, 345, 300, 298, 109]"
+sp500,ICE,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[348, 100, 29]"
+sp500,IEX,1d,"['inverted_hammer', 'inverted_hammer']","[6, 5]"
+sp500,IFF,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[660, 525, 276, 5]"
+sp500,INCY,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'engulfing']","[632, 622, 617, 410, 255]"
+sp500,INTC,1d,"['hammer', 'hammer', 'rebound', 'hammer']","[412, 411, 388, 163]"
+sp500,INVH,1d,"['inverted_hammer', 'inverted_hammer']","[164, 10]"
+sp500,IP,1d,"['inverted_hammer', 'hammer']","[243, 13]"
+sp500,IQV,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[552, 449, 448, 267, 248]"
+sp500,IR,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'piercing_line', 'engulfing']","[605, 348, 303, 301, 112]"
 sp500,IRM,1d,,
-sp500,ISRG,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[648, 421, 264, 32, 6]"
-sp500,IT,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'engulfing']","[1047, 757, 731, 154, 30]"
-sp500,ITW,1d,"['inverted_hammer', 'piercing_line']","[240, 109]"
-sp500,IVZ,1d,['hammer'],[11]
-sp500,J,1d,['inverted_hammer'],[76]
+sp500,ISRG,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[651, 424, 267, 35, 9]"
+sp500,IT,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'engulfing']","[1050, 760, 734, 157, 33]"
+sp500,ITW,1d,"['inverted_hammer', 'piercing_line']","[243, 112]"
+sp500,IVZ,1d,['hammer'],[14]
+sp500,J,1d,['inverted_hammer'],[79]
 sp500,JBHT,1d,,
-sp500,JBL,1d,"['hammer, engulfing', 'hammer', 'engulfing', 'hammer', 'hammer']","[261, 241, 240, 147, 139]"
-sp500,JCI,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[621, 261, 260, 50, 48]"
-sp500,JKHY,1d,"['inverted_hammer', 'inverted_hammer']","[842, 651]"
-sp500,JNJ,1d,,
-sp500,JPM,1d,['piercing_line'],[240]
-sp500,KDP,1d,['hammer'],[3]
-sp500,KEY,1d,['hammer'],[11]
-sp500,KEYS,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[770, 733, 651, 505, 264]"
-sp500,KHC,1d,['inverted_hammer'],[42]
+sp500,JBL,1d,"['hammer, engulfing', 'hammer', 'engulfing', 'hammer', 'hammer']","[264, 244, 243, 150, 142]"
+sp500,JCI,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[624, 264, 263, 53, 51]"
+sp500,JKHY,1d,"['inverted_hammer', 'inverted_hammer']","[845, 654]"
+sp500,JNJ,1d,['hammer'],[2]
+sp500,JPM,1d,['piercing_line'],[243]
+sp500,KDP,1d,['hammer'],[6]
+sp500,KEY,1d,['hammer'],[14]
+sp500,KEYS,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[773, 736, 654, 508, 267]"
+sp500,KHC,1d,['inverted_hammer'],[45]
 sp500,KIM,1d,,
-sp500,KKR,1d,"['hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer', 'piercing_line']","[261, 240, 122, 118, 15]"
+sp500,KKR,1d,"['hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer', 'piercing_line']","[264, 243, 125, 121, 18]"
 sp500,KMB,1d,,
 sp500,KMI,1d,,
 sp500,KO,1d,,
 sp500,KR,1d,,
 sp500,KVUE,1d,,
-sp500,L,1d,"['inverted_hammer', 'inverted_hammer']","[947, 43]"
-sp500,LDOS,1d,['inverted_hammer'],[1027]
-sp500,LEN,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[312, 62, 10, 3, 2]"
-sp500,LH,1d,['inverted_hammer'],[92]
-sp500,LHX,1d,['inverted_hammer'],[240]
-sp500,LII,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[241, 239, 6]"
-sp500,LIN,1d,"['inverted_hammer', 'engulfing']","[346, 69]"
-sp500,LMT,1d,['inverted_hammer'],[250]
+sp500,L,1d,"['inverted_hammer', 'inverted_hammer']","[950, 46]"
+sp500,LDOS,1d,['inverted_hammer'],[1030]
+sp500,LEN,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[315, 65, 13, 6, 5]"
+sp500,LH,1d,['inverted_hammer'],[95]
+sp500,LHX,1d,['inverted_hammer'],[243]
+sp500,LII,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[244, 242, 9]"
+sp500,LIN,1d,"['inverted_hammer', 'engulfing']","[349, 72]"
+sp500,LMT,1d,['inverted_hammer'],[253]
 sp500,LNT,1d,,
-sp500,LOW,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[122, 84, 2]"
-sp500,LRCX,1d,['piercing_line'],[240]
-sp500,LULU,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer, rebound', 'engulfing']","[546, 261, 188, 136, 5]"
+sp500,LOW,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[125, 87, 5]"
+sp500,LRCX,1d,['piercing_line'],[243]
+sp500,LULU,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer, rebound', 'engulfing']","[549, 264, 191, 139, 8]"
 sp500,LUV,1d,,
-sp500,LVS,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1133, 408, 240]"
-sp500,LW,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[1117, 61, 6]"
+sp500,LVS,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1136, 411, 243]"
+sp500,LW,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[1120, 64, 9]"
 sp500,LYB,1d,,
-sp500,LYV,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[875, 757, 603, 261, 112]"
-sp500,MA,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[260, 122, 44]"
-sp500,MAA,1d,['inverted_hammer'],[95]
-sp500,MAR,1d,"['inverted_hammer', 'hammer']","[240, 11]"
-sp500,MAS,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing', 'hammer']","[240, 98, 94, 93, 2]"
-sp500,MCD,1d,['inverted_hammer'],[352]
-sp500,MCHP,1d,"['inverted_hammer', 'hammer']","[155, 91]"
-sp500,MCK,1d,['inverted_hammer'],[383]
-sp500,MCO,1d,['inverted_hammer'],[975]
+sp500,LYV,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[878, 760, 606, 264, 115]"
+sp500,MA,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[263, 125, 47]"
+sp500,MAA,1d,['inverted_hammer'],[98]
+sp500,MAR,1d,"['inverted_hammer', 'hammer']","[243, 14]"
+sp500,MAS,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing', 'hammer']","[243, 101, 97, 96, 5]"
+sp500,MCD,1d,['inverted_hammer'],[355]
+sp500,MCHP,1d,"['inverted_hammer', 'hammer']","[158, 94]"
+sp500,MCK,1d,['inverted_hammer'],[386]
+sp500,MCO,1d,['inverted_hammer'],[978]
 sp500,MDLZ,1d,,
-sp500,MDT,1d,['inverted_hammer'],[24]
-sp500,MET,1d,"['inverted_hammer', 'inverted_hammer']","[346, 43]"
-sp500,META,1d,"['hammer', 'engulfing', 'hammer', 'inverted_hammer', 'hammer']","[264, 240, 118, 94, 91]"
-sp500,MGM,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing', 'engulfing', 'hammer']","[633, 627, 311, 298, 158]"
-sp500,MKC,1d,['hammer'],[5]
-sp500,MLM,1d,"['inverted_hammer', 'inverted_hammer']","[946, 314]"
+sp500,MDT,1d,['inverted_hammer'],[27]
+sp500,MET,1d,"['inverted_hammer', 'inverted_hammer']","[349, 46]"
+sp500,META,1d,"['hammer', 'engulfing', 'hammer', 'inverted_hammer', 'hammer']","[267, 243, 121, 97, 94]"
+sp500,MGM,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing', 'engulfing', 'hammer']","[636, 630, 314, 301, 161]"
+sp500,MKC,1d,['hammer'],[8]
+sp500,MLM,1d,"['inverted_hammer', 'inverted_hammer']","[949, 317]"
 sp500,MMC,1d,,
-sp500,MMM,1d,"['hammer', 'hammer', 'hammer']","[34, 11, 2]"
-sp500,MNST,1d,"['engulfing', 'rebound', 'inverted_hammer', 'hammer', 'hammer']","[486, 443, 313, 312, 10]"
-sp500,MO,1d,['hammer'],[53]
-sp500,MOH,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer']","[705, 485, 384, 177, 163]"
+sp500,MMM,1d,"['hammer', 'hammer', 'hammer']","[37, 14, 5]"
+sp500,MNST,1d,"['rebound', 'inverted_hammer', 'hammer', 'hammer', 'inverted_hammer']","[446, 316, 315, 13, 4]"
+sp500,MO,1d,['hammer'],[56]
+sp500,MOH,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer']","[708, 488, 387, 180, 166]"
 sp500,MOS,1d,,
 sp500,MPC,1d,,
-sp500,MRK,1d,['inverted_hammer'],[283]
-sp500,MRNA,1d,"['hammer', 'hammer', 'hammer', 'engulfing', 'hammer']","[434, 381, 245, 240, 139]"
+sp500,MRK,1d,['inverted_hammer'],[286]
+sp500,MRNA,1d,"['hammer', 'hammer', 'hammer', 'engulfing', 'hammer']","[437, 384, 248, 243, 142]"
 sp500,MS,1d,,
-sp500,MSFT,1d,['inverted_hammer'],[419]
-sp500,MSI,1d,"['inverted_hammer', 'hammer']","[97, 66]"
+sp500,MSFT,1d,['inverted_hammer'],[422]
+sp500,MSI,1d,"['inverted_hammer', 'hammer']","[100, 69]"
 sp500,MTB,1d,,
-sp500,MTCH,1d,['hammer'],[43]
-sp500,MU,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[1221, 877, 171]"
-sp500,NCLH,1d,"['hammer', 'hammer', 'hammer, rebound', 'hammer', 'inverted_hammer']","[264, 261, 241, 93, 92]"
-sp500,NDAQ,1d,['inverted_hammer'],[28]
+sp500,MTCH,1d,['hammer'],[46]
+sp500,MU,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[1224, 880, 174]"
+sp500,NCLH,1d,"['hammer', 'hammer', 'hammer, rebound', 'hammer', 'inverted_hammer']","[267, 264, 244, 96, 95]"
+sp500,NDAQ,1d,['inverted_hammer'],[31]
 sp500,NDSN,1d,,
 sp500,NEE,1d,,
 sp500,NEM,1d,,
-sp500,NFLX,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'rebound']","[81, 72, 52, 49, 33]"
+sp500,NFLX,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'rebound']","[84, 75, 55, 52, 36]"
 sp500,NI,1d,,
-sp500,NKE,1d,"['piercing_line', 'inverted_hammer', 'hammer']","[241, 62, 12]"
+sp500,NKE,1d,"['piercing_line', 'inverted_hammer', 'hammer']","[244, 65, 15]"
 sp500,NOC,1d,,
-sp500,NOW,1d,"['hammer', 'hammer', 'inverted_hammer', 'hammer', 'engulfing']","[153, 91, 43, 36, 29]"
+sp500,NOW,1d,"['hammer', 'hammer', 'inverted_hammer', 'hammer', 'engulfing']","[156, 94, 46, 39, 32]"
 sp500,NRG,1d,,
-sp500,NSC,1d,"['inverted_hammer', 'hammer']","[467, 10]"
-sp500,NTAP,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[828, 408, 266, 85, 54]"
-sp500,NTRS,1d,['inverted_hammer'],[240]
-sp500,NUE,1d,['inverted_hammer'],[207]
-sp500,NVDA,1d,"['engulfing', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'piercing_line']","[880, 655, 387, 242, 240]"
-sp500,NWS,1d,"['inverted_hammer', 'inverted_hammer']","[757, 302]"
-sp500,NWSA,1d,['inverted_hammer'],[93]
-sp500,NXPI,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[554, 11, 10]"
+sp500,NSC,1d,"['inverted_hammer', 'hammer']","[470, 13]"
+sp500,NTAP,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[831, 411, 269, 88, 57]"
+sp500,NTRS,1d,['inverted_hammer'],[243]
+sp500,NUE,1d,['inverted_hammer'],[210]
+sp500,NVDA,1d,"['engulfing', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'piercing_line']","[883, 658, 390, 245, 243]"
+sp500,NWS,1d,"['inverted_hammer', 'inverted_hammer']","[760, 305]"
+sp500,NWSA,1d,['inverted_hammer'],[96]
+sp500,NXPI,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[557, 14, 13]"
 sp500,O,1d,,
-sp500,ODFL,1d,"['inverted_hammer', 'hammer']","[476, 386]"
+sp500,ODFL,1d,"['inverted_hammer', 'hammer']","[479, 389]"
 sp500,OKE,1d,,
 sp500,OMC,1d,,
-sp500,ON,1d,"['engulfing', 'piercing_line', 'rebound', 'engulfing', 'engulfing']","[479, 298, 265, 240, 10]"
-sp500,ORCL,1d,"['hammer', 'hammer', 'hammer', 'piercing_line', 'hammer']","[139, 91, 89, 86, 36]"
-sp500,ORLY,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[464, 345, 96, 64, 31]"
-sp500,OTIS,1d,"['inverted_hammer', 'inverted_hammer']","[416, 347]"
-sp500,OXY,1d,"['inverted_hammer', 'inverted_hammer']","[408, 240]"
-sp500,PANW,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[726, 301, 245, 83, 21]"
-sp500,PAYC,1d,"['inverted_hammer', 'engulfing', 'piercing_line', 'rebound', 'inverted_hammer']","[454, 96, 32, 26, 20]"
-sp500,PAYX,1d,"['hammer', 'hammer']","[32, 29]"
-sp500,PCAR,1d,['inverted_hammer'],[257]
+sp500,ON,1d,"['engulfing', 'piercing_line', 'rebound', 'engulfing', 'engulfing']","[482, 301, 268, 243, 13]"
+sp500,ORCL,1d,"['hammer', 'hammer', 'hammer', 'piercing_line', 'hammer']","[142, 94, 92, 89, 39]"
+sp500,ORLY,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[467, 348, 99, 67, 34]"
+sp500,OTIS,1d,"['inverted_hammer', 'inverted_hammer']","[419, 350]"
+sp500,OXY,1d,"['inverted_hammer', 'inverted_hammer']","[411, 243]"
+sp500,PANW,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[729, 304, 248, 86, 24]"
+sp500,PAYC,1d,"['inverted_hammer', 'engulfing', 'piercing_line', 'rebound', 'inverted_hammer']","[457, 99, 35, 29, 23]"
+sp500,PAYX,1d,"['hammer', 'hammer']","[35, 32]"
+sp500,PCAR,1d,['inverted_hammer'],[260]
 sp500,PCG,1d,,
 sp500,PEG,1d,,
 sp500,PEP,1d,,
@@ -347,148 +347,148 @@ sp500,PFE,1d,,
 sp500,PFG,1d,,
 sp500,PG,1d,,
 sp500,PGR,1d,,
-sp500,PH,1d,['piercing_line'],[240]
-sp500,PHM,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[317, 312, 110, 62, 10]"
+sp500,PH,1d,['piercing_line'],[243]
+sp500,PHM,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[320, 315, 113, 65, 13]"
 sp500,PKG,1d,,
-sp500,PLD,1d,['hammer'],[11]
-sp500,PLTR,1d,"['hammer', 'engulfing', 'hammer', 'hammer', 'hammer']","[969, 967, 409, 81, 42]"
+sp500,PLD,1d,['hammer'],[14]
+sp500,PLTR,1d,"['hammer', 'engulfing', 'hammer', 'hammer', 'hammer']","[972, 970, 412, 84, 45]"
 sp500,PM,1d,,
-sp500,PNC,1d,"['hammer', 'inverted_hammer']","[10, 3]"
-sp500,PNR,1d,"['hammer', 'engulfing']","[8, 2]"
-sp500,PNW,1d,['inverted_hammer'],[134]
-sp500,PODD,1d,"['hammer', 'engulfing', 'hammer', 'hammer', 'hammer']","[617, 613, 518, 119, 118]"
-sp500,POOL,1d,"['inverted_hammer', 'inverted_hammer']","[436, 87]"
-sp500,PPG,1d,['inverted_hammer'],[240]
+sp500,PNC,1d,"['hammer', 'inverted_hammer']","[13, 6]"
+sp500,PNR,1d,"['hammer', 'engulfing']","[11, 5]"
+sp500,PNW,1d,['inverted_hammer'],[137]
+sp500,PODD,1d,"['hammer', 'engulfing', 'hammer', 'hammer', 'hammer']","[620, 616, 521, 122, 121]"
+sp500,POOL,1d,"['inverted_hammer', 'inverted_hammer']","[439, 90]"
+sp500,PPG,1d,['inverted_hammer'],[243]
 sp500,PPL,1d,,
-sp500,PRU,1d,"['inverted_hammer', 'hammer']","[43, 11]"
+sp500,PRU,1d,"['inverted_hammer', 'hammer']","[46, 14]"
 sp500,PSA,1d,,
-sp500,PSKY,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'engulfing']","[240, 96, 95, 36, 29]"
+sp500,PSKY,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'engulfing']","[243, 99, 98, 39, 32]"
 sp500,PSX,1d,,
-sp500,PTC,1d,"['hammer', 'hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[632, 450, 278, 245, 97]"
-sp500,PWR,1d,"['inverted_hammer', 'hammer', 'hammer', 'engulfing', 'inverted_hammer']","[942, 624, 617, 615, 554]"
-sp500,PYPL,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'engulfing', 'hammer']","[970, 845, 825, 649, 83]"
+sp500,PTC,1d,"['hammer', 'hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[635, 453, 281, 248, 100]"
+sp500,PWR,1d,"['inverted_hammer', 'hammer', 'hammer', 'engulfing', 'inverted_hammer']","[945, 627, 620, 618, 557]"
+sp500,PYPL,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'engulfing', 'hammer']","[973, 848, 828, 652, 86]"
 sp500,Q,1d,,
-sp500,QCOM,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[43, 35, 3]"
-sp500,RCL,1d,"['inverted_hammer', 'hammer', 'hammer']","[1181, 934, 261]"
+sp500,QCOM,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[46, 38, 6]"
+sp500,RCL,1d,"['inverted_hammer', 'hammer', 'hammer']","[1184, 937, 264]"
 sp500,REG,1d,,
-sp500,RF,1d,"['inverted_hammer', 'hammer', 'hammer']","[759, 11, 10]"
-sp500,RJF,1d,['hammer'],[26]
-sp500,RL,1d,['inverted_hammer'],[94]
-sp500,RMD,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[976, 139, 138, 93]"
-sp500,ROK,1d,"['inverted_hammer', 'inverted_hammer']","[662, 408]"
-sp500,ROL,1d,['inverted_hammer'],[636]
-sp500,ROST,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[961, 251, 185]"
-sp500,RSG,1d,,
+sp500,RF,1d,"['inverted_hammer', 'hammer', 'hammer']","[762, 14, 13]"
+sp500,RJF,1d,['hammer'],[29]
+sp500,RL,1d,['inverted_hammer'],[97]
+sp500,RMD,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[979, 142, 141, 96]"
+sp500,ROK,1d,"['inverted_hammer', 'inverted_hammer']","[665, 411]"
+sp500,ROL,1d,['inverted_hammer'],[639]
+sp500,ROST,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[964, 254, 188]"
+sp500,RSG,1d,['inverted_hammer'],[2]
 sp500,RTX,1d,,
-sp500,RVTY,1d,"['inverted_hammer', 'hammer', 'hammer']","[652, 602, 160]"
+sp500,RVTY,1d,"['inverted_hammer', 'hammer', 'hammer']","[655, 605, 163]"
 sp500,SBAC,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[342, 161, 139]"
 sp500,SBUX,1d,,
-sp500,SCHW,1d,"['hammer', 'hammer']","[81, 26]"
-sp500,SHW,1d,"['inverted_hammer', 'hammer', 'engulfing', 'hammer']","[790, 11, 10, 2]"
-sp500,SJM,1d,['inverted_hammer'],[79]
-sp500,SLB,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[240, 125, 12]"
-sp500,SMCI,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[1043, 480, 409, 339, 91]"
+sp500,SCHW,1d,"['hammer', 'hammer']","[84, 29]"
+sp500,SHW,1d,"['inverted_hammer', 'hammer', 'engulfing', 'hammer']","[793, 14, 13, 5]"
+sp500,SJM,1d,['inverted_hammer'],[82]
+sp500,SLB,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[243, 128, 15]"
+sp500,SMCI,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'piercing_line']","[483, 412, 342, 94, 3]"
 sp500,SNA,1d,,
-sp500,SNDK,1d,['hammer'],[236]
-sp500,SNPS,1d,"['inverted_hammer', 'hammer', 'rebound', 'hammer', 'inverted_hammer']","[311, 242, 241, 84, 34]"
+sp500,SNDK,1d,['hammer'],[239]
+sp500,SNPS,1d,"['inverted_hammer', 'hammer', 'rebound', 'hammer', 'inverted_hammer']","[314, 245, 244, 87, 37]"
 sp500,SO,1d,,
-sp500,SOLV,1d,"['hammer', 'hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[122, 95, 33, 10, 7]"
-sp500,SPG,1d,"['inverted_hammer', 'hammer']","[240, 7]"
-sp500,SPGI,1d,"['inverted_hammer', 'inverted_hammer']","[260, 193]"
+sp500,SOLV,1d,"['hammer', 'hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[125, 98, 36, 13, 10]"
+sp500,SPG,1d,"['inverted_hammer', 'hammer']","[243, 10]"
+sp500,SPGI,1d,"['inverted_hammer', 'inverted_hammer']","[263, 196]"
 sp500,SRE,1d,,
-sp500,STE,1d,"['inverted_hammer', 'hammer', 'hammer', 'hammer']","[97, 27, 10, 8]"
-sp500,STLD,1d,['inverted_hammer'],[3]
-sp500,STT,1d,['hammer'],[11]
-sp500,STX,1d,['inverted_hammer'],[408]
-sp500,STZ,1d,"['inverted_hammer', 'inverted_hammer', 'rebound']","[284, 139, 127]"
-sp500,SW,1d,"['inverted_hammer', 'piercing_line', 'inverted_hammer']","[240, 96, 94]"
-sp500,SWK,1d,"['hammer', 'engulfing']","[241, 109]"
-sp500,SWKS,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[719, 281, 37, 7, 3]"
-sp500,SYF,1d,['piercing_line'],[240]
-sp500,SYK,1d,['inverted_hammer'],[2]
-sp500,SYY,1d,['hammer'],[54]
+sp500,STE,1d,"['inverted_hammer', 'hammer', 'hammer', 'hammer']","[100, 30, 13, 11]"
+sp500,STLD,1d,['inverted_hammer'],[6]
+sp500,STT,1d,['hammer'],[14]
+sp500,STX,1d,['inverted_hammer'],[411]
+sp500,STZ,1d,"['inverted_hammer', 'inverted_hammer', 'rebound']","[287, 142, 130]"
+sp500,SW,1d,"['inverted_hammer', 'piercing_line', 'inverted_hammer']","[243, 99, 97]"
+sp500,SWK,1d,"['hammer', 'engulfing']","[244, 112]"
+sp500,SWKS,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[722, 284, 40, 10, 6]"
+sp500,SYF,1d,['piercing_line'],[243]
+sp500,SYK,1d,['inverted_hammer'],[5]
+sp500,SYY,1d,['hammer'],[57]
 sp500,T,1d,,
 sp500,TAP,1d,,
-sp500,TDY,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'engulfing']","[967, 946, 942, 891, 727]"
-sp500,TECH,1d,['piercing_line'],[1052]
+sp500,TDY,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'engulfing']","[970, 949, 945, 894, 730]"
+sp500,TECH,1d,['piercing_line'],[1055]
 sp500,TEL,1d,,
-sp500,TER,1d,"['hammer', 'inverted_hammer', 'engulfing']","[1040, 601, 240]"
-sp500,TFC,1d,"['hammer', 'inverted_hammer', 'inverted_hammer']","[10, 7, 3]"
-sp500,TGT,1d,"['inverted_hammer', 'inverted_hammer']","[240, 83]"
-sp500,TJX,1d,['inverted_hammer'],[1022]
-sp500,TKO,1d,['inverted_hammer'],[513]
-sp500,TMUS,1d,['inverted_hammer'],[240]
-sp500,TPL,1d,"['inverted_hammer', 'rebound', 'hammer', 'hammer']","[192, 156, 79, 66]"
-sp500,TPR,1d,['inverted_hammer'],[241]
+sp500,TER,1d,"['hammer', 'inverted_hammer', 'engulfing']","[1043, 604, 243]"
+sp500,TFC,1d,"['hammer', 'inverted_hammer', 'inverted_hammer']","[13, 10, 6]"
+sp500,TGT,1d,"['inverted_hammer', 'inverted_hammer']","[243, 86]"
+sp500,TJX,1d,['inverted_hammer'],[1025]
+sp500,TKO,1d,['inverted_hammer'],[516]
+sp500,TMUS,1d,['inverted_hammer'],[243]
+sp500,TPL,1d,"['inverted_hammer', 'rebound', 'hammer', 'hammer']","[195, 159, 82, 69]"
+sp500,TPR,1d,['inverted_hammer'],[244]
 sp500,TRGP,1d,,
-sp500,TRMB,1d,"['hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'rebound']","[846, 733, 409, 257, 33]"
-sp500,TROW,1d,"['hammer', 'hammer', 'inverted_hammer']","[32, 25, 3]"
+sp500,TRMB,1d,"['hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'rebound']","[849, 736, 412, 260, 36]"
+sp500,TROW,1d,"['hammer', 'hammer', 'inverted_hammer']","[35, 28, 6]"
 sp500,TRV,1d,,
-sp500,TSCO,1d,['inverted_hammer'],[601]
-sp500,TSLA,1d,"['hammer', 'engulfing', 'inverted_hammer', 'engulfing', 'hammer']","[622, 532, 279, 266, 257]"
+sp500,TSCO,1d,['inverted_hammer'],[604]
+sp500,TSLA,1d,"['hammer', 'engulfing', 'inverted_hammer', 'engulfing', 'hammer']","[625, 535, 282, 269, 260]"
 sp500,TSN,1d,,
-sp500,TT,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[408, 287, 241, 71, 10]"
-sp500,TTD,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'rebound']","[66, 36, 34, 31, 3]"
-sp500,TTWO,1d,"['hammer', 'piercing_line', 'hammer', 'hammer', 'engulfing']","[657, 654, 599, 513, 90]"
+sp500,TT,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[411, 290, 244, 74, 13]"
+sp500,TTD,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'rebound']","[69, 39, 37, 34, 6]"
+sp500,TTWO,1d,"['hammer', 'piercing_line', 'hammer', 'hammer', 'engulfing']","[660, 657, 602, 516, 93]"
 sp500,TXN,1d,,
-sp500,TXT,1d,"['engulfing', 'engulfing', 'hammer', 'hammer', 'inverted_hammer']","[476, 311, 271, 162, 7]"
-sp500,TYL,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[890, 657, 441, 227, 143]"
-sp500,UAL,1d,"['hammer', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[245, 241, 193, 36, 12]"
-sp500,UBER,1d,"['hammer', 'inverted_hammer', 'hammer', 'engulfing', 'hammer']","[478, 474, 409, 314, 62]"
+sp500,TXT,1d,"['engulfing', 'engulfing', 'hammer', 'hammer', 'inverted_hammer']","[479, 314, 274, 165, 10]"
+sp500,TYL,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[893, 660, 444, 230, 146]"
+sp500,UAL,1d,"['hammer', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[248, 244, 196, 39, 15]"
+sp500,UBER,1d,"['hammer', 'inverted_hammer', 'hammer', 'engulfing', 'hammer']","[481, 477, 412, 317, 65]"
 sp500,UDR,1d,,
-sp500,UHS,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[979, 315, 69, 12, 10]"
-sp500,ULTA,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[454, 335, 331, 330, 103]"
-sp500,UNP,1d,['hammer'],[2]
-sp500,UPS,1d,"['hammer', 'hammer']","[11, 10]"
-sp500,USB,1d,"['hammer', 'inverted_hammer']","[10, 7]"
+sp500,UHS,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[982, 318, 72, 15, 13]"
+sp500,ULTA,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[338, 334, 333, 106, 2]"
+sp500,UNP,1d,['hammer'],[5]
+sp500,UPS,1d,"['hammer', 'hammer']","[14, 13]"
+sp500,USB,1d,"['hammer', 'inverted_hammer']","[13, 10]"
 sp500,V,1d,,
 sp500,VICI,1d,,
-sp500,VLO,1d,['hammer'],[66]
+sp500,VLO,1d,['hammer'],[69]
 sp500,VLTO,1d,,
-sp500,VMC,1d,"['hammer', 'hammer', 'hammer']","[266, 264, 10]"
-sp500,VRSK,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'piercing_line']","[973, 128, 125, 27]"
+sp500,VMC,1d,"['hammer', 'hammer', 'hammer']","[269, 267, 13]"
+sp500,VRSK,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'piercing_line']","[976, 131, 128, 30]"
 sp500,VRSN,1d,,
-sp500,VRTX,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'piercing_line']","[1199, 971, 488, 332, 154]"
-sp500,VST,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[344, 269, 261, 103, 81]"
+sp500,VRTX,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'piercing_line']","[1202, 974, 491, 335, 157]"
+sp500,VST,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[347, 272, 264, 106, 84]"
 sp500,VTR,1d,,
-sp500,VTRS,1d,['inverted_hammer'],[8]
-sp500,VZ,1d,['inverted_hammer'],[103]
-sp500,WAB,1d,"['hammer', 'engulfing']","[264, 10]"
-sp500,WAT,1d,"['hammer', 'inverted_hammer', 'piercing_line', 'engulfing', 'engulfing']","[992, 439, 274, 27, 23]"
-sp500,WBD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[844, 842, 722, 299, 32]"
-sp500,WDAY,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'engulfing', 'hammer']","[846, 245, 87, 32, 16]"
-sp500,WDC,1d,"['inverted_hammer', 'hammer', 'engulfing', 'hammer', 'hammer']","[816, 812, 756, 260, 245]"
+sp500,VTRS,1d,['inverted_hammer'],[11]
+sp500,VZ,1d,['inverted_hammer'],[106]
+sp500,WAB,1d,"['hammer', 'engulfing']","[267, 13]"
+sp500,WAT,1d,"['hammer', 'inverted_hammer', 'piercing_line', 'engulfing', 'engulfing']","[995, 442, 277, 30, 26]"
+sp500,WBD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[847, 845, 725, 302, 35]"
+sp500,WDAY,1d,"['hammer', 'inverted_hammer', 'engulfing', 'hammer', 'rebound']","[248, 90, 35, 19, 1]"
+sp500,WDC,1d,"['inverted_hammer', 'hammer', 'engulfing', 'hammer', 'hammer']","[819, 815, 759, 263, 248]"
 sp500,WEC,1d,,
 sp500,WELL,1d,,
-sp500,WFC,1d,"['inverted_hammer', 'hammer']","[43, 7]"
+sp500,WFC,1d,"['inverted_hammer', 'hammer']","[46, 10]"
 sp500,WM,1d,,
 sp500,WMB,1d,,
-sp500,WMT,1d,['hammer'],[143]
-sp500,WRB,1d,['inverted_hammer'],[1]
-sp500,WSM,1d,"['inverted_hammer', 'hammer', 'hammer', 'hammer']","[408, 253, 11, 8]"
-sp500,WST,1d,"['inverted_hammer', 'rebound', 'hammer', 'hammer']","[1047, 851, 362, 82]"
-sp500,WTW,1d,"['hammer', 'inverted_hammer', 'engulfing']","[227, 96, 95]"
-sp500,WY,1d,['hammer'],[11]
-sp500,WYNN,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[857, 408, 299, 297, 240]"
+sp500,WMT,1d,['hammer'],[146]
+sp500,WRB,1d,['inverted_hammer'],[4]
+sp500,WSM,1d,"['inverted_hammer', 'hammer', 'hammer', 'hammer']","[411, 256, 14, 11]"
+sp500,WST,1d,"['inverted_hammer', 'rebound', 'hammer', 'hammer']","[1050, 854, 365, 85]"
+sp500,WTW,1d,"['hammer', 'inverted_hammer', 'engulfing']","[230, 99, 98]"
+sp500,WY,1d,['hammer'],[14]
+sp500,WYNN,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[860, 411, 302, 300, 243]"
 sp500,XEL,1d,,
-sp500,XOM,1d,['inverted_hammer'],[240]
-sp500,XYL,1d,['hammer'],[84]
-sp500,XYZ,1d,"['hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer']","[452, 414, 240, 86, 84]"
-sp500,YUM,1d,['inverted_hammer'],[240]
-sp500,ZBH,1d,"['inverted_hammer', 'hammer']","[662, 90]"
-sp500,ZBRA,1d,"['hammer', 'engulfing', 'rebound', 'rebound', 'hammer']","[275, 274, 257, 242, 241]"
-sp500,ZTS,1d,['hammer'],[91]
-sp500,A,1w,"['hammer', 'engulfing', 'inverted_hammer']","[55, 48, 2]"
-sp500,AAPL,1w,['inverted_hammer'],[197]
+sp500,XOM,1d,['inverted_hammer'],[243]
+sp500,XYL,1d,['hammer'],[87]
+sp500,XYZ,1d,"['hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer']","[455, 417, 243, 89, 87]"
+sp500,YUM,1d,['inverted_hammer'],[243]
+sp500,ZBH,1d,"['inverted_hammer', 'hammer']","[665, 93]"
+sp500,ZBRA,1d,"['hammer', 'engulfing', 'rebound', 'rebound', 'hammer']","[278, 277, 260, 245, 244]"
+sp500,ZTS,1d,['hammer'],[94]
+sp500,A,1w,"['hammer', 'engulfing', 'inverted_hammer']","[56, 49, 3]"
+sp500,AAPL,1w,['inverted_hammer'],[198]
 sp500,ABBV,1w,,
-sp500,ABNB,1w,"['hammer', 'hammer']","[217, 197]"
-sp500,ABT,1w,['inverted_hammer'],[2]
+sp500,ABNB,1w,"['hammer', 'hammer']","[218, 198]"
+sp500,ABT,1w,['inverted_hammer'],[3]
 sp500,ACGL,1w,,
-sp500,ACN,1w,"['hammer', 'engulfing']","[4, 3]"
+sp500,ACN,1w,"['hammer', 'engulfing']","[5, 4]"
 sp500,ADI,1w,,
 sp500,ADM,1w,,
 sp500,ADP,1w,,
-sp500,ADSK,1w,"['hammer', 'hammer']","[99, 54]"
+sp500,ADSK,1w,"['hammer', 'hammer']","[100, 55]"
 sp500,AEE,1w,,
 sp500,AEP,1w,,
 sp500,AES,1w,,
@@ -496,28 +496,28 @@ sp500,AFL,1w,,
 sp500,AIG,1w,,
 sp500,AIZ,1w,,
 sp500,AJG,1w,,
-sp500,AKAM,1w,"['inverted_hammer', 'hammer']","[233, 95]"
-sp500,ALB,1w,"['inverted_hammer', 'hammer', 'hammer']","[85, 84, 55]"
-sp500,ALGN,1w,"['hammer', 'engulfing', 'hammer', 'engulfing']","[202, 123, 54, 50]"
+sp500,AKAM,1w,"['inverted_hammer', 'hammer']","[234, 96]"
+sp500,ALB,1w,"['inverted_hammer', 'hammer', 'hammer']","[86, 85, 56]"
+sp500,ALGN,1w,"['hammer', 'engulfing', 'hammer', 'engulfing']","[203, 124, 55, 51]"
 sp500,ALL,1w,,
 sp500,ALLE,1w,,
-sp500,AMAT,1w,['hammer'],[54]
+sp500,AMAT,1w,['hammer'],[55]
 sp500,AMCR,1w,,
 sp500,AMD,1w,,
 sp500,AME,1w,,
 sp500,AMGN,1w,,
-sp500,AMP,1w,['hammer'],[18]
+sp500,AMP,1w,['hammer'],[19]
 sp500,AMT,1w,,
-sp500,AMZN,1w,"['hammer', 'hammer']","[202, 170]"
-sp500,ANET,1w,"['hammer', 'hammer', 'piercing_line']","[202, 54, 50]"
-sp500,AON,1w,['inverted_hammer'],[99]
+sp500,AMZN,1w,"['hammer', 'hammer']","[203, 171]"
+sp500,ANET,1w,"['hammer', 'hammer', 'piercing_line']","[203, 55, 51]"
+sp500,AON,1w,['inverted_hammer'],[100]
 sp500,AOS,1w,,
 sp500,APA,1w,,
-sp500,APD,1w,['inverted_hammer'],[14]
+sp500,APD,1w,['inverted_hammer'],[15]
 sp500,APH,1w,,
 sp500,APO,1w,,
-sp500,APP,1w,['hammer'],[176]
-sp500,APTV,1w,"['hammer', 'hammer', 'engulfing', 'hammer']","[211, 202, 123, 70]"
+sp500,APP,1w,['hammer'],[177]
+sp500,APTV,1w,"['hammer', 'hammer', 'engulfing', 'hammer']","[212, 203, 124, 71]"
 sp500,ARE,1w,,
 sp500,ARES,1w,,
 sp500,ATO,1w,,
@@ -525,94 +525,94 @@ sp500,AVB,1w,,
 sp500,AVGO,1w,,
 sp500,AVY,1w,,
 sp500,AWK,1w,,
-sp500,AXON,1w,"['inverted_hammer', 'hammer']","[219, 202]"
-sp500,AXP,1w,"['hammer', 'inverted_hammer']","[54, 2]"
-sp500,BA,1w,"['hammer', 'piercing_line']","[129, 105]"
+sp500,AXON,1w,"['inverted_hammer', 'hammer']","[220, 203]"
+sp500,AXP,1w,"['hammer', 'inverted_hammer']","[55, 3]"
+sp500,BA,1w,"['hammer', 'piercing_line']","[130, 106]"
 sp500,BAC,1w,,
 sp500,BALL,1w,,
-sp500,BAX,1w,"['hammer', 'engulfing']","[20, 19]"
+sp500,BAX,1w,"['hammer', 'engulfing']","[21, 20]"
 sp500,BBY,1w,,
 sp500,BDX,1w,,
 sp500,BEN,1w,,
 sp500,BG,1w,,
-sp500,BIIB,1w,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[104, 101, 78, 66, 58]"
+sp500,BIIB,1w,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[105, 102, 79, 67, 59]"
 sp500,BK,1w,,
 sp500,BKR,1w,,
-sp500,BLDR,1w,"['hammer', 'hammer', 'hammer', 'inverted_hammer']","[55, 46, 18, 2]"
+sp500,BLDR,1w,"['hammer', 'hammer', 'hammer', 'inverted_hammer']","[56, 47, 19, 3]"
 sp500,BMY,1w,,
-sp500,BR,1w,['inverted_hammer'],[1]
-sp500,BRO,1w,"['hammer', 'hammer']","[202, 20]"
-sp500,BSX,1w,"['hammer', 'engulfing']","[202, 4]"
+sp500,BR,1w,['inverted_hammer'],[2]
+sp500,BRO,1w,"['hammer', 'hammer']","[203, 21]"
+sp500,BSX,1w,"['hammer', 'engulfing']","[203, 5]"
 sp500,BX,1w,,
 sp500,BXP,1w,,
 sp500,C,1w,,
 sp500,CAG,1w,,
 sp500,CAH,1w,,
-sp500,CARR,1w,['inverted_hammer'],[59]
+sp500,CARR,1w,['inverted_hammer'],[60]
 sp500,CAT,1w,,
 sp500,CB,1w,,
 sp500,CBOE,1w,,
-sp500,CBRE,1w,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[211, 205, 204, 202]"
+sp500,CBRE,1w,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[212, 206, 205, 203]"
 sp500,CCI,1w,,
-sp500,CCL,1w,"['hammer', 'hammer', 'hammer', 'inverted_hammer']","[202, 191, 54, 2]"
-sp500,CDNS,1w,"['engulfing', 'hammer']","[216, 7]"
+sp500,CCL,1w,"['hammer', 'hammer', 'hammer', 'inverted_hammer']","[203, 192, 55, 3]"
+sp500,CDNS,1w,"['engulfing', 'hammer']","[217, 8]"
 sp500,CDW,1w,,
-sp500,CEG,1w,['inverted_hammer'],[8]
+sp500,CEG,1w,['inverted_hammer'],[9]
 sp500,CF,1w,,
 sp500,CFG,1w,,
 sp500,CHD,1w,,
 sp500,CHRW,1w,,
-sp500,CHTR,1w,"['hammer', 'engulfing', 'hammer']","[107, 28, 21]"
+sp500,CHTR,1w,"['hammer', 'engulfing', 'hammer']","[108, 29, 22]"
 sp500,CI,1w,,
 sp500,CINF,1w,,
-sp500,CL,1w,['hammer'],[21]
+sp500,CL,1w,['hammer'],[22]
 sp500,CLX,1w,,
-sp500,CMCSA,1w,['hammer'],[18]
+sp500,CMCSA,1w,['hammer'],[19]
 sp500,CME,1w,,
 sp500,CMG,1w,,
 sp500,CMI,1w,,
 sp500,CMS,1w,,
-sp500,CNC,1w,['engulfing'],[32]
+sp500,CNC,1w,['engulfing'],[33]
 sp500,CNP,1w,,
 sp500,COF,1w,,
-sp500,COIN,1w,"['engulfing', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'engulfing']","[200, 197, 194, 171, 50]"
-sp500,COO,1w,"['hammer', 'hammer']","[202, 129]"
+sp500,COIN,1w,"['engulfing', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'engulfing']","[201, 198, 195, 172, 51]"
+sp500,COO,1w,"['hammer', 'hammer']","[203, 130]"
 sp500,COP,1w,,
 sp500,COR,1w,,
 sp500,CPAY,1w,,
-sp500,CPB,1w,['hammer'],[37]
-sp500,CPRT,1w,"['hammer', 'inverted_hammer']","[211, 16]"
+sp500,CPB,1w,['hammer'],[38]
+sp500,CPRT,1w,"['hammer', 'inverted_hammer']","[212, 17]"
 sp500,CPT,1w,,
 sp500,CRH,1w,,
-sp500,CRL,1w,"['hammer', 'hammer', 'inverted_hammer']","[213, 202, 59]"
-sp500,CRM,1w,"['hammer', 'piercing_line', 'engulfing']","[213, 50, 4]"
-sp500,CRWD,1w,"['inverted_hammer', 'inverted_hammer', 'hammer', 'piercing_line', 'hammer']","[219, 218, 202, 85, 4]"
+sp500,CRL,1w,"['hammer', 'hammer', 'inverted_hammer']","[214, 203, 60]"
+sp500,CRM,1w,"['hammer', 'piercing_line', 'engulfing']","[214, 51, 5]"
+sp500,CRWD,1w,"['inverted_hammer', 'inverted_hammer', 'hammer', 'piercing_line', 'hammer']","[220, 219, 203, 86, 5]"
 sp500,CSCO,1w,,
-sp500,CSGP,1w,"['hammer', 'inverted_hammer', 'hammer', 'engulfing', 'engulfing']","[211, 93, 92, 19, 5]"
+sp500,CSGP,1w,"['hammer', 'inverted_hammer', 'hammer', 'engulfing', 'engulfing']","[212, 94, 93, 20, 6]"
 sp500,CSX,1w,,
 sp500,CTAS,1w,,
 sp500,CTRA,1w,,
-sp500,CTSH,1w,['hammer'],[4]
-sp500,CTVA,1w,['inverted_hammer'],[126]
-sp500,CVNA,1w,"['piercing_line', 'inverted_hammer', 'hammer', 'hammer']","[217, 207, 202, 200]"
+sp500,CTSH,1w,['hammer'],[5]
+sp500,CTVA,1w,['inverted_hammer'],[127]
+sp500,CVNA,1w,"['piercing_line', 'inverted_hammer', 'hammer', 'hammer']","[218, 208, 203, 201]"
 sp500,CVS,1w,,
 sp500,CVX,1w,,
 sp500,D,1w,,
-sp500,DAL,1w,['inverted_hammer'],[85]
-sp500,DASH,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer']","[223, 215, 213, 211]"
+sp500,DAL,1w,['inverted_hammer'],[86]
+sp500,DASH,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer']","[224, 216, 214, 212]"
 sp500,DAY,1w,"['engulfing', 'engulfing', 'inverted_hammer', 'hammer, engulfing']","[210, 207, 198, 196]"
 sp500,DD,1w,,
-sp500,DDOG,1w,"['hammer', 'hammer']","[202, 56]"
+sp500,DDOG,1w,"['hammer', 'hammer']","[203, 57]"
 sp500,DE,1w,,
-sp500,DECK,1w,"['inverted_hammer', 'hammer']","[214, 202]"
+sp500,DECK,1w,"['inverted_hammer', 'hammer']","[215, 203]"
 sp500,DELL,1w,,
 sp500,DG,1w,,
 sp500,DGX,1w,,
 sp500,DHI,1w,,
-sp500,DHR,1w,['hammer'],[58]
-sp500,DIS,1w,['inverted_hammer'],[85]
+sp500,DHR,1w,['hammer'],[59]
+sp500,DIS,1w,['inverted_hammer'],[86]
 sp500,DLR,1w,,
-sp500,DLTR,1w,"['hammer', 'hammer', 'hammer']","[236, 129, 73]"
+sp500,DLTR,1w,"['hammer', 'hammer', 'hammer']","[237, 130, 74]"
 sp500,DOC,1w,,
 sp500,DOV,1w,,
 sp500,DOW,1w,,
@@ -620,14 +620,14 @@ sp500,DPZ,1w,,
 sp500,DRI,1w,,
 sp500,DTE,1w,,
 sp500,DUK,1w,,
-sp500,DVA,1w,"['hammer', 'inverted_hammer']","[225, 202]"
+sp500,DVA,1w,"['hammer', 'inverted_hammer']","[226, 203]"
 sp500,DVN,1w,,
-sp500,DXCM,1w,"['inverted_hammer', 'hammer', 'piercing_line', 'hammer']","[219, 202, 130, 91]"
+sp500,DXCM,1w,"['inverted_hammer', 'hammer', 'piercing_line', 'hammer']","[220, 203, 131, 92]"
 sp500,EA,1w,,
 sp500,EBAY,1w,,
 sp500,ECL,1w,,
 sp500,ED,1w,,
-sp500,EFX,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[127, 24, 23, 20, 7]"
+sp500,EFX,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[128, 25, 24, 21, 8]"
 sp500,EG,1w,,
 sp500,EIX,1w,,
 sp500,EL,1w,,
@@ -635,42 +635,42 @@ sp500,ELV,1w,,
 sp500,EME,1w,,
 sp500,EMR,1w,,
 sp500,EOG,1w,,
-sp500,EPAM,1w,"['hammer', 'hammer', 'engulfing', 'hammer', 'hammer']","[211, 146, 145, 95, 92]"
+sp500,EPAM,1w,"['hammer', 'hammer', 'engulfing', 'hammer', 'hammer']","[212, 147, 146, 96, 93]"
 sp500,EQR,1w,,
 sp500,EQT,1w,,
-sp500,ERIE,1w,['hammer'],[4]
+sp500,ERIE,1w,['hammer'],[5]
 sp500,ES,1w,,
 sp500,ESS,1w,,
 sp500,ETN,1w,,
 sp500,ETR,1w,,
 sp500,EVRG,1w,,
-sp500,EW,1w,"['inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[177, 135, 132, 130, 85]"
+sp500,EW,1w,"['inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[178, 136, 133, 131, 86]"
 sp500,EXC,1w,,
 sp500,EXE,1w,,
 sp500,EXPD,1w,,
-sp500,EXPE,1w,['hammer'],[5]
+sp500,EXPE,1w,['hammer'],[6]
 sp500,EXR,1w,,
 sp500,F,1w,,
 sp500,FANG,1w,,
 sp500,FAST,1w,,
 sp500,FCX,1w,,
-sp500,FDS,1w,"['hammer', 'hammer', 'engulfing']","[20, 5, 4]"
+sp500,FDS,1w,"['hammer', 'hammer', 'engulfing']","[21, 6, 5]"
 sp500,FDX,1w,,
 sp500,FE,1w,,
-sp500,FFIV,1w,['hammer'],[180]
+sp500,FFIV,1w,['hammer'],[181]
 sp500,FIS,1w,,
-sp500,FISV,1w,"['hammer', 'hammer']","[226, 43]"
+sp500,FISV,1w,"['hammer', 'hammer']","[227, 44]"
 sp500,FITB,1w,,
 sp500,FIX,1w,,
 sp500,FOX,1w,,
-sp500,FOXA,1w,['hammer'],[4]
+sp500,FOXA,1w,['hammer'],[5]
 sp500,FRT,1w,,
-sp500,FSLR,1w,"['inverted_hammer', 'hammer']","[128, 55]"
+sp500,FSLR,1w,"['inverted_hammer', 'hammer']","[129, 56]"
 sp500,FTNT,1w,,
 sp500,FTV,1w,,
 sp500,GD,1w,,
-sp500,GDDY,1w,"['hammer', 'hammer', 'engulfing']","[240, 7, 3]"
-sp500,GE,1w,['hammer'],[196]
+sp500,GDDY,1w,"['hammer', 'hammer', 'engulfing']","[241, 8, 4]"
+sp500,GE,1w,['hammer'],[197]
 sp500,GEHC,1w,,
 sp500,GEN,1w,,
 sp500,GEV,1w,,
@@ -679,12 +679,12 @@ sp500,GIS,1w,,
 sp500,GL,1w,,
 sp500,GLW,1w,,
 sp500,GM,1w,,
-sp500,GNRC,1w,['inverted_hammer'],[205]
-sp500,GOOG,1w,['hammer'],[54]
-sp500,GOOGL,1w,"['hammer', 'hammer']","[54, 53]"
+sp500,GNRC,1w,['inverted_hammer'],[206]
+sp500,GOOG,1w,['hammer'],[55]
+sp500,GOOGL,1w,"['hammer', 'hammer']","[55, 54]"
 sp500,GPC,1w,,
 sp500,GPN,1w,,
-sp500,GRMN,1w,['hammer'],[18]
+sp500,GRMN,1w,['hammer'],[19]
 sp500,GS,1w,,
 sp500,HAL,1w,,
 sp500,HAS,1w,,
@@ -694,35 +694,35 @@ sp500,HD,1w,,
 sp500,HIG,1w,,
 sp500,HII,1w,,
 sp500,HLT,1w,,
-sp500,HOLX,1w,"['hammer', 'hammer, engulfing']","[129, 55]"
+sp500,HOLX,1w,"['hammer', 'hammer, engulfing']","[130, 56]"
 sp500,HON,1w,,
-sp500,HOOD,1w,"['hammer', 'inverted_hammer', 'hammer']","[221, 219, 213]"
-sp500,HPE,1w,['hammer'],[54]
-sp500,HPQ,1w,['hammer'],[11]
+sp500,HOOD,1w,"['hammer', 'inverted_hammer', 'hammer']","[222, 220, 214]"
+sp500,HPE,1w,['hammer'],[55]
+sp500,HPQ,1w,['hammer'],[12]
 sp500,HRL,1w,,
 sp500,HSIC,1w,,
 sp500,HST,1w,,
 sp500,HSY,1w,,
 sp500,HUBB,1w,,
-sp500,HUM,1w,['hammer'],[6]
+sp500,HUM,1w,['hammer'],[7]
 sp500,HWM,1w,,
 sp500,IBKR,1w,,
 sp500,IBM,1w,,
 sp500,ICE,1w,,
 sp500,IEX,1w,,
 sp500,IFF,1w,,
-sp500,INCY,1w,"['hammer', 'hammer', 'hammer']","[232, 147, 100]"
-sp500,INTC,1w,['engulfing'],[82]
+sp500,INCY,1w,"['hammer', 'hammer', 'hammer']","[233, 148, 101]"
+sp500,INTC,1w,['engulfing'],[83]
 sp500,INVH,1w,,
-sp500,IP,1w,['hammer'],[20]
-sp500,IQV,1w,"['hammer', 'engulfing']","[180, 48]"
+sp500,IP,1w,['hammer'],[21]
+sp500,IQV,1w,"['hammer', 'engulfing']","[181, 49]"
 sp500,IR,1w,,
 sp500,IRM,1w,,
-sp500,ISRG,1w,"['hammer', 'hammer', 'hammer']","[217, 202, 127]"
-sp500,IT,1w,"['hammer', 'piercing_line', 'hammer', 'engulfing']","[202, 50, 25, 4]"
+sp500,ISRG,1w,"['hammer', 'hammer', 'hammer']","[218, 203, 128]"
+sp500,IT,1w,"['hammer', 'piercing_line', 'hammer', 'engulfing']","[203, 51, 26, 5]"
 sp500,ITW,1w,,
 sp500,IVZ,1w,,
-sp500,J,1w,['piercing_line'],[50]
+sp500,J,1w,['piercing_line'],[51]
 sp500,JBHT,1w,,
 sp500,JBL,1w,,
 sp500,JCI,1w,,
@@ -731,7 +731,7 @@ sp500,JNJ,1w,,
 sp500,JPM,1w,,
 sp500,KDP,1w,,
 sp500,KEY,1w,,
-sp500,KEYS,1w,"['hammer', 'hammer']","[202, 152]"
+sp500,KEYS,1w,"['hammer', 'hammer']","[203, 153]"
 sp500,KHC,1w,,
 sp500,KIM,1w,,
 sp500,KKR,1w,,
@@ -751,10 +751,10 @@ sp500,LMT,1w,,
 sp500,LNT,1w,,
 sp500,LOW,1w,,
 sp500,LRCX,1w,,
-sp500,LULU,1w,"['inverted_hammer', 'engulfing']","[219, 32]"
+sp500,LULU,1w,"['inverted_hammer', 'engulfing']","[220, 33]"
 sp500,LUV,1w,,
 sp500,LVS,1w,,
-sp500,LW,1w,"['hammer', 'engulfing']","[11, 10]"
+sp500,LW,1w,"['hammer', 'engulfing']","[12, 11]"
 sp500,LYB,1w,,
 sp500,LYV,1w,,
 sp500,MA,1w,,
@@ -764,112 +764,112 @@ sp500,MAS,1w,,
 sp500,MCD,1w,,
 sp500,MCHP,1w,,
 sp500,MCK,1w,,
-sp500,MCO,1w,['inverted_hammer'],[203]
-sp500,MDLZ,1w,"['hammer', 'hammer']","[20, 18]"
+sp500,MCO,1w,['inverted_hammer'],[204]
+sp500,MDLZ,1w,"['hammer', 'hammer']","[21, 19]"
 sp500,MDT,1w,,
 sp500,MET,1w,,
-sp500,META,1w,['hammer'],[213]
-sp500,MGM,1w,"['hammer', 'hammer']","[202, 129]"
+sp500,META,1w,['hammer'],[214]
+sp500,MGM,1w,"['hammer', 'hammer']","[203, 130]"
 sp500,MKC,1w,,
-sp500,MLM,1w,['inverted_hammer'],[51]
+sp500,MLM,1w,['inverted_hammer'],[52]
 sp500,MMC,1w,,
 sp500,MMM,1w,,
-sp500,MNST,1w,"['inverted_hammer', 'hammer']","[231, 95]"
+sp500,MNST,1w,"['inverted_hammer', 'hammer']","[232, 96]"
 sp500,MO,1w,,
-sp500,MOH,1w,"['hammer', 'hammer']","[167, 29]"
+sp500,MOH,1w,"['hammer', 'hammer']","[168, 30]"
 sp500,MOS,1w,,
 sp500,MPC,1w,,
 sp500,MRK,1w,,
-sp500,MRNA,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer']","[125, 79, 76, 58]"
-sp500,MS,1w,"['hammer', 'inverted_hammer']","[54, 2]"
-sp500,MSFT,1w,['inverted_hammer'],[197]
+sp500,MRNA,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer']","[126, 80, 77, 59]"
+sp500,MS,1w,"['hammer', 'inverted_hammer']","[55, 3]"
+sp500,MSFT,1w,['inverted_hammer'],[198]
 sp500,MSI,1w,,
 sp500,MTB,1w,,
 sp500,MTCH,1w,,
 sp500,MU,1w,,
-sp500,NCLH,1w,"['hammer', 'hammer', 'engulfing']","[197, 54, 48]"
+sp500,NCLH,1w,"['hammer', 'hammer', 'engulfing']","[198, 55, 49]"
 sp500,NDAQ,1w,,
 sp500,NDSN,1w,,
 sp500,NEE,1w,,
 sp500,NEM,1w,,
-sp500,NFLX,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer']","[219, 214, 202, 9]"
+sp500,NFLX,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer']","[220, 215, 203, 10]"
 sp500,NI,1w,,
-sp500,NKE,1w,"['inverted_hammer', 'inverted_hammer']","[50, 2]"
+sp500,NKE,1w,"['inverted_hammer', 'inverted_hammer']","[51, 3]"
 sp500,NOC,1w,,
-sp500,NOW,1w,"['inverted_hammer', 'hammer', 'hammer', 'engulfing']","[218, 202, 54, 50]"
+sp500,NOW,1w,"['inverted_hammer', 'hammer', 'hammer', 'engulfing']","[219, 203, 55, 51]"
 sp500,NRG,1w,,
 sp500,NSC,1w,,
-sp500,NTAP,1w,"['piercing_line', 'hammer']","[50, 9]"
+sp500,NTAP,1w,"['piercing_line', 'hammer']","[51, 10]"
 sp500,NTRS,1w,,
-sp500,NUE,1w,['inverted_hammer'],[85]
-sp500,NVDA,1w,"['inverted_hammer', 'hammer', 'inverted_hammer']","[204, 202, 183]"
+sp500,NUE,1w,['inverted_hammer'],[86]
+sp500,NVDA,1w,"['inverted_hammer', 'hammer', 'inverted_hammer']","[205, 203, 184]"
 sp500,NWS,1w,,
-sp500,NWSA,1w,"['hammer', 'hammer']","[200, 18]"
-sp500,NXPI,1w,['hammer'],[18]
+sp500,NWSA,1w,"['hammer', 'hammer']","[201, 19]"
+sp500,NXPI,1w,['hammer'],[19]
 sp500,O,1w,,
-sp500,ODFL,1w,['inverted_hammer'],[48]
+sp500,ODFL,1w,['inverted_hammer'],[49]
 sp500,OKE,1w,,
 sp500,OMC,1w,,
-sp500,ON,1w,"['engulfing', 'hammer']","[123, 58]"
+sp500,ON,1w,"['engulfing', 'hammer']","[124, 59]"
 sp500,ORCL,1w,,
 sp500,ORLY,1w,,
 sp500,OTIS,1w,,
 sp500,OXY,1w,,
 sp500,PANW,1w,,
-sp500,PAYC,1w,"['hammer', 'engulfing']","[7, 4]"
-sp500,PAYX,1w,['hammer'],[4]
+sp500,PAYC,1w,"['hammer', 'engulfing']","[8, 5]"
+sp500,PAYX,1w,['hammer'],[5]
 sp500,PCAR,1w,,
 sp500,PCG,1w,,
 sp500,PEG,1w,,
 sp500,PEP,1w,,
 sp500,PFE,1w,,
 sp500,PFG,1w,,
-sp500,PG,1w,['hammer'],[15]
+sp500,PG,1w,['hammer'],[16]
 sp500,PGR,1w,,
 sp500,PH,1w,,
 sp500,PHM,1w,,
 sp500,PKG,1w,,
-sp500,PLD,1w,['hammer'],[50]
-sp500,PLTR,1w,"['hammer', 'hammer']","[213, 202]"
+sp500,PLD,1w,['hammer'],[51]
+sp500,PLTR,1w,"['hammer', 'hammer']","[214, 203]"
 sp500,PM,1w,,
 sp500,PNC,1w,,
 sp500,PNR,1w,,
 sp500,PNW,1w,,
 sp500,PODD,1w,,
-sp500,POOL,1w,"['hammer', 'engulfing']","[18, 17]"
+sp500,POOL,1w,"['hammer', 'engulfing']","[19, 18]"
 sp500,PPG,1w,,
 sp500,PPL,1w,,
 sp500,PRU,1w,,
 sp500,PSA,1w,,
-sp500,PSKY,1w,"['inverted_hammer', 'hammer']","[6, 1]"
+sp500,PSKY,1w,"['inverted_hammer', 'hammer']","[7, 2]"
 sp500,PSX,1w,,
 sp500,PTC,1w,,
 sp500,PWR,1w,,
-sp500,PYPL,1w,"['hammer', 'hammer', 'piercing_line']","[211, 55, 50]"
+sp500,PYPL,1w,"['hammer', 'hammer', 'piercing_line']","[212, 56, 51]"
 sp500,Q,1w,,
 sp500,QCOM,1w,,
 sp500,RCL,1w,,
 sp500,REG,1w,,
-sp500,RF,1w,['inverted_hammer'],[158]
+sp500,RF,1w,['inverted_hammer'],[159]
 sp500,RJF,1w,,
 sp500,RL,1w,,
 sp500,RMD,1w,,
-sp500,ROK,1w,['inverted_hammer'],[2]
+sp500,ROK,1w,['inverted_hammer'],[3]
 sp500,ROL,1w,,
 sp500,ROST,1w,,
-sp500,RSG,1w,['engulfing'],[19]
+sp500,RSG,1w,['engulfing'],[20]
 sp500,RTX,1w,,
-sp500,RVTY,1w,['hammer'],[180]
+sp500,RVTY,1w,['hammer'],[181]
 sp500,SBAC,1w,['hammer'],[28]
 sp500,SBUX,1w,,
 sp500,SCHW,1w,,
 sp500,SHW,1w,,
 sp500,SJM,1w,,
-sp500,SLB,1w,['hammer'],[47]
+sp500,SLB,1w,['hammer'],[48]
 sp500,SMCI,1w,,
 sp500,SNA,1w,,
 sp500,SNDK,1w,,
-sp500,SNPS,1w,"['inverted_hammer', 'hammer', 'hammer']","[214, 55, 54]"
+sp500,SNPS,1w,"['inverted_hammer', 'hammer', 'hammer']","[215, 56, 55]"
 sp500,SO,1w,,
 sp500,SOLV,1w,,
 sp500,SPG,1w,,
@@ -879,44 +879,44 @@ sp500,STE,1w,,
 sp500,STLD,1w,,
 sp500,STT,1w,,
 sp500,STX,1w,,
-sp500,STZ,1w,"['inverted_hammer', 'inverted_hammer']","[59, 29]"
-sp500,SW,1w,['hammer'],[18]
+sp500,STZ,1w,"['inverted_hammer', 'inverted_hammer']","[60, 30]"
+sp500,SW,1w,['hammer'],[19]
 sp500,SWK,1w,,
 sp500,SWKS,1w,,
-sp500,SYF,1w,['inverted_hammer'],[2]
+sp500,SYF,1w,['inverted_hammer'],[3]
 sp500,SYK,1w,,
 sp500,SYY,1w,,
-sp500,T,1w,['hammer'],[10]
+sp500,T,1w,['hammer'],[11]
 sp500,TAP,1w,,
-sp500,TDY,1w,"['hammer', 'inverted_hammer', 'hammer']","[202, 138, 18]"
-sp500,TECH,1w,"['hammer', 'hammer', 'piercing_line', 'inverted_hammer']","[202, 125, 48, 2]"
+sp500,TDY,1w,"['hammer', 'inverted_hammer', 'hammer']","[203, 139, 19]"
+sp500,TECH,1w,"['hammer', 'hammer', 'piercing_line', 'inverted_hammer']","[203, 126, 49, 3]"
 sp500,TEL,1w,,
-sp500,TER,1w,['engulfing'],[48]
+sp500,TER,1w,['engulfing'],[49]
 sp500,TFC,1w,,
-sp500,TGT,1w,['inverted_hammer'],[50]
+sp500,TGT,1w,['inverted_hammer'],[51]
 sp500,TJX,1w,,
 sp500,TKO,1w,,
-sp500,TMUS,1w,['hammer'],[20]
-sp500,TPL,1w,['hammer'],[35]
+sp500,TMUS,1w,['hammer'],[21]
+sp500,TPL,1w,['hammer'],[36]
 sp500,TPR,1w,,
 sp500,TRGP,1w,,
-sp500,TRMB,1w,"['inverted_hammer', 'engulfing', 'hammer', 'hammer']","[219, 123, 9, 7]"
-sp500,TROW,1w,['inverted_hammer'],[2]
+sp500,TRMB,1w,"['inverted_hammer', 'engulfing', 'hammer', 'hammer']","[220, 124, 10, 8]"
+sp500,TROW,1w,['inverted_hammer'],[3]
 sp500,TRV,1w,,
 sp500,TSCO,1w,,
-sp500,TSLA,1w,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[176, 169, 168, 54, 51]"
+sp500,TSLA,1w,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[177, 170, 169, 55, 52]"
 sp500,TSN,1w,,
 sp500,TT,1w,,
-sp500,TTD,1w,"['engulfing', 'hammer']","[26, 4]"
-sp500,TTWO,1w,"['hammer', 'engulfing']","[202, 201]"
+sp500,TTD,1w,"['engulfing', 'hammer']","[27, 5]"
+sp500,TTWO,1w,"['hammer', 'engulfing']","[203, 202]"
 sp500,TXN,1w,,
 sp500,TXT,1w,,
-sp500,TYL,1w,['hammer'],[202]
-sp500,UAL,1w,"['hammer', 'hammer', 'inverted_hammer']","[211, 129, 2]"
-sp500,UBER,1w,"['hammer', 'hammer']","[202, 197]"
+sp500,TYL,1w,['hammer'],[203]
+sp500,UAL,1w,"['hammer', 'hammer', 'inverted_hammer']","[212, 130, 3]"
+sp500,UBER,1w,"['hammer', 'hammer']","[203, 198]"
 sp500,UDR,1w,,
 sp500,UHS,1w,,
-sp500,ULTA,1w,"['hammer', 'hammer', 'engulfing']","[147, 98, 95]"
+sp500,ULTA,1w,"['hammer', 'hammer', 'engulfing']","[148, 99, 96]"
 sp500,UNP,1w,,
 sp500,UPS,1w,,
 sp500,USB,1w,,
@@ -924,8 +924,8 @@ sp500,V,1w,,
 sp500,VICI,1w,,
 sp500,VLO,1w,,
 sp500,VLTO,1w,,
-sp500,VMC,1w,['hammer'],[2]
-sp500,VRSK,1w,['hammer'],[6]
+sp500,VMC,1w,['hammer'],[3]
+sp500,VRSK,1w,['hammer'],[7]
 sp500,VRSN,1w,,
 sp500,VRTX,1w,,
 sp500,VST,1w,,
@@ -934,8 +934,8 @@ sp500,VTRS,1w,,
 sp500,VZ,1w,,
 sp500,WAB,1w,,
 sp500,WAT,1w,,
-sp500,WBD,1w,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[223, 195, 107, 99, 50]"
-sp500,WDAY,1w,"['hammer', 'hammer', 'engulfing']","[202, 200, 3]"
+sp500,WBD,1w,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[224, 196, 108, 100, 51]"
+sp500,WDAY,1w,"['hammer', 'hammer', 'engulfing']","[203, 201, 4]"
 sp500,WDC,1w,,
 sp500,WEC,1w,,
 sp500,WELL,1w,,
@@ -945,137 +945,137 @@ sp500,WMB,1w,,
 sp500,WMT,1w,,
 sp500,WRB,1w,,
 sp500,WSM,1w,,
-sp500,WST,1w,"['inverted_hammer', 'hammer', 'engulfing', 'hammer']","[218, 180, 56, 50]"
+sp500,WST,1w,"['inverted_hammer', 'hammer', 'engulfing', 'hammer']","[219, 181, 57, 51]"
 sp500,WTW,1w,,
 sp500,WY,1w,,
-sp500,WYNN,1w,"['hammer', 'inverted_hammer']","[202, 85]"
+sp500,WYNN,1w,"['hammer', 'inverted_hammer']","[203, 86]"
 sp500,XEL,1w,,
 sp500,XOM,1w,,
 sp500,XYL,1w,,
-sp500,XYZ,1w,"['hammer', 'inverted_hammer', 'hammer', 'engulfing', 'engulfing']","[129, 128, 54, 53, 50]"
+sp500,XYZ,1w,"['hammer', 'inverted_hammer', 'hammer', 'engulfing', 'engulfing']","[130, 129, 55, 54, 51]"
 sp500,YUM,1w,,
 sp500,ZBH,1w,,
-sp500,ZBRA,1w,"['inverted_hammer', 'hammer', 'inverted_hammer', 'engulfing', 'hammer']","[197, 126, 57, 53, 18]"
+sp500,ZBRA,1w,"['inverted_hammer', 'hammer', 'inverted_hammer', 'engulfing', 'hammer']","[198, 127, 58, 54, 19]"
 sp500,ZTS,1w,,
-crypto,AAVE-USD,1d,"['engulfing', 'hammer', 'hammer', 'hammer', 'hammer']","[1048, 626, 391, 274, 122]"
-crypto,ADA-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[388, 274, 157, 124, 49]"
-crypto,ALGO-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[1019, 886, 637, 626, 599]"
-crypto,APE-USD,1d,"['hammer, engulfing', 'engulfing', 'engulfing', 'hammer', 'inverted_hammer']","[805, 640, 180, 41, 1]"
-crypto,ATOM-USD,1d,"['hammer', 'engulfing', 'rebound', 'hammer', 'inverted_hammer']","[565, 561, 140, 101, 96]"
-crypto,ATOM,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[409, 189, 174, 148, 98]"
-crypto,AVAX-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[391, 139, 122, 52, 49]"
-crypto,AXS-USD,1d,"['hammer', 'engulfing', 'hammer', 'hammer', 'rebound']","[384, 348, 274, 234, 122]"
-crypto,AXS,1d,"['hammer', 'inverted_hammer', 'hammer']","[100, 98, 44]"
-crypto,BNB-USD,1d,"['hammer', 'hammer', 'hammer']","[1196, 1015, 129]"
-crypto,BTC-USD,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'engulfing']","[626, 378, 157, 122, 49]"
-crypto,BTC,1d,"['hammer', 'inverted_hammer']","[269, 86]"
-crypto,BTG-USD,1d,"['hammer', 'hammer']","[691, 358]"
-crypto,BTG,1d,"['inverted_hammer', 'hammer']","[408, 2]"
-crypto,BTM,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer']","[680, 86, 80, 19]"
-crypto,CAKE-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[920, 599, 458, 420, 49]"
-crypto,CAKE,1d,['inverted_hammer'],[240]
-crypto,CHZ-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[1048, 626, 420, 274, 234]"
-crypto,DASH-USD,1d,"['hammer', 'hammer', 'hammer']","[637, 434, 350]"
-crypto,DASH,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing', 'hammer']","[1077, 981, 893, 887, 1]"
-crypto,DOGE-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[626, 391, 388, 139, 138]"
-crypto,DOT-USD,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[650, 599, 420, 378, 350]"
-crypto,EGLD-USD,1d,"['hammer', 'hammer', 'hammer', 'rebound', 'rebound']","[505, 420, 283, 124, 95]"
-crypto,ENJ-USD,1d,"['hammer', 'hammer', 'hammer']","[626, 420, 274]"
+crypto,AAVE-USD,1d,"['engulfing', 'hammer', 'hammer', 'hammer', 'hammer']","[1052, 630, 395, 278, 126]"
+crypto,ADA-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[392, 278, 161, 128, 53]"
+crypto,ALGO-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[1023, 890, 641, 630, 603]"
+crypto,APE-USD,1d,"['engulfing', 'hammer, engulfing', 'engulfing', 'engulfing', 'hammer']","[921, 809, 644, 184, 45]"
+crypto,ATOM-USD,1d,"['hammer', 'engulfing', 'rebound', 'hammer', 'inverted_hammer']","[569, 565, 144, 105, 100]"
+crypto,ATOM,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[413, 193, 178, 152, 102]"
+crypto,AVAX-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[395, 143, 126, 56, 53]"
+crypto,AXS-USD,1d,"['hammer', 'engulfing', 'hammer', 'hammer', 'rebound']","[388, 352, 278, 238, 126]"
+crypto,AXS,1d,"['hammer', 'inverted_hammer', 'hammer']","[104, 102, 48]"
+crypto,BNB-USD,1d,"['hammer', 'hammer', 'hammer']","[1200, 1019, 133]"
+crypto,BTC-USD,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'engulfing']","[630, 382, 161, 126, 53]"
+crypto,BTC,1d,"['hammer', 'inverted_hammer']","[273, 90]"
+crypto,BTG-USD,1d,"['hammer', 'hammer']","[695, 362]"
+crypto,BTG,1d,"['inverted_hammer', 'hammer']","[412, 6]"
+crypto,BTM,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer']","[684, 90, 84, 23]"
+crypto,CAKE-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[924, 603, 462, 424, 53]"
+crypto,CAKE,1d,['inverted_hammer'],[244]
+crypto,CHZ-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[1052, 630, 424, 278, 238]"
+crypto,DASH-USD,1d,"['hammer', 'hammer', 'hammer']","[641, 438, 354]"
+crypto,DASH,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing', 'hammer']","[1081, 985, 897, 891, 5]"
+crypto,DOGE-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[630, 395, 392, 143, 142]"
+crypto,DOT-USD,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[654, 603, 424, 382, 354]"
+crypto,EGLD-USD,1d,"['hammer', 'hammer', 'hammer', 'rebound', 'rebound']","[509, 424, 287, 128, 99]"
+crypto,ENJ-USD,1d,"['hammer', 'hammer', 'hammer']","[630, 424, 278]"
 crypto,ENJ,1d,,
-crypto,EOS-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[637, 391, 174, 122, 59]"
+crypto,EOS-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[641, 395, 178, 126, 63]"
 crypto,EOS,1d,,
-crypto,ETH-USD,1d,"['hammer', 'hammer']","[1109, 388]"
-crypto,ETH,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[240, 86, 34, 33, 27]"
-crypto,FIL-USD,1d,"['engulfing', 'hammer', 'hammer', 'engulfing']","[1015, 505, 52, 49]"
+crypto,ETH-USD,1d,"['hammer', 'hammer']","[1113, 392]"
+crypto,ETH,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[244, 90, 38, 37, 31]"
+crypto,FIL-USD,1d,"['engulfing', 'hammer', 'hammer', 'engulfing']","[1019, 509, 56, 53]"
 crypto,FTM-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[511, 453, 357, 193, 166]"
-crypto,KLAY-USD,1d,"['hammer', 'hammer', 'engulfing', 'engulfing', 'hammer']","[606, 599, 406, 404, 166]"
-crypto,KSM-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[643, 637, 626, 420, 52]"
-crypto,LINK-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[391, 388, 274, 157, 139]"
-crypto,LINK,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[1111, 1108, 807, 473, 262]"
-crypto,LTC-USD,1d,"['hammer', 'hammer']","[157, 63]"
+crypto,KLAY-USD,1d,"['hammer', 'engulfing', 'engulfing', 'hammer', 'hammer']","[603, 410, 408, 170, 1]"
+crypto,KSM-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[647, 641, 630, 424, 56]"
+crypto,LINK-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[395, 392, 278, 161, 143]"
+crypto,LINK,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[1115, 1112, 811, 477, 266]"
+crypto,LTC-USD,1d,"['hammer', 'hammer']","[161, 67]"
 crypto,LTC,1d,,
-crypto,MANA-USD,1d,"['hammer, engulfing', 'hammer', 'engulfing']","[1048, 626, 94]"
-crypto,MANA,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[242, 188, 97, 33, 31]"
+crypto,MANA-USD,1d,"['hammer, engulfing', 'hammer', 'engulfing']","[1052, 630, 98]"
+crypto,MANA,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[246, 192, 101, 37, 35]"
 crypto,MATIC-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[274, 71, 28, 25, 21]"
-crypto,MKR-USD,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer']","[1177, 594, 435, 413]"
-crypto,MKR,1d,"['hammer', 'hammer', 'inverted_hammer', 'rebound']","[141, 136, 135, 31]"
-crypto,NEAR-USD,1d,"['hammer, engulfing', 'hammer', 'hammer', 'hammer', 'hammer']","[1048, 1033, 626, 505, 274]"
+crypto,MKR-USD,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer']","[1181, 598, 439, 417]"
+crypto,MKR,1d,"['hammer', 'hammer', 'inverted_hammer', 'rebound']","[144, 139, 138, 34]"
+crypto,NEAR-USD,1d,"['hammer, engulfing', 'hammer', 'hammer', 'hammer', 'hammer']","[1052, 1037, 630, 509, 278]"
 crypto,NEAR,1d,,
-crypto,NEO-USD,1d,"['hammer', 'hammer', 'inverted_hammer', 'engulfing', 'hammer']","[391, 384, 351, 350, 274]"
-crypto,NEO,1d,"['inverted_hammer', 'piercing_line', 'hammer', 'hammer', 'engulfing']","[448, 369, 364, 224, 160]"
-crypto,QNT-USD,1d,"['hammer', 'engulfing', 'inverted_hammer', 'engulfing', 'hammer']","[1231, 920, 910, 594, 357]"
-crypto,SAND-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'rebound']","[626, 391, 274, 157, 53]"
-crypto,SHIB-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[124, 51, 49, 45, 23]"
-crypto,SOL-USD,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[706, 642, 640, 391, 122]"
-crypto,THETA-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[388, 384, 377, 274, 139]"
-crypto,TRX-USD,1d,"['hammer', 'hammer', 'hammer', 'engulfing', 'hammer']","[1109, 742, 704, 703, 665]"
-crypto,TRX,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[848, 828, 821, 709, 657]"
+crypto,NEO-USD,1d,"['hammer', 'hammer', 'inverted_hammer', 'engulfing', 'hammer']","[395, 388, 355, 354, 278]"
+crypto,NEO,1d,"['inverted_hammer', 'piercing_line', 'hammer', 'hammer', 'engulfing']","[452, 373, 368, 228, 164]"
+crypto,QNT-USD,1d,"['hammer', 'engulfing', 'inverted_hammer', 'engulfing', 'hammer']","[1235, 924, 914, 598, 361]"
+crypto,SAND-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'rebound']","[630, 395, 278, 161, 57]"
+crypto,SHIB-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[128, 55, 53, 49, 27]"
+crypto,SOL-USD,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[710, 646, 644, 395, 126]"
+crypto,THETA-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[392, 388, 381, 278, 143]"
+crypto,TRX-USD,1d,"['hammer', 'hammer', 'hammer', 'engulfing', 'hammer']","[1113, 746, 708, 707, 669]"
+crypto,TRX,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[852, 832, 825, 713, 661]"
 crypto,UNI-USD,1d,"['engulfing', 'hammer', 'hammer', 'hammer']","[602, 599, 592, 591]"
 crypto,UNI,1d,,
 crypto,USDC-USD,1d,,
 crypto,USDC,1d,,
-crypto,USDT-USD,1d,"['hammer', 'inverted_hammer']","[1110, 663]"
-crypto,VET-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[1055, 945, 391, 52, 49]"
+crypto,USDT-USD,1d,"['hammer', 'inverted_hammer']","[1114, 667]"
+crypto,VET-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[1059, 949, 395, 56, 53]"
 crypto,VET,1d,,
-crypto,WBTC-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[626, 157, 125, 122, 49]"
-crypto,XEM-USD,1d,"['hammer', 'engulfing', 'hammer', 'hammer']","[1019, 637, 350, 174]"
-crypto,XLM-USD,1d,"['hammer', 'hammer', 'engulfing', 'hammer', 'hammer']","[536, 391, 388, 157, 122]"
-crypto,XRP-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[391, 388, 357, 274, 122]"
-crypto,XRP,1d,"['inverted_hammer', 'hammer', 'hammer']","[34, 33, 32]"
-crypto,XTZ-USD,1d,"['hammer', 'inverted_hammer', 'hammer', 'engulfing', 'hammer']","[1048, 923, 391, 340, 274]"
-crypto,ZIL-USD,1d,"['hammer', 'hammer', 'hammer']","[1187, 621, 269]"
-crypto,AAVE-USD,1w,"['hammer', 'engulfing']","[7, 6]"
-crypto,ADA-USD,1w,['hammer'],[85]
+crypto,WBTC-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[630, 161, 129, 126, 53]"
+crypto,XEM-USD,1d,"['hammer', 'engulfing', 'hammer', 'hammer']","[1023, 641, 354, 178]"
+crypto,XLM-USD,1d,"['hammer', 'hammer', 'engulfing', 'hammer', 'hammer']","[540, 395, 392, 161, 126]"
+crypto,XRP-USD,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[395, 392, 361, 278, 126]"
+crypto,XRP,1d,"['inverted_hammer', 'hammer', 'hammer']","[38, 37, 36]"
+crypto,XTZ-USD,1d,"['hammer', 'inverted_hammer', 'hammer', 'engulfing', 'hammer']","[1052, 927, 395, 344, 278]"
+crypto,ZIL-USD,1d,"['hammer', 'hammer', 'hammer']","[1196, 630, 278]"
+crypto,AAVE-USD,1w,"['hammer', 'engulfing']","[8, 7]"
+crypto,ADA-USD,1w,['hammer'],[86]
 crypto,ALGO-USD,1w,,
-crypto,APE-USD,1w,"['engulfing', 'hammer', 'hammer']","[145, 85, 7]"
-crypto,ATOM-USD,1w,"['hammer', 'hammer', 'hammer']","[136, 21, 20]"
+crypto,APE-USD,1w,"['engulfing', 'hammer', 'hammer']","[146, 86, 8]"
+crypto,ATOM-USD,1w,"['hammer', 'hammer', 'hammer']","[137, 22, 21]"
 crypto,ATOM,1w,,
 crypto,AVAX-USD,1w,,
-crypto,AXS-USD,1w,['hammer'],[20]
+crypto,AXS-USD,1w,['hammer'],[21]
 crypto,AXS,1w,,
 crypto,BNB-USD,1w,,
 crypto,BTC-USD,1w,,
-crypto,BTC,1w,['engulfing'],[3]
+crypto,BTC,1w,['engulfing'],[4]
 crypto,BTG-USD,1w,,
 crypto,BTG,1w,,
 crypto,BTM,1w,,
-crypto,CAKE-USD,1w,['hammer'],[85]
+crypto,CAKE-USD,1w,['hammer'],[86]
 crypto,CAKE,1w,,
 crypto,CHZ-USD,1w,,
 crypto,DASH-USD,1w,,
-crypto,DASH,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer']","[223, 215, 213, 211]"
+crypto,DASH,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer']","[224, 216, 214, 212]"
 crypto,DOGE-USD,1w,,
 crypto,DOT-USD,1w,,
-crypto,EGLD-USD,1w,"['engulfing', 'engulfing']","[20, 16]"
-crypto,ENJ-USD,1w,['hammer'],[85]
+crypto,EGLD-USD,1w,"['engulfing', 'engulfing']","[21, 17]"
+crypto,ENJ-USD,1w,['hammer'],[86]
 crypto,ENJ,1w,,
 crypto,EOS-USD,1w,,
 crypto,EOS,1w,,
-crypto,ETH-USD,1w,['hammer'],[7]
+crypto,ETH-USD,1w,['hammer'],[8]
 crypto,ETH,1w,,
 crypto,FIL-USD,1w,,
 crypto,FTM-USD,1w,,
 crypto,KLAY-USD,1w,,
-crypto,KSM-USD,1w,"['hammer', 'hammer', 'engulfing']","[128, 85, 21]"
-crypto,LINK-USD,1w,['hammer'],[85]
-crypto,LINK,1w,['inverted_hammer'],[91]
+crypto,KSM-USD,1w,"['hammer', 'hammer', 'engulfing']","[129, 86, 22]"
+crypto,LINK-USD,1w,['hammer'],[86]
+crypto,LINK,1w,['inverted_hammer'],[92]
 crypto,LTC-USD,1w,,
 crypto,LTC,1w,,
 crypto,MANA-USD,1w,,
-crypto,MANA,1w,['hammer'],[21]
+crypto,MANA,1w,['hammer'],[22]
 crypto,MATIC-USD,1w,['hammer'],[34]
 crypto,MKR-USD,1w,,
-crypto,MKR,1w,"['engulfing', 'inverted_hammer']","[9, 4]"
+crypto,MKR,1w,"['engulfing', 'inverted_hammer']","[10, 5]"
 crypto,NEAR-USD,1w,,
 crypto,NEAR,1w,,
 crypto,NEO-USD,1w,,
-crypto,NEO,1w,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[210, 202, 129, 76, 39]"
+crypto,NEO,1w,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[211, 203, 130, 77, 40]"
 crypto,QNT-USD,1w,,
 crypto,SAND-USD,1w,,
 crypto,SHIB-USD,1w,,
 crypto,SOL-USD,1w,,
-crypto,THETA-USD,1w,"['engulfing', 'engulfing']","[48, 10]"
-crypto,TRX-USD,1w,['hammer'],[20]
+crypto,THETA-USD,1w,"['engulfing', 'engulfing']","[49, 11]"
+crypto,TRX-USD,1w,['hammer'],[21]
 crypto,TRX,1w,,
 crypto,UNI-USD,1w,,
 crypto,UNI,1w,,
@@ -1085,592 +1085,592 @@ crypto,USDT-USD,1w,,
 crypto,VET-USD,1w,,
 crypto,VET,1w,,
 crypto,WBTC-USD,1w,,
-crypto,XEM-USD,1w,"['inverted_hammer', 'inverted_hammer']","[39, 7]"
-crypto,XLM-USD,1w,['hammer'],[7]
+crypto,XEM-USD,1w,"['inverted_hammer', 'inverted_hammer']","[40, 8]"
+crypto,XLM-USD,1w,['hammer'],[8]
 crypto,XRP-USD,1w,,
 crypto,XRP,1w,,
-crypto,XTZ-USD,1w,['inverted_hammer'],[128]
+crypto,XTZ-USD,1w,['inverted_hammer'],[129]
 crypto,ZIL-USD,1w,,
-europe,AAL.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[713, 574, 285, 240, 2]"
-europe,AALB.AS,1d,"['inverted_hammer', 'inverted_hammer']","[244, 194]"
-europe,ABBN.SW,1d,['engulfing'],[82]
+europe,AAL.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[717, 578, 289, 244, 6]"
+europe,AALB.AS,1d,"['inverted_hammer', 'inverted_hammer', 'piercing_line']","[248, 198, 4]"
+europe,ABBN.SW,1d,['engulfing'],[86]
 europe,ABBV.SW,1d,,
-europe,ABF.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer']","[553, 515, 316, 48, 45]"
-europe,ABI.BR,1d,"['inverted_hammer', 'hammer', 'hammer']","[244, 162, 11]"
-europe,ABN.AS,1d,['inverted_hammer'],[244]
-europe,AC.PA,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[422, 244, 14, 10]"
-europe,ACA.PA,1d,['inverted_hammer'],[244]
+europe,ABF.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer']","[557, 519, 320, 52, 49]"
+europe,ABI.BR,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer']","[248, 166, 15, 4]"
+europe,ABN.AS,1d,['inverted_hammer'],[248]
+europe,AC.PA,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[426, 248, 18, 14]"
+europe,ACA.PA,1d,['inverted_hammer'],[248]
 europe,ACS.MC,1d,,
-europe,AD.AS,1d,"['hammer', 'hammer']","[52, 50]"
-europe,ADEN.SW,1d,"['inverted_hammer', 'hammer']","[238, 1]"
-europe,ADM.L,1d,"['engulfing', 'hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[928, 771, 769, 357, 74]"
-europe,ADS.DE,1d,"['inverted_hammer', 'inverted_hammer', 'piercing_line', 'piercing_line', 'hammer']","[263, 161, 157, 93, 10]"
-europe,AENA.MC,1d,"['inverted_hammer', 'hammer']","[244, 123]"
-europe,AF.PA,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[416, 340, 129, 121, 12]"
+europe,AD.AS,1d,"['hammer', 'hammer']","[56, 54]"
+europe,ADEN.SW,1d,"['inverted_hammer', 'hammer', 'engulfing']","[242, 5, 4]"
+europe,ADM.L,1d,"['engulfing', 'hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[932, 775, 773, 361, 78]"
+europe,ADS.DE,1d,"['inverted_hammer', 'inverted_hammer', 'piercing_line', 'piercing_line', 'hammer']","[267, 165, 161, 97, 14]"
+europe,AENA.MC,1d,"['inverted_hammer', 'hammer']","[248, 127]"
+europe,AF.PA,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[420, 344, 133, 125, 16]"
 europe,AIR.PA,1d,,
-europe,AIXA.DE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'piercing_line']","[608, 521, 494, 242]"
-europe,ALFA.ST,1d,"['inverted_hammer', 'inverted_hammer']","[407, 238]"
-europe,ALK-B.CO,1d,"['hammer', 'engulfing', 'hammer', 'inverted_hammer', 'hammer']","[750, 729, 494, 314, 155]"
-europe,ALO.PA,1d,"['engulfing', 'hammer', 'rebound', 'hammer', 'hammer']","[1033, 587, 566, 394, 213]"
-europe,ALV.DE,1d,['inverted_hammer'],[12]
-europe,AMS.MC,1d,"['inverted_hammer', 'inverted_hammer']","[244, 124]"
-europe,ANTO.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[946, 549, 392, 83, 2]"
-europe,ASM.AS,1d,"['inverted_hammer', 'inverted_hammer', 'rebound', 'hammer', 'hammer']","[643, 265, 245, 88, 83]"
-europe,ASML.AS,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[483, 394, 364, 242]"
-europe,ASSA-B.ST,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[407, 238, 236, 190, 7]"
-europe,ATCO-A.ST,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[407, 238, 236, 10]"
-europe,ATCO-B.ST,1d,"['inverted_hammer', 'inverted_hammer']","[238, 236]"
-europe,ATO.PA,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[395, 394, 185, 23, 21]"
-europe,AUTO.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'rebound', 'rebound']","[489, 315, 125, 54, 44]"
-europe,AV.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[975, 697, 242, 140, 108]"
-europe,AZA.ST,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[407, 238, 197, 194, 82]"
-europe,AZM.MI,1d,"['inverted_hammer', 'hammer']","[241, 10]"
-europe,AZN.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[385, 380, 374, 188, 131]"
-europe,BA.L,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[717, 420, 315, 307, 103]"
-europe,BAB.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[1050, 861, 691, 384, 108]"
-europe,BAER.SW,1d,"['inverted_hammer', 'hammer', 'inverted_hammer']","[238, 105, 7]"
+europe,AIXA.DE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'piercing_line']","[612, 525, 498, 246]"
+europe,ALFA.ST,1d,"['inverted_hammer', 'inverted_hammer']","[411, 242]"
+europe,ALK-B.CO,1d,"['hammer', 'engulfing', 'hammer', 'inverted_hammer', 'hammer']","[753, 732, 497, 317, 158]"
+europe,ALO.PA,1d,"['engulfing', 'hammer', 'rebound', 'hammer', 'hammer']","[1037, 591, 570, 398, 217]"
+europe,ALV.DE,1d,['inverted_hammer'],[16]
+europe,AMS.MC,1d,"['inverted_hammer', 'inverted_hammer']","[248, 128]"
+europe,ANTO.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[950, 553, 396, 87, 6]"
+europe,ASM.AS,1d,"['inverted_hammer', 'inverted_hammer', 'rebound', 'hammer', 'hammer']","[647, 269, 249, 92, 87]"
+europe,ASML.AS,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[487, 398, 368, 246]"
+europe,ASSA-B.ST,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'engulfing']","[242, 240, 194, 11, 4]"
+europe,ATCO-A.ST,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'engulfing']","[411, 242, 240, 14, 4]"
+europe,ATCO-B.ST,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[242, 240, 4]"
+europe,ATO.PA,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[399, 398, 189, 27, 25]"
+europe,AUTO.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'rebound', 'rebound']","[493, 319, 129, 58, 48]"
+europe,AV.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[979, 701, 246, 144, 112]"
+europe,AZA.ST,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[411, 242, 201, 198, 86]"
+europe,AZM.MI,1d,"['inverted_hammer', 'hammer']","[245, 14]"
+europe,AZN.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[389, 384, 378, 192, 135]"
+europe,BA.L,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[424, 319, 311, 107, 3]"
+europe,BAB.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[865, 695, 388, 112, 4]"
+europe,BAER.SW,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'piercing_line']","[242, 109, 11, 4]"
 europe,BAMI.MI,1d,,
-europe,BARC.L,1d,"['inverted_hammer', 'piercing_line', 'hammer']","[1100, 605, 15]"
-europe,BAS.DE,1d,"['inverted_hammer', 'hammer', 'engulfing', 'inverted_hammer']","[242, 122, 121, 109]"
-europe,BATS.L,1d,"['inverted_hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[360, 315, 187, 119, 118]"
-europe,BAVA.CO,1d,"['piercing_line', 'hammer', 'hammer', 'piercing_line', 'hammer']","[604, 536, 360, 340, 63]"
-europe,BAYN.DE,1d,"['hammer', 'engulfing', 'hammer', 'inverted_hammer', 'hammer']","[615, 538, 330, 244, 13]"
-europe,BEI.DE,1d,"['inverted_hammer', 'engulfing', 'engulfing', 'inverted_hammer', 'hammer']","[129, 128, 11, 9, 2]"
-europe,BESI.AS,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[270, 244, 88, 83]"
-europe,BHP.L,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[549, 413, 406, 129, 2]"
-europe,BLND.L,1d,"['hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer', 'hammer']","[756, 693, 657, 352, 304]"
-europe,BMW.DE,1d,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer']","[192, 132, 49, 10]"
-europe,BN.PA,1d,"['hammer', 'hammer']","[196, 193]"
-europe,BNP.PA,1d,"['inverted_hammer', 'hammer']","[244, 103]"
-europe,BNR.DE,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'engulfing', 'inverted_hammer']","[242, 192, 132, 127, 109]"
-europe,BOL.ST,1d,"['inverted_hammer', 'hammer']","[549, 241]"
-europe,BOSS.DE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[516, 426, 420, 258, 121]"
-europe,BP.L,1d,"['inverted_hammer', 'rebound', 'engulfing', 'hammer', 'hammer']","[390, 375, 350, 341, 53]"
-europe,BPE.MI,1d,['inverted_hammer'],[241]
-europe,BRBY.L,1d,"['engulfing', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[249, 242, 44, 37, 7]"
-europe,BT-A.L,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[880, 878, 827, 552, 93]"
-europe,CA.PA,1d,"['hammer', 'inverted_hammer']","[141, 48]"
-europe,CABK.MC,1d,['inverted_hammer'],[244]
-europe,CAP.PA,1d,['hammer'],[168]
-europe,CARL-B.CO,1d,"['hammer', 'piercing_line', 'inverted_hammer']","[172, 161, 143]"
+europe,BARC.L,1d,"['inverted_hammer', 'piercing_line', 'hammer']","[1104, 609, 19]"
+europe,BAS.DE,1d,"['inverted_hammer', 'hammer', 'engulfing', 'inverted_hammer']","[246, 126, 125, 113]"
+europe,BATS.L,1d,"['inverted_hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[364, 319, 191, 123, 122]"
+europe,BAVA.CO,1d,"['piercing_line', 'hammer', 'hammer', 'piercing_line', 'hammer']","[607, 539, 363, 343, 66]"
+europe,BAYN.DE,1d,"['hammer', 'engulfing', 'hammer', 'inverted_hammer', 'hammer']","[619, 542, 334, 248, 17]"
+europe,BEI.DE,1d,"['inverted_hammer', 'engulfing', 'engulfing', 'inverted_hammer', 'hammer']","[133, 132, 15, 13, 6]"
+europe,BESI.AS,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[274, 248, 92, 87]"
+europe,BHP.L,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[553, 417, 410, 133, 6]"
+europe,BLND.L,1d,"['hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer', 'hammer']","[760, 697, 661, 356, 308]"
+europe,BMW.DE,1d,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer']","[196, 136, 53, 14]"
+europe,BN.PA,1d,"['hammer', 'hammer']","[200, 197]"
+europe,BNP.PA,1d,"['inverted_hammer', 'hammer']","[248, 107]"
+europe,BNR.DE,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'engulfing', 'inverted_hammer']","[246, 196, 136, 131, 113]"
+europe,BOL.ST,1d,"['inverted_hammer', 'hammer', 'piercing_line']","[553, 245, 4]"
+europe,BOSS.DE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[520, 430, 424, 262, 125]"
+europe,BP.L,1d,"['inverted_hammer', 'rebound', 'engulfing', 'hammer', 'hammer']","[394, 379, 354, 345, 57]"
+europe,BPE.MI,1d,['inverted_hammer'],[245]
+europe,BRBY.L,1d,"['engulfing', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[253, 246, 48, 41, 11]"
+europe,BT-A.L,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[884, 882, 831, 556, 97]"
+europe,CA.PA,1d,"['hammer', 'inverted_hammer']","[145, 52]"
+europe,CABK.MC,1d,['inverted_hammer'],[248]
+europe,CAP.PA,1d,['hammer'],[172]
+europe,CARL-B.CO,1d,"['hammer', 'piercing_line', 'inverted_hammer', 'inverted_hammer']","[175, 164, 146, 3]"
 europe,CBK.DE,1d,,
-europe,CLNX.MC,1d,"['hammer', 'inverted_hammer', 'hammer']","[878, 628, 626]"
-europe,CNA.L,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1176, 599, 414, 348, 240]"
-europe,COFA.PA,1d,"['hammer', 'hammer', 'inverted_hammer']","[140, 108, 97]"
-europe,COL.MC,1d,"['inverted_hammer', 'inverted_hammer']","[116, 83]"
-europe,COLO-B.CO,1d,['engulfing'],[29]
-europe,COLR.BR,1d,,
-europe,CPG.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[583, 254, 88, 75, 38]"
-europe,CPR.MI,1d,"['engulfing', 'inverted_hammer', 'hammer']","[129, 126, 120]"
-europe,CRDA.L,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'piercing_line']","[712, 627, 559, 243, 163]"
-europe,CRH.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[643, 461, 191, 14, 10]"
-europe,CS.PA,1d,"['inverted_hammer', 'hammer']","[244, 146]"
-europe,DB1.DE,1d,['inverted_hammer'],[131]
-europe,DBK.DE,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[242, 240, 10, 2]"
-europe,DCC.L,1d,"['inverted_hammer', 'engulfing', 'hammer', 'hammer, engulfing', 'hammer']","[900, 884, 686, 495, 420]"
-europe,DEMANT.CO,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[241, 236, 162, 153, 121]"
-europe,DG.PA,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[357, 244, 44]"
-europe,DGE.L,1d,"['inverted_hammer', 'hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer']","[193, 125, 122, 17, 3]"
-europe,DHER.DE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[27, 15, 7, 4, 1]"
-europe,DIA.MI,1d,"['inverted_hammer', 'hammer', 'hammer']","[241, 180, 178]"
-europe,DSV.CO,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer']","[236, 134, 132, 119, 19]"
-europe,DTE.DE,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[196, 194, 131, 94, 43]"
-europe,EDEN.PA,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[244, 136, 128]"
-europe,EL.PA,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[244, 242, 70, 22, 19]"
+europe,CLNX.MC,1d,"['hammer', 'inverted_hammer', 'hammer']","[882, 632, 630]"
+europe,CNA.L,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1180, 603, 418, 352, 244]"
+europe,COFA.PA,1d,"['hammer', 'hammer', 'inverted_hammer']","[144, 112, 101]"
+europe,COL.MC,1d,"['inverted_hammer', 'inverted_hammer']","[120, 87]"
+europe,COLO-B.CO,1d,['engulfing'],[32]
+europe,COLR.BR,1d,['inverted_hammer'],[4]
+europe,CPG.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[587, 258, 92, 79, 42]"
+europe,CPR.MI,1d,"['engulfing', 'inverted_hammer', 'hammer']","[133, 130, 124]"
+europe,CRDA.L,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'piercing_line']","[716, 631, 563, 247, 167]"
+europe,CRH.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[647, 465, 195, 18, 14]"
+europe,CS.PA,1d,"['inverted_hammer', 'hammer']","[248, 150]"
+europe,DB1.DE,1d,['inverted_hammer'],[135]
+europe,DBK.DE,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[246, 244, 14, 6]"
+europe,DCC.L,1d,"['inverted_hammer', 'engulfing', 'hammer', 'hammer, engulfing', 'hammer']","[904, 888, 690, 499, 424]"
+europe,DEMANT.CO,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[244, 239, 165, 156, 124]"
+europe,DG.PA,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[361, 248, 48]"
+europe,DGE.L,1d,"['inverted_hammer', 'hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer']","[197, 129, 126, 21, 7]"
+europe,DHER.DE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[31, 19, 11, 8, 5]"
+europe,DIA.MI,1d,"['inverted_hammer', 'hammer', 'hammer']","[245, 184, 182]"
+europe,DSV.CO,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer']","[239, 137, 135, 122, 22]"
+europe,DTE.DE,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[200, 198, 135, 98, 47]"
+europe,EDEN.PA,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[248, 140, 132]"
+europe,EL.PA,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[246, 74, 26, 23, 4]"
 europe,ELE.MC,1d,,
-europe,ELISA.HE,1d,['inverted_hammer'],[101]
-europe,ELUX-B.ST,1d,"['hammer', 'engulfing', 'hammer', 'engulfing', 'hammer']","[637, 545, 329, 241, 10]"
+europe,ELISA.HE,1d,['inverted_hammer'],[105]
+europe,ELUX-B.ST,1d,"['hammer', 'engulfing', 'hammer', 'engulfing', 'hammer']","[641, 549, 333, 245, 14]"
 europe,ENEL.MI,1d,,
 europe,ENGI.PA,1d,,
 europe,ENI.MI,1d,,
-europe,EOAN.DE,1d,['engulfing'],[84]
-europe,EQT.ST,1d,"['inverted_hammer', 'hammer', 'inverted_hammer']","[1140, 977, 236]"
-europe,ERG.MI,1d,,
-europe,ERIC-B.ST,1d,['inverted_hammer'],[238]
-europe,EVD.DE,1d,"['hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'rebound']","[43, 26, 24, 18, 1]"
-europe,EVK.DE,1d,"['inverted_hammer', 'hammer', 'engulfing']","[242, 109, 83]"
-europe,EXPN.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[316, 242, 209, 119, 44]"
-europe,FBK.MI,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[410, 241, 26, 12, 11]"
-europe,FER.MC,1d,['inverted_hammer'],[244]
-europe,FME.DE,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'rebound', 'hammer']","[242, 193, 166, 48, 47]"
-europe,FNTN.DE,1d,['hammer'],[196]
-europe,FORTUM.HE,1d,"['hammer', 'hammer', 'engulfing']","[239, 237, 147]"
+europe,EOAN.DE,1d,['engulfing'],[88]
+europe,EQT.ST,1d,"['inverted_hammer', 'hammer', 'inverted_hammer']","[1144, 981, 240]"
+europe,ERG.MI,1d,['inverted_hammer'],[4]
+europe,ERIC-B.ST,1d,['inverted_hammer'],[242]
+europe,EVD.DE,1d,"['hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'rebound']","[47, 30, 28, 22, 5]"
+europe,EVK.DE,1d,"['inverted_hammer', 'hammer', 'engulfing']","[246, 113, 87]"
+europe,EXPN.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[320, 246, 213, 123, 48]"
+europe,FBK.MI,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[414, 245, 30, 16, 15]"
+europe,FER.MC,1d,['inverted_hammer'],[248]
+europe,FME.DE,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'rebound', 'hammer']","[246, 197, 170, 52, 51]"
+europe,FNTN.DE,1d,['hammer'],[200]
+europe,FORTUM.HE,1d,"['hammer', 'hammer', 'engulfing']","[243, 241, 151]"
 europe,FRE.DE,1d,,
-europe,FRES.L,1d,"['hammer', 'engulfing', 'inverted_hammer', 'hammer', 'hammer']","[1054, 791, 786, 734, 452]"
-europe,G.MI,1d,"['inverted_hammer', 'hammer', 'hammer']","[241, 10, 8]"
-europe,G1A.DE,1d,"['inverted_hammer', 'inverted_hammer']","[242, 69]"
-europe,GEBN.SW,1d,"['inverted_hammer', 'hammer', 'hammer']","[238, 10, 7]"
-europe,GET.PA,1d,['hammer'],[82]
+europe,FRES.L,1d,"['engulfing', 'inverted_hammer', 'hammer', 'hammer', 'engulfing']","[795, 790, 738, 456, 4]"
+europe,G.MI,1d,"['inverted_hammer', 'hammer', 'hammer']","[245, 14, 12]"
+europe,G1A.DE,1d,"['inverted_hammer', 'inverted_hammer']","[246, 73]"
+europe,GEBN.SW,1d,"['inverted_hammer', 'hammer', 'hammer', 'engulfing']","[242, 14, 11, 4]"
+europe,GET.PA,1d,['hammer'],[86]
 europe,GIL.DE,1d,,
-europe,GLE.PA,1d,"['inverted_hammer', 'inverted_hammer']","[416, 6]"
-europe,GLEN.L,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[710, 529, 522, 421, 410]"
-europe,GN.CO,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'piercing_line']","[361, 359, 348, 264, 81]"
-europe,GRF.MC,1d,"['hammer', 'inverted_hammer', 'hammer']","[105, 96, 95]"
-europe,GSK.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[767, 684, 379, 343, 44]"
-europe,HAG.DE,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[363, 97, 85, 84, 32]"
+europe,GLE.PA,1d,"['inverted_hammer', 'inverted_hammer']","[420, 10]"
+europe,GLEN.L,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[714, 533, 526, 425, 414]"
+europe,GN.CO,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'piercing_line']","[364, 362, 351, 267, 84]"
+europe,GRF.MC,1d,"['hammer', 'inverted_hammer', 'hammer']","[109, 100, 99]"
+europe,GSK.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[771, 688, 383, 347, 48]"
+europe,HAG.DE,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[367, 101, 89, 88, 36]"
 europe,HEI.DE,1d,,
-europe,HEN3.DE,1d,['engulfing'],[7]
-europe,HER.MI,1d,['hammer'],[138]
-europe,HEXA-B.ST,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[350, 238, 236, 74, 37]"
-europe,HIK.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'engulfing']","[348, 261, 182, 180, 156]"
-europe,HLMA.L,1d,"['hammer', 'piercing_line', 'hammer', 'hammer', 'piercing_line']","[887, 697, 656, 628, 624]"
-europe,HM-B.ST,1d,['inverted_hammer'],[238]
-europe,HMSO.L,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[761, 343, 261, 143, 140]"
-europe,HO.PA,1d,['hammer'],[157]
-europe,HOLN.SW,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[238, 137, 14]"
-europe,HSBA.L,1d,"['rebound', 'hammer', 'inverted_hammer', 'inverted_hammer']","[1134, 880, 554, 6]"
-europe,HUH1V.HE,1d,"['hammer, engulfing']",[90]
-europe,IAG.L,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[899, 875, 811, 366, 257]"
+europe,HEN3.DE,1d,['engulfing'],[11]
+europe,HER.MI,1d,['hammer'],[142]
+europe,HEXA-B.ST,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[354, 242, 240, 78, 41]"
+europe,HIK.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'engulfing']","[352, 265, 186, 184, 160]"
+europe,HLMA.L,1d,"['hammer', 'piercing_line', 'hammer', 'hammer', 'piercing_line']","[891, 701, 660, 632, 628]"
+europe,HM-B.ST,1d,['inverted_hammer'],[242]
+europe,HMSO.L,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[765, 347, 265, 147, 144]"
+europe,HO.PA,1d,['hammer'],[161]
+europe,HOLN.SW,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[242, 141, 18]"
+europe,HSBA.L,1d,"['rebound', 'hammer', 'inverted_hammer', 'inverted_hammer']","[1138, 884, 558, 10]"
+europe,HUH1V.HE,1d,"['hammer, engulfing', 'engulfing']","[94, 4]"
+europe,IAG.L,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[903, 879, 815, 370, 261]"
 europe,IBE.MC,1d,,
-europe,IFX.DE,1d,"['inverted_hammer', 'inverted_hammer']","[1030, 81]"
-europe,IG.MI,1d,['hammer'],[127]
-europe,IHG.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer']","[240, 129, 12]"
-europe,III.L,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer']","[978, 956, 948, 882, 81]"
-europe,ILU.F,1d,"['rebound', 'engulfing', 'rebound', 'inverted_hammer', 'inverted_hammer']","[641, 255, 248, 246, 31]"
-europe,IMB.L,1d,"['hammer', 'piercing_line', 'hammer', 'inverted_hammer', 'hammer']","[1019, 760, 721, 712, 49]"
-europe,IMCD.AS,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[486, 244, 242, 123, 86]"
-europe,IMI.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[1086, 1027, 1020, 977, 238]"
-europe,INGA.AS,1d,"['inverted_hammer', 'hammer']","[244, 2]"
-europe,INVE-B.ST,1d,['inverted_hammer'],[238]
+europe,IFX.DE,1d,"['inverted_hammer', 'inverted_hammer']","[1034, 85]"
+europe,IG.MI,1d,['hammer'],[131]
+europe,IHG.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer']","[244, 133, 16]"
+europe,III.L,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer']","[982, 960, 952, 886, 85]"
+europe,ILU.F,1d,"['rebound', 'engulfing', 'rebound', 'inverted_hammer', 'inverted_hammer']","[645, 259, 252, 250, 35]"
+europe,IMB.L,1d,"['hammer', 'piercing_line', 'hammer', 'inverted_hammer', 'hammer']","[1023, 764, 725, 716, 53]"
+europe,IMCD.AS,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[490, 248, 246, 127, 90]"
+europe,IMI.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[1090, 1031, 1024, 981, 242]"
+europe,INGA.AS,1d,"['inverted_hammer', 'hammer']","[248, 6]"
+europe,INVE-B.ST,1d,['inverted_hammer'],[242]
 europe,IPN.PA,1d,,
-europe,ISP.MI,1d,"['inverted_hammer', 'hammer']","[241, 2]"
+europe,ISP.MI,1d,"['inverted_hammer', 'hammer']","[245, 6]"
 europe,ISS.CO,1d,,
-europe,ITX.MC,1d,"['hammer', 'inverted_hammer']","[39, 15]"
-europe,JD.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[297, 294, 268, 192, 95]"
-europe,JEN.DE,1d,['hammer'],[2]
-europe,JMAT.L,1d,"['inverted_hammer', 'hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer']","[956, 713, 712, 455, 320]"
-europe,KBC.BR,1d,['inverted_hammer'],[244]
-europe,KCR.HE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[284, 241, 190]"
-europe,KEMIRA.HE,1d,['inverted_hammer'],[239]
-europe,KER.PA,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[423, 45, 31]"
-europe,KESKOA.HE,1d,['hammer'],[17]
-europe,KGF.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'piercing_line']","[716, 554, 161, 134, 83]"
-europe,KGH.L,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[878, 788, 706, 78, 74]"
-europe,KINV-B.ST,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'rebound']","[238, 136, 44, 24, 10]"
-europe,KNEBV.HE,1d,"['inverted_hammer', 'hammer']","[239, 7]"
-europe,KPN.AS,1d,['hammer'],[94]
-europe,LAND.L,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[696, 645, 523, 268, 266]"
-europe,LATO-B.ST,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1022, 238, 203, 194]"
-europe,LDO.MI,1d,['inverted_hammer'],[80]
-europe,LEG.DE,1d,"['inverted_hammer', 'hammer', 'hammer']","[196, 97, 60]"
-europe,LGEN.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[697, 655, 413, 351, 10]"
-europe,LHA.DE,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[242, 102, 99]"
-europe,LIN.DE,1d,"['inverted_hammer', 'inverted_hammer', 'rebound']","[190, 79, 70]"
-europe,LLOY.L,1d,"['hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[1159, 997, 695, 351, 14]"
-europe,LONN.SW,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'engulfing', 'hammer']","[479, 126, 121, 120, 10]"
-europe,LR.PA,1d,"['inverted_hammer', 'hammer']","[244, 88]"
-europe,LSEG.L,1d,"['hammer', 'inverted_hammer', 'hammer, engulfing', 'inverted_hammer', 'hammer']","[487, 165, 164, 133, 33]"
-europe,MAERSK-B.CO,1d,['inverted_hammer'],[120]
+europe,ITX.MC,1d,"['hammer', 'inverted_hammer']","[43, 19]"
+europe,JD.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[301, 298, 272, 196, 99]"
+europe,JEN.DE,1d,['hammer'],[6]
+europe,JMAT.L,1d,"['inverted_hammer', 'hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer']","[960, 717, 716, 459, 324]"
+europe,KBC.BR,1d,['inverted_hammer'],[248]
+europe,KCR.HE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[288, 245, 194]"
+europe,KEMIRA.HE,1d,['inverted_hammer'],[243]
+europe,KER.PA,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[427, 49, 35]"
+europe,KESKOA.HE,1d,['hammer'],[21]
+europe,KGF.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'piercing_line', 'piercing_line']","[558, 165, 138, 87, 4]"
+europe,KGH.L,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[882, 792, 710, 82, 78]"
+europe,KINV-B.ST,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'rebound']","[242, 140, 48, 28, 14]"
+europe,KNEBV.HE,1d,"['inverted_hammer', 'hammer']","[243, 11]"
+europe,KPN.AS,1d,['hammer'],[98]
+europe,LAND.L,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[700, 649, 527, 272, 270]"
+europe,LATO-B.ST,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'rebound']","[1026, 242, 207, 198, 4]"
+europe,LDO.MI,1d,['inverted_hammer'],[84]
+europe,LEG.DE,1d,"['inverted_hammer', 'hammer', 'hammer']","[200, 101, 64]"
+europe,LGEN.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[701, 659, 417, 355, 14]"
+europe,LHA.DE,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[246, 106, 103]"
+europe,LIN.DE,1d,"['inverted_hammer', 'inverted_hammer', 'rebound']","[194, 83, 74]"
+europe,LLOY.L,1d,"['hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[1163, 1001, 699, 355, 18]"
+europe,LONN.SW,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'engulfing', 'hammer']","[483, 130, 125, 124, 14]"
+europe,LR.PA,1d,"['inverted_hammer', 'hammer']","[248, 92]"
+europe,LSEG.L,1d,"['hammer', 'inverted_hammer', 'hammer, engulfing', 'inverted_hammer', 'hammer']","[491, 169, 168, 137, 37]"
+europe,MAERSK-B.CO,1d,['inverted_hammer'],[123]
 europe,MAP.MC,1d,,
-europe,MB.MI,1d,"['inverted_hammer', 'hammer']","[241, 13]"
-europe,MBG.DE,1d,"['hammer', 'inverted_hammer']","[193, 15]"
-europe,MC.PA,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'rebound']","[364, 242, 198, 1]"
-europe,MEL.MC,1d,"['engulfing', 'hammer', 'inverted_hammer', 'hammer']","[885, 124, 120, 85]"
-europe,METSO.HE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[415, 239, 237, 10]"
-europe,MGNS.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[904, 823, 271, 261, 89]"
-europe,MKS.L,1d,"['hammer', 'hammer', 'rebound', 'inverted_hammer', 'inverted_hammer']","[1027, 1025, 882, 553, 304]"
-europe,ML.PA,1d,['inverted_hammer'],[192]
-europe,MNDI.L,1d,"['inverted_hammer', 'inverted_hammer', 'piercing_line', 'hammer', 'inverted_hammer']","[360, 359, 112, 14, 10]"
-europe,MONC.MI,1d,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer', 'inverted_hammer']","[241, 194, 166, 55, 46]"
-europe,MRK.DE,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer, engulfing', 'hammer']","[242, 161, 157, 5, 2]"
-europe,MRO.L,1d,"['inverted_hammer', 'engulfing', 'hammer', 'hammer', 'hammer']","[1019, 880, 442, 262, 240]"
-europe,MT.AS,1d,"['inverted_hammer', 'inverted_hammer']","[416, 242]"
-europe,MTX.DE,1d,"['hammer', 'inverted_hammer', 'hammer']","[166, 131, 86]"
-europe,MUV2.DE,1d,"['hammer', 'hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer']","[197, 138, 83, 81, 41]"
-europe,NDA-FI.HE,1d,['inverted_hammer'],[239]
-europe,NDA-SE.ST,1d,['inverted_hammer'],[497]
-europe,NESN.SW,1d,"['inverted_hammer', 'engulfing', 'hammer', 'hammer']","[189, 159, 41, 40]"
-europe,NETC.CO,1d,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer', 'hammer']","[595, 594, 484, 483, 163]"
-europe,NEXI.MI,1d,"['engulfing', 'inverted_hammer', 'rebound', 'rebound', 'engulfing']","[89, 26, 25, 12, 10]"
-europe,NG.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'piercing_line', 'hammer']","[493, 352, 351, 218, 141]"
-europe,NIBE-B.ST,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[441, 241, 238, 236, 44]"
+europe,MB.MI,1d,"['inverted_hammer', 'hammer']","[245, 17]"
+europe,MBG.DE,1d,"['hammer', 'inverted_hammer', 'piercing_line']","[197, 19, 4]"
+europe,MC.PA,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'rebound', 'engulfing']","[368, 246, 202, 5, 4]"
+europe,MEL.MC,1d,"['engulfing', 'hammer', 'inverted_hammer', 'hammer']","[889, 128, 124, 89]"
+europe,METSO.HE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[419, 243, 241, 14]"
+europe,MGNS.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[908, 827, 275, 265, 93]"
+europe,MKS.L,1d,"['hammer', 'hammer', 'rebound', 'inverted_hammer', 'inverted_hammer']","[1031, 1029, 886, 557, 308]"
+europe,ML.PA,1d,['inverted_hammer'],[196]
+europe,MNDI.L,1d,"['inverted_hammer', 'inverted_hammer', 'piercing_line', 'hammer', 'inverted_hammer']","[364, 363, 116, 18, 14]"
+europe,MONC.MI,1d,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer', 'inverted_hammer']","[245, 198, 170, 59, 50]"
+europe,MRK.DE,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer, engulfing', 'hammer']","[246, 165, 161, 9, 6]"
+europe,MRO.L,1d,"['inverted_hammer', 'engulfing', 'hammer', 'hammer', 'hammer']","[1023, 884, 446, 266, 244]"
+europe,MT.AS,1d,"['inverted_hammer', 'inverted_hammer']","[420, 246]"
+europe,MTX.DE,1d,"['hammer', 'inverted_hammer', 'hammer']","[170, 135, 90]"
+europe,MUV2.DE,1d,"['hammer', 'hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer']","[201, 142, 87, 85, 45]"
+europe,NDA-FI.HE,1d,['inverted_hammer'],[243]
+europe,NDA-SE.ST,1d,"['inverted_hammer', 'inverted_hammer']","[501, 2]"
+europe,NESN.SW,1d,"['inverted_hammer', 'engulfing', 'hammer', 'hammer']","[193, 163, 45, 44]"
+europe,NETC.CO,1d,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer', 'hammer']","[598, 597, 487, 486, 166]"
+europe,NEXI.MI,1d,"['engulfing', 'inverted_hammer', 'rebound', 'rebound', 'engulfing']","[93, 30, 29, 16, 14]"
+europe,NG.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'piercing_line', 'hammer']","[497, 356, 355, 222, 145]"
+europe,NIBE-B.ST,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[445, 245, 242, 240, 48]"
 europe,NOKIA.HE,1d,,
-europe,NOVN.SW,1d,"['hammer', 'inverted_hammer']","[127, 2]"
-europe,NOVO-B.CO,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[346, 236, 230, 161, 93]"
+europe,NOVN.SW,1d,"['hammer', 'inverted_hammer']","[131, 6]"
+europe,NOVO-B.CO,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[349, 239, 233, 164, 96]"
 europe,NTGY.MC,1d,,
-europe,NWG.L,1d,"['engulfing', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[778, 731, 697, 668, 610]"
-europe,NXT.L,1d,"['hammer', 'rebound', 'piercing_line', 'inverted_hammer', 'inverted_hammer']","[1039, 1022, 900, 713, 340]"
-europe,OR.PA,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[359, 244, 131, 130]"
+europe,NWG.L,1d,"['engulfing', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[782, 735, 701, 672, 614]"
+europe,NXT.L,1d,"['hammer', 'rebound', 'piercing_line', 'inverted_hammer', 'inverted_hammer']","[1043, 1026, 904, 717, 344]"
+europe,OR.PA,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[363, 248, 135, 134]"
 europe,ORA.PA,1d,,
-europe,ORSTED.CO,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'inverted_hammer']","[752, 345, 290, 213, 135]"
-europe,OUT1V.HE,1d,['inverted_hammer'],[96]
-europe,P911.DE,1d,"['inverted_hammer', 'hammer']","[137, 45]"
-europe,PHIA.AS,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'engulfing']","[870, 244, 207, 194]"
-europe,PHNX.L,1d,"['hammer', 'inverted_hammer']","[552, 489]"
+europe,ORSTED.CO,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'inverted_hammer']","[755, 348, 293, 216, 138]"
+europe,OUT1V.HE,1d,['inverted_hammer'],[100]
+europe,P911.DE,1d,"['inverted_hammer', 'hammer']","[141, 49]"
+europe,PHIA.AS,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'engulfing', 'piercing_line']","[874, 248, 211, 198, 4]"
+europe,PHNX.L,1d,"['hammer', 'inverted_hammer']","[555, 492]"
 europe,PKN.WA,1d,,
-europe,PRU.L,1d,"['inverted_hammer', 'engulfing', 'engulfing', 'hammer', 'hammer']","[554, 551, 496, 342, 108]"
-europe,PRX.AS,1d,"['inverted_hammer', 'hammer', 'hammer', 'hammer', 'rebound']","[307, 83, 77, 15, 3]"
-europe,PSM.DE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[336, 328, 248, 244, 128]"
-europe,PSN.L,1d,"['inverted_hammer', 'hammer', 'rebound', 'hammer', 'hammer']","[655, 346, 313, 164, 154]"
-europe,PSON.L,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'engulfing']","[242, 207, 198, 191, 44]"
+europe,PRU.L,1d,"['inverted_hammer', 'engulfing', 'engulfing', 'hammer', 'hammer']","[558, 555, 500, 346, 112]"
+europe,PRX.AS,1d,"['inverted_hammer', 'hammer', 'hammer', 'hammer', 'rebound']","[311, 87, 81, 19, 7]"
+europe,PSM.DE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[340, 332, 252, 248, 132]"
+europe,PSN.L,1d,"['hammer', 'rebound', 'hammer', 'hammer', 'piercing_line']","[350, 317, 168, 158, 4]"
+europe,PSON.L,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'engulfing']","[246, 211, 202, 195, 48]"
 europe,PST.MI,1d,,
-europe,PUM.DE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[242, 240, 164, 162, 161]"
-europe,QIA.DE,1d,['hammer'],[4]
-europe,RAA.DE,1d,"['piercing_line', 'inverted_hammer']","[193, 2]"
-europe,REC.MI,1d,"['inverted_hammer', 'hammer', 'hammer']","[274, 5, 2]"
-europe,REL.L,1d,"['hammer', 'rebound', 'inverted_hammer']","[1061, 94, 30]"
-europe,RHM.DE,1d,"['hammer', 'inverted_hammer']","[719, 80]"
+europe,PUM.DE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[246, 244, 168, 166, 165]"
+europe,QIA.DE,1d,['hammer'],[8]
+europe,RAA.DE,1d,"['piercing_line', 'inverted_hammer']","[197, 6]"
+europe,REC.MI,1d,"['inverted_hammer', 'hammer', 'hammer']","[278, 9, 6]"
+europe,REL.L,1d,"['hammer', 'rebound', 'inverted_hammer']","[1065, 98, 34]"
+europe,RHM.DE,1d,"['hammer', 'inverted_hammer']","[723, 84]"
 europe,RI.PA,1d,,
-europe,RIO.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[455, 404, 315, 206, 204]"
-europe,RMS.PA,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'rebound']","[1034, 423, 244, 12, 1]"
-europe,RNO.PA,1d,"['inverted_hammer', 'inverted_hammer']","[244, 197]"
-europe,ROCK-B.CO,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[544, 240, 144, 10]"
-europe,ROG.SW,1d,['inverted_hammer'],[379]
-europe,RR.L,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[1193, 1071, 978, 110, 81]"
-europe,RRTL.DE,1d,['hammer'],[196]
-europe,RS1.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[318, 316, 287, 267, 4]"
+europe,RIO.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[459, 408, 319, 210, 208]"
+europe,RMS.PA,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'rebound']","[1038, 427, 248, 16, 5]"
+europe,RNO.PA,1d,"['inverted_hammer', 'inverted_hammer']","[248, 201]"
+europe,ROCK-B.CO,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[547, 243, 147, 13]"
+europe,ROG.SW,1d,['inverted_hammer'],[382]
+europe,RR.L,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'engulfing']","[1197, 1075, 982, 114, 85]"
+europe,RRTL.DE,1d,['hammer'],[200]
+europe,RS1.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[322, 320, 291, 271, 8]"
 europe,RWE.DE,1d,,
-europe,SAB.MC,1d,['hammer'],[44]
-europe,SAGA-B.ST,1d,['engulfing'],[78]
-europe,SAN.MC,1d,['inverted_hammer'],[242]
-europe,SAN.PA,1d,"['hammer', 'hammer', 'hammer']","[208, 71, 44]"
-europe,SAND.ST,1d,"['inverted_hammer', 'inverted_hammer']","[238, 236]"
-europe,SAP.DE,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'rebound', 'hammer']","[196, 81, 44, 37, 33]"
-europe,SASA.IS,1d,"['hammer', 'hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[628, 568, 548, 384, 293]"
-europe,SBRY.L,1d,"['rebound', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'piercing_line']","[984, 898, 713, 661, 351]"
-europe,SCA-B.ST,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[407, 240, 238, 236, 84]"
-europe,SCMN.SW,1d,"['hammer', 'hammer']","[73, 69]"
-europe,SDF.DE,1d,"['engulfing', 'hammer']","[154, 151]"
-europe,SDR.L,1d,"['hammer', 'inverted_hammer', 'rebound', 'inverted_hammer', 'inverted_hammer']","[695, 621, 611, 346, 342]"
-europe,SEB-A.ST,1d,"['hammer', 'inverted_hammer']","[241, 238]"
-europe,SGE.L,1d,"['hammer', 'engulfing', 'inverted_hammer', 'hammer', 'hammer']","[410, 258, 132, 88, 86]"
-europe,SGL.DE,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[244, 243, 161, 136, 86]"
-europe,SGO.PA,1d,"['inverted_hammer', 'inverted_hammer']","[143, 13]"
-europe,SGRO.L,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[628, 357, 350, 317, 315]"
-europe,SGSN.SW,1d,"['inverted_hammer', 'hammer']","[238, 185]"
+europe,SAB.MC,1d,['hammer'],[48]
+europe,SAGA-B.ST,1d,['engulfing'],[82]
+europe,SAN.MC,1d,['inverted_hammer'],[246]
+europe,SAN.PA,1d,"['hammer', 'hammer', 'hammer']","[212, 75, 48]"
+europe,SAND.ST,1d,"['inverted_hammer', 'inverted_hammer']","[242, 240]"
+europe,SAP.DE,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'rebound', 'hammer']","[200, 85, 48, 41, 37]"
+europe,SASA.IS,1d,"['hammer', 'hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[632, 572, 552, 388, 297]"
+europe,SBRY.L,1d,"['rebound', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'piercing_line']","[988, 902, 717, 665, 355]"
+europe,SCA-B.ST,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[411, 244, 242, 240, 88]"
+europe,SCMN.SW,1d,"['hammer', 'hammer']","[77, 73]"
+europe,SDF.DE,1d,"['engulfing', 'hammer']","[158, 155]"
+europe,SDR.L,1d,"['hammer', 'inverted_hammer', 'rebound', 'inverted_hammer', 'inverted_hammer']","[699, 625, 615, 350, 346]"
+europe,SEB-A.ST,1d,"['hammer', 'inverted_hammer']","[245, 242]"
+europe,SGE.L,1d,"['hammer', 'engulfing', 'inverted_hammer', 'hammer', 'hammer']","[414, 262, 136, 92, 90]"
+europe,SGL.DE,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[248, 247, 165, 140, 90]"
+europe,SGO.PA,1d,"['inverted_hammer', 'inverted_hammer']","[147, 17]"
+europe,SGRO.L,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[632, 361, 354, 321, 319]"
+europe,SGSN.SW,1d,"['inverted_hammer', 'hammer']","[242, 189]"
 europe,SHB-A.ST,1d,,
-europe,SHEL.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer']","[551, 413, 316]"
-europe,SIE.DE,1d,"['inverted_hammer', 'inverted_hammer']","[242, 240]"
-europe,SIKA.SW,1d,"['hammer', 'engulfing']","[96, 92]"
-europe,SINCH.ST,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[362, 334, 241, 31, 20]"
-europe,SKF-B.ST,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[241, 238, 62, 10]"
-europe,SMT.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[552, 420, 417, 413, 10]"
-europe,SMWH.L,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer']","[318, 261, 260, 247, 242]"
-europe,SPM.MI,1d,['inverted_hammer'],[241]
-europe,SPX.L,1d,"['piercing_line', 'engulfing', 'inverted_hammer', 'engulfing', 'hammer']","[953, 685, 651, 613, 499]"
+europe,SHEL.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer']","[555, 417, 320]"
+europe,SIE.DE,1d,"['inverted_hammer', 'inverted_hammer']","[246, 244]"
+europe,SIKA.SW,1d,"['hammer', 'engulfing', 'rebound']","[100, 96, 4]"
+europe,SINCH.ST,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[366, 338, 245, 35, 24]"
+europe,SKF-B.ST,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'piercing_line']","[245, 242, 66, 14, 4]"
+europe,SMT.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[556, 424, 421, 417, 14]"
+europe,SMWH.L,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer']","[322, 265, 264, 251, 246]"
+europe,SPM.MI,1d,['inverted_hammer'],[245]
+europe,SPX.L,1d,"['piercing_line', 'engulfing', 'inverted_hammer', 'engulfing', 'hammer']","[957, 689, 655, 617, 503]"
 europe,SRG.MI,1d,,
-europe,SRT.DE,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[717, 616, 461, 245, 35]"
-europe,SSAB-A.ST,1d,['inverted_hammer'],[238]
-europe,STAN.L,1d,"['engulfing', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[549, 243, 240, 14, 10]"
-europe,STERV.HE,1d,"['inverted_hammer', 'inverted_hammer']","[534, 241]"
-europe,STLAM.MI,1d,['inverted_hammer'],[134]
-europe,STMPA.PA,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1041, 1034, 394, 242]"
-europe,SU.PA,1d,['inverted_hammer'],[242]
+europe,SRT.DE,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[721, 620, 465, 249, 39]"
+europe,SSAB-A.ST,1d,['inverted_hammer'],[242]
+europe,STAN.L,1d,"['engulfing', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[553, 247, 244, 18, 14]"
+europe,STERV.HE,1d,"['inverted_hammer', 'inverted_hammer']","[538, 245]"
+europe,STLAM.MI,1d,['inverted_hammer'],[138]
+europe,STMPA.PA,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[1045, 1038, 398, 246]"
+europe,SU.PA,1d,['inverted_hammer'],[246]
 europe,SW.PA,1d,,
-europe,SWED-A.ST,1d,['hammer'],[243]
-europe,SY1.DE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing', 'hammer']","[483, 354, 326, 120, 67]"
-europe,TATE.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[304, 266, 195, 123, 118]"
+europe,SWED-A.ST,1d,['hammer'],[247]
+europe,SY1.DE,1d,"['inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing', 'hammer']","[487, 358, 330, 124, 71]"
+europe,TATE.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[308, 270, 199, 127, 122]"
 europe,TEF.MC,1d,,
 europe,TEL2-B.ST,1d,,
 europe,TELIA.ST,1d,,
-europe,TEMN.SW,1d,"['hammer', 'hammer']","[40, 33]"
-europe,TEN.MI,1d,['inverted_hammer'],[241]
-europe,TEP.PA,1d,"['hammer', 'engulfing']","[192, 131]"
-europe,THYAO.IS,1d,"['inverted_hammer', 'hammer']","[411, 108]"
-europe,TIT.MI,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[1140, 1029, 958, 737, 510]"
-europe,TKA.DE,1d,['hammer'],[10]
-europe,TPK.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[554, 552, 510, 271, 258]"
-europe,TREL-B.ST,1d,"['inverted_hammer', 'hammer', 'inverted_hammer']","[238, 118, 117]"
+europe,TEMN.SW,1d,"['hammer', 'hammer']","[44, 37]"
+europe,TEN.MI,1d,['inverted_hammer'],[245]
+europe,TEP.PA,1d,"['hammer', 'engulfing', 'rebound']","[196, 135, 3]"
+europe,THYAO.IS,1d,"['inverted_hammer', 'hammer']","[415, 112]"
+europe,TIT.MI,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[1144, 1033, 962, 741, 514]"
+europe,TKA.DE,1d,['hammer'],[14]
+europe,TPK.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[558, 556, 514, 275, 262]"
+europe,TREL-B.ST,1d,"['inverted_hammer', 'hammer', 'inverted_hammer']","[242, 122, 121]"
 europe,TRN.MI,1d,,
 europe,TRV.DE,1d,"['hammer', 'inverted_hammer', 'engulfing', 'hammer']","[211, 187, 183, 46]"
 europe,TRYG.CO,1d,,
-europe,TSCO.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[970, 956, 900, 887, 713]"
-europe,TTE.PA,1d,['inverted_hammer'],[244]
-europe,TW.L,1d,"['hammer', 'hammer', 'inverted_hammer', 'rebound', 'inverted_hammer']","[897, 686, 522, 242, 174]"
-europe,UCB.BR,1d,['inverted_hammer'],[987]
-europe,UCG.MI,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[241, 6, 2]"
-europe,ULVR.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[608, 517, 489, 343, 315]"
-europe,UNI.MI,1d,"['inverted_hammer', 'inverted_hammer']","[410, 241]"
-europe,UPM.HE,1d,['inverted_hammer'],[239]
-europe,URW.PA,1d,"['inverted_hammer', 'hammer']","[244, 10]"
-europe,UTG.L,1d,"['inverted_hammer', 'inverted_hammer', 'rebound', 'hammer', 'rebound']","[165, 145, 115, 109, 88]"
-europe,VIE.PA,1d,"['inverted_hammer', 'hammer', 'engulfing']","[244, 146, 140]"
-europe,VIV.PA,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'inverted_hammer']","[244, 242, 127, 86, 28]"
-europe,VNA.DE,1d,['hammer'],[171]
-europe,VOD.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[722, 713, 585, 450, 240]"
-europe,VOLV-B.ST,1d,"['inverted_hammer', 'hammer']","[238, 134]"
-europe,VOW3.DE,1d,"['inverted_hammer', 'inverted_hammer']","[126, 12]"
-europe,VWS.CO,1d,"['hammer', 'engulfing', 'inverted_hammer', 'hammer', 'hammer']","[492, 431, 341, 30, 26]"
-europe,WCH.DE,1d,"['inverted_hammer', 'inverted_hammer']","[242, 240]"
-europe,WEIR.L,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[1137, 1072, 903, 900, 623]"
+europe,TSCO.L,1d,"['hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[974, 960, 904, 891, 717]"
+europe,TTE.PA,1d,['inverted_hammer'],[248]
+europe,TW.L,1d,"['hammer', 'hammer', 'inverted_hammer', 'rebound', 'inverted_hammer']","[901, 690, 526, 246, 178]"
+europe,UCB.BR,1d,['inverted_hammer'],[991]
+europe,UCG.MI,1d,"['inverted_hammer', 'inverted_hammer', 'hammer']","[245, 10, 6]"
+europe,ULVR.L,1d,"['inverted_hammer', 'hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[493, 347, 319, 4, 1]"
+europe,UNI.MI,1d,"['inverted_hammer', 'inverted_hammer']","[414, 245]"
+europe,UPM.HE,1d,['inverted_hammer'],[243]
+europe,URW.PA,1d,"['inverted_hammer', 'hammer']","[248, 14]"
+europe,UTG.L,1d,"['inverted_hammer', 'inverted_hammer', 'rebound', 'hammer', 'rebound']","[169, 149, 119, 113, 92]"
+europe,VIE.PA,1d,"['inverted_hammer', 'hammer', 'engulfing']","[248, 150, 144]"
+europe,VIV.PA,1d,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[131, 90, 32, 4, 1]"
+europe,VNA.DE,1d,['hammer'],[175]
+europe,VOD.L,1d,"['inverted_hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'hammer']","[726, 717, 589, 454, 244]"
+europe,VOLV-B.ST,1d,"['inverted_hammer', 'hammer', 'engulfing']","[242, 138, 4]"
+europe,VOW3.DE,1d,"['inverted_hammer', 'inverted_hammer']","[130, 16]"
+europe,VWS.CO,1d,"['hammer', 'engulfing', 'inverted_hammer', 'hammer', 'hammer']","[495, 434, 344, 33, 29]"
+europe,WCH.DE,1d,"['inverted_hammer', 'inverted_hammer']","[246, 244]"
+europe,WEIR.L,1d,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[1141, 1076, 907, 904, 627]"
 europe,WHR.L,1d,"['inverted_hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer']","[544, 543, 542, 409, 406]"
-europe,WKL.AS,1d,"['engulfing', 'piercing_line', 'inverted_hammer', 'hammer']","[88, 41, 36, 31]"
-europe,WLN.PA,1d,"['inverted_hammer', 'hammer', 'hammer', 'engulfing', 'hammer']","[73, 37, 10, 7, 2]"
-europe,WOSG.L,1d,"['inverted_hammer', 'piercing_line', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[554, 300, 271, 268, 179]"
-europe,WPP.L,1d,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'engulfing', 'engulfing']","[176, 123, 98, 93, 31]"
+europe,WKL.AS,1d,"['engulfing', 'piercing_line', 'inverted_hammer', 'hammer']","[92, 45, 40, 35]"
+europe,WLN.PA,1d,"['inverted_hammer', 'hammer', 'hammer', 'engulfing', 'hammer']","[77, 41, 14, 11, 6]"
+europe,WOSG.L,1d,"['inverted_hammer', 'piercing_line', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer']","[558, 304, 275, 272, 183]"
+europe,WPP.L,1d,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'engulfing', 'engulfing']","[180, 127, 102, 97, 35]"
 europe,WRT1V.HE,1d,,
-europe,WTB.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[97, 87, 77, 75, 16]"
-europe,ZAL.DE,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'inverted_hammer']","[628, 259, 213, 93, 90]"
-europe,ZURN.SW,1d,"['inverted_hammer', 'hammer']","[238, 105]"
+europe,WTB.L,1d,"['inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[101, 91, 81, 79, 20]"
+europe,ZAL.DE,1d,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'inverted_hammer']","[632, 263, 217, 97, 94]"
+europe,ZURN.SW,1d,"['inverted_hammer', 'hammer']","[242, 109]"
 europe,AAL.L,1w,,
 europe,AALB.AS,1w,,
 europe,ABBN.SW,1w,,
 europe,ABBV.SW,1w,,
-europe,ABF.L,1w,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'engulfing']","[237, 233, 207, 181, 79]"
+europe,ABF.L,1w,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'engulfing']","[238, 234, 208, 182, 80]"
 europe,ABI.BR,1w,,
 europe,ABN.AS,1w,,
-europe,AC.PA,1w,,
+europe,AC.PA,1w,['engulfing'],[1]
 europe,ACA.PA,1w,,
 europe,ACS.MC,1w,,
-europe,AD.AS,1w,['hammer'],[8]
+europe,AD.AS,1w,['hammer'],[9]
 europe,ADEN.SW,1w,,
 europe,ADM.L,1w,,
-europe,ADS.DE,1w,"['piercing_line', 'hammer']","[211, 20]"
+europe,ADS.DE,1w,"['piercing_line', 'hammer']","[212, 21]"
 europe,AENA.MC,1w,,
-europe,AF.PA,1w,"['hammer', 'hammer', 'inverted_hammer']","[130, 126, 106]"
-europe,AIR.PA,1w,['inverted_hammer'],[2]
-europe,AIXA.DE,1w,['hammer'],[80]
+europe,AF.PA,1w,"['hammer', 'hammer', 'inverted_hammer']","[131, 127, 107]"
+europe,AIR.PA,1w,['inverted_hammer'],[3]
+europe,AIXA.DE,1w,['hammer'],[81]
 europe,ALFA.ST,1w,,
-europe,ALK-B.CO,1w,"['hammer', 'hammer', 'engulfing', 'inverted_hammer', 'hammer']","[213, 174, 173, 171, 170]"
-europe,ALO.PA,1w,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'engulfing']","[214, 128, 126, 121, 119]"
+europe,ALK-B.CO,1w,"['hammer', 'hammer', 'engulfing', 'inverted_hammer', 'hammer']","[214, 175, 174, 172, 171]"
+europe,ALO.PA,1w,"['inverted_hammer', 'inverted_hammer', 'hammer', 'hammer', 'engulfing']","[215, 129, 127, 122, 120]"
 europe,ALV.DE,1w,,
 europe,AMS.MC,1w,,
-europe,ANTO.L,1w,['hammer'],[194]
-europe,ASM.AS,1w,"['hammer', 'inverted_hammer', 'engulfing', 'hammer', 'hammer']","[213, 212, 211, 194, 54]"
+europe,ANTO.L,1w,['hammer'],[195]
+europe,ASM.AS,1w,"['hammer', 'inverted_hammer', 'engulfing', 'hammer', 'hammer']","[214, 213, 212, 195, 55]"
 europe,ASML.AS,1w,,
 europe,ASSA-B.ST,1w,,
 europe,ATCO-A.ST,1w,,
 europe,ATCO-B.ST,1w,,
-europe,ATO.PA,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'inverted_hammer']","[136, 110, 109, 104, 2]"
-europe,AUTO.L,1w,"['hammer', 'hammer', 'hammer']","[202, 15, 11]"
+europe,ATO.PA,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'inverted_hammer']","[137, 111, 110, 105, 3]"
+europe,AUTO.L,1w,"['hammer', 'hammer', 'hammer']","[203, 16, 12]"
 europe,AV.L,1w,,
 europe,AZA.ST,1w,,
-europe,AZM.MI,1w,"['inverted_hammer', 'inverted_hammer']","[50, 2]"
+europe,AZM.MI,1w,"['inverted_hammer', 'inverted_hammer']","[51, 3]"
 europe,AZN.L,1w,,
 europe,BA.L,1w,,
-europe,BAB.L,1w,['inverted_hammer'],[179]
-europe,BAER.SW,1w,['inverted_hammer'],[50]
+europe,BAB.L,1w,['inverted_hammer'],[180]
+europe,BAER.SW,1w,['inverted_hammer'],[51]
 europe,BAMI.MI,1w,,
-europe,BARC.L,1w,"['inverted_hammer', 'inverted_hammer']","[157, 2]"
-europe,BAS.DE,1w,['inverted_hammer'],[50]
+europe,BARC.L,1w,"['inverted_hammer', 'inverted_hammer', 'piercing_line']","[158, 3, 1]"
+europe,BAS.DE,1w,['inverted_hammer'],[51]
 europe,BATS.L,1w,,
 europe,BAVA.CO,1w,,
-europe,BAYN.DE,1w,['hammer'],[69]
-europe,BEI.DE,1w,,
-europe,BESI.AS,1w,['inverted_hammer'],[50]
-europe,BHP.L,1w,['inverted_hammer'],[106]
-europe,BLND.L,1w,"['hammer', 'inverted_hammer', 'hammer']","[182, 181, 71]"
+europe,BAYN.DE,1w,['hammer'],[70]
+europe,BEI.DE,1w,['piercing_line'],[1]
+europe,BESI.AS,1w,['inverted_hammer'],[51]
+europe,BHP.L,1w,['inverted_hammer'],[107]
+europe,BLND.L,1w,"['hammer', 'inverted_hammer', 'hammer']","[183, 182, 72]"
 europe,BMW.DE,1w,,
 europe,BN.PA,1w,,
 europe,BNP.PA,1w,,
-europe,BNR.DE,1w,['inverted_hammer'],[50]
+europe,BNR.DE,1w,['inverted_hammer'],[51]
 europe,BOL.ST,1w,,
 europe,BOSS.DE,1w,,
-europe,BP.L,1w,"['inverted_hammer', 'engulfing']","[85, 79]"
+europe,BP.L,1w,"['inverted_hammer', 'engulfing']","[86, 80]"
 europe,BPE.MI,1w,,
-europe,BRBY.L,1w,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[121, 92, 90, 80, 2]"
-europe,BT-A.L,1w,['inverted_hammer'],[135]
+europe,BRBY.L,1w,"['hammer', 'hammer', 'hammer', 'hammer', 'inverted_hammer']","[122, 93, 91, 81, 3]"
+europe,BT-A.L,1w,['inverted_hammer'],[136]
 europe,CA.PA,1w,,
 europe,CABK.MC,1w,,
-europe,CAP.PA,1w,"['hammer', 'engulfing']","[33, 4]"
+europe,CAP.PA,1w,"['hammer', 'engulfing']","[34, 5]"
 europe,CARL-B.CO,1w,,
-europe,CBK.DE,1w,['inverted_hammer'],[2]
+europe,CBK.DE,1w,['inverted_hammer'],[3]
 europe,CLNX.MC,1w,,
 europe,CNA.L,1w,,
-europe,COFA.PA,1w,['inverted_hammer'],[2]
+europe,COFA.PA,1w,['inverted_hammer'],[3]
 europe,COL.MC,1w,,
 europe,COLO-B.CO,1w,,
 europe,COLR.BR,1w,,
 europe,CPG.L,1w,,
-europe,CPR.MI,1w,"['hammer', 'inverted_hammer']","[62, 59]"
-europe,CRDA.L,1w,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[214, 128, 31]"
-europe,CRH.L,1w,"['piercing_line', 'hammer', 'hammer']","[211, 207, 196]"
+europe,CPR.MI,1w,"['hammer', 'inverted_hammer']","[63, 60]"
+europe,CRDA.L,1w,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[215, 129, 32]"
+europe,CRH.L,1w,"['piercing_line', 'hammer', 'hammer']","[212, 208, 197]"
 europe,CS.PA,1w,,
-europe,DB1.DE,1w,['hammer'],[26]
-europe,DBK.DE,1w,"['inverted_hammer', 'inverted_hammer']","[2, 1]"
+europe,DB1.DE,1w,['hammer'],[27]
+europe,DBK.DE,1w,"['inverted_hammer', 'inverted_hammer']","[3, 2]"
 europe,DCC.L,1w,,
-europe,DEMANT.CO,1w,"['hammer', 'engulfing']","[213, 212]"
+europe,DEMANT.CO,1w,"['hammer', 'engulfing']","[214, 213]"
 europe,DG.PA,1w,,
-europe,DGE.L,1w,"['hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer']","[92, 51, 50, 39, 15]"
-europe,DHER.DE,1w,"['inverted_hammer', 'hammer', 'engulfing', 'engulfing', 'inverted_hammer']","[212, 204, 59, 50, 2]"
-europe,DIA.MI,1w,['hammer'],[23]
-europe,DSV.CO,1w,"['hammer', 'inverted_hammer']","[213, 50]"
+europe,DGE.L,1w,"['hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer']","[93, 52, 51, 40, 16]"
+europe,DHER.DE,1w,"['inverted_hammer', 'hammer', 'engulfing', 'engulfing', 'inverted_hammer']","[213, 205, 60, 51, 3]"
+europe,DIA.MI,1w,['hammer'],[24]
+europe,DSV.CO,1w,"['hammer', 'inverted_hammer']","[214, 51]"
 europe,DTE.DE,1w,,
-europe,EDEN.PA,1w,['inverted_hammer'],[9]
-europe,EL.PA,1w,['inverted_hammer'],[2]
+europe,EDEN.PA,1w,['inverted_hammer'],[10]
+europe,EL.PA,1w,['inverted_hammer'],[3]
 europe,ELE.MC,1w,,
-europe,ELISA.HE,1w,"['hammer', 'hammer']","[20, 18]"
-europe,ELUX-B.ST,1w,['inverted_hammer'],[184]
+europe,ELISA.HE,1w,"['hammer', 'hammer']","[21, 19]"
+europe,ELUX-B.ST,1w,['inverted_hammer'],[185]
 europe,ENEL.MI,1w,,
 europe,ENGI.PA,1w,,
 europe,ENI.MI,1w,,
 europe,EOAN.DE,1w,,
 europe,EQT.ST,1w,,
 europe,ERG.MI,1w,,
-europe,ERIC-B.ST,1w,['inverted_hammer'],[50]
-europe,EVD.DE,1w,"['hammer', 'engulfing']","[5, 4]"
+europe,ERIC-B.ST,1w,['inverted_hammer'],[51]
+europe,EVD.DE,1w,"['hammer', 'engulfing']","[6, 5]"
 europe,EVK.DE,1w,,
-europe,EXPN.L,1w,"['inverted_hammer', 'inverted_hammer']","[214, 157]"
-europe,FBK.MI,1w,['inverted_hammer'],[2]
+europe,EXPN.L,1w,"['inverted_hammer', 'inverted_hammer']","[215, 158]"
+europe,FBK.MI,1w,['inverted_hammer'],[3]
 europe,FER.MC,1w,,
-europe,FME.DE,1w,"['hammer', 'hammer', 'engulfing']","[15, 11, 8]"
+europe,FME.DE,1w,"['hammer', 'hammer', 'engulfing']","[16, 12, 9]"
 europe,FNTN.DE,1w,,
 europe,FORTUM.HE,1w,,
 europe,FRE.DE,1w,,
-europe,FRES.L,1w,"['hammer', 'hammer']","[108, 105]"
+europe,FRES.L,1w,"['hammer', 'hammer']","[109, 106]"
 europe,G.MI,1w,,
 europe,G1A.DE,1w,,
-europe,GEBN.SW,1w,['inverted_hammer'],[2]
+europe,GEBN.SW,1w,['inverted_hammer'],[3]
 europe,GET.PA,1w,,
 europe,GIL.DE,1w,,
-europe,GLE.PA,1w,['inverted_hammer'],[85]
-europe,GLEN.L,1w,['hammer'],[80]
-europe,GN.CO,1w,"['inverted_hammer', 'hammer', 'engulfing', 'hammer']","[212, 202, 180, 130]"
-europe,GRF.MC,1w,"['inverted_hammer', 'hammer', 'engulfing', 'inverted_hammer']","[214, 190, 185, 180]"
+europe,GLE.PA,1w,['inverted_hammer'],[86]
+europe,GLEN.L,1w,['hammer'],[81]
+europe,GN.CO,1w,"['inverted_hammer', 'hammer', 'engulfing', 'hammer']","[213, 203, 181, 131]"
+europe,GRF.MC,1w,"['inverted_hammer', 'hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer']","[215, 191, 186, 181, 1]"
 europe,GSK.L,1w,,
 europe,HAG.DE,1w,,
-europe,HEI.DE,1w,['inverted_hammer'],[2]
+europe,HEI.DE,1w,['inverted_hammer'],[3]
 europe,HEN3.DE,1w,,
 europe,HER.MI,1w,,
-europe,HEXA-B.ST,1w,"['hammer', 'inverted_hammer']","[132, 50]"
-europe,HIK.L,1w,['hammer'],[121]
-europe,HLMA.L,1w,"['hammer', 'engulfing']","[213, 211]"
+europe,HEXA-B.ST,1w,"['hammer', 'inverted_hammer']","[133, 51]"
+europe,HIK.L,1w,['hammer'],[122]
+europe,HLMA.L,1w,"['hammer', 'engulfing']","[214, 212]"
 europe,HM-B.ST,1w,,
-europe,HMSO.L,1w,['hammer'],[202]
+europe,HMSO.L,1w,['hammer'],[203]
 europe,HO.PA,1w,,
 europe,HOLN.SW,1w,,
-europe,HSBA.L,1w,"['hammer', 'hammer']","[236, 235]"
-europe,HUH1V.HE,1w,['inverted_hammer'],[50]
-europe,IAG.L,1w,"['hammer', 'inverted_hammer']","[236, 2]"
+europe,HSBA.L,1w,"['hammer', 'hammer']","[237, 236]"
+europe,HUH1V.HE,1w,['inverted_hammer'],[51]
+europe,IAG.L,1w,"['hammer', 'inverted_hammer']","[237, 3]"
 europe,IBE.MC,1w,,
 europe,IFX.DE,1w,,
 europe,IG.MI,1w,,
 europe,IHG.L,1w,,
-europe,III.L,1w,['hammer'],[16]
-europe,ILU.F,1w,['engulfing'],[53]
-europe,IMB.L,1w,['hammer'],[147]
-europe,IMCD.AS,1w,"['hammer', 'hammer']","[31, 18]"
-europe,IMI.L,1w,['hammer'],[196]
+europe,III.L,1w,['hammer'],[17]
+europe,ILU.F,1w,['engulfing'],[54]
+europe,IMB.L,1w,['hammer'],[148]
+europe,IMCD.AS,1w,"['hammer', 'hammer']","[32, 19]"
+europe,IMI.L,1w,['hammer'],[197]
 europe,INGA.AS,1w,,
 europe,INVE-B.ST,1w,,
 europe,IPN.PA,1w,,
-europe,ISP.MI,1w,['inverted_hammer'],[2]
+europe,ISP.MI,1w,"['inverted_hammer', 'piercing_line']","[3, 1]"
 europe,ISS.CO,1w,,
 europe,ITX.MC,1w,,
-europe,JD.L,1w,"['piercing_line', 'hammer', 'hammer', 'hammer']","[211, 200, 114, 51]"
-europe,JEN.DE,1w,['inverted_hammer'],[50]
-europe,JMAT.L,1w,"['inverted_hammer', 'hammer', 'inverted_hammer']","[212, 147, 93]"
+europe,JD.L,1w,"['piercing_line', 'hammer', 'hammer', 'hammer']","[212, 201, 115, 52]"
+europe,JEN.DE,1w,['inverted_hammer'],[51]
+europe,JMAT.L,1w,"['inverted_hammer', 'hammer', 'inverted_hammer']","[213, 148, 94]"
 europe,KBC.BR,1w,,
 europe,KCR.HE,1w,,
-europe,KEMIRA.HE,1w,['inverted_hammer'],[50]
+europe,KEMIRA.HE,1w,['inverted_hammer'],[51]
 europe,KER.PA,1w,,
 europe,KESKOA.HE,1w,,
-europe,KGF.L,1w,"['hammer', 'inverted_hammer', 'piercing_line', 'inverted_hammer']","[207, 205, 180, 148]"
-europe,KGH.L,1w,['engulfing'],[201]
-europe,KINV-B.ST,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[213, 212, 80, 5, 4]"
+europe,KGF.L,1w,"['hammer', 'inverted_hammer', 'piercing_line', 'inverted_hammer', 'inverted_hammer']","[208, 206, 181, 149, 1]"
+europe,KGH.L,1w,['engulfing'],[202]
+europe,KINV-B.ST,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer', 'hammer']","[214, 213, 81, 6, 5]"
 europe,KNEBV.HE,1w,,
 europe,KPN.AS,1w,,
-europe,LAND.L,1w,['hammer'],[182]
-europe,LATO-B.ST,1w,['inverted_hammer'],[2]
+europe,LAND.L,1w,['hammer'],[183]
+europe,LATO-B.ST,1w,['inverted_hammer'],[3]
 europe,LDO.MI,1w,,
-europe,LEG.DE,1w,,
+europe,LEG.DE,1w,['inverted_hammer'],[1]
 europe,LGEN.L,1w,,
-europe,LHA.DE,1w,['inverted_hammer'],[2]
-europe,LIN.DE,1w,"['hammer', 'hammer']","[18, 15]"
+europe,LHA.DE,1w,['inverted_hammer'],[3]
+europe,LIN.DE,1w,"['hammer', 'hammer']","[19, 16]"
 europe,LLOY.L,1w,,
-europe,LONN.SW,1w,['hammer'],[217]
+europe,LONN.SW,1w,['hammer'],[218]
 europe,LR.PA,1w,,
 europe,LSEG.L,1w,,
 europe,MAERSK-B.CO,1w,,
 europe,MAP.MC,1w,,
 europe,MB.MI,1w,,
 europe,MBG.DE,1w,,
-europe,MC.PA,1w,"['hammer', 'inverted_hammer']","[7, 3]"
+europe,MC.PA,1w,"['hammer', 'inverted_hammer']","[8, 4]"
 europe,MEL.MC,1w,,
-europe,METSO.HE,1w,['inverted_hammer'],[50]
-europe,MGNS.L,1w,['inverted_hammer'],[217]
-europe,MKS.L,1w,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[185, 181, 180]"
+europe,METSO.HE,1w,['inverted_hammer'],[51]
+europe,MGNS.L,1w,['inverted_hammer'],[218]
+europe,MKS.L,1w,"['inverted_hammer', 'inverted_hammer', 'engulfing']","[186, 182, 181]"
 europe,ML.PA,1w,,
-europe,MNDI.L,1w,['hammer'],[152]
-europe,MONC.MI,1w,['inverted_hammer'],[85]
-europe,MRK.DE,1w,"['inverted_hammer', 'inverted_hammer']","[50, 1]"
-europe,MRO.L,1w,"['inverted_hammer', 'hammer', 'inverted_hammer']","[203, 202, 2]"
+europe,MNDI.L,1w,['hammer'],[153]
+europe,MONC.MI,1w,['inverted_hammer'],[86]
+europe,MRK.DE,1w,"['inverted_hammer', 'inverted_hammer']","[51, 2]"
+europe,MRO.L,1w,"['inverted_hammer', 'hammer', 'inverted_hammer']","[204, 203, 3]"
 europe,MT.AS,1w,,
-europe,MTX.DE,1w,['inverted_hammer'],[50]
+europe,MTX.DE,1w,['inverted_hammer'],[51]
 europe,MUV2.DE,1w,,
 europe,NDA-FI.HE,1w,,
 europe,NDA-SE.ST,1w,,
-europe,NESN.SW,1w,['hammer'],[27]
-europe,NETC.CO,1w,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[215, 212, 181, 38]"
-europe,NEXI.MI,1w,"['hammer', 'hammer']","[197, 7]"
-europe,NG.L,1w,"['hammer', 'hammer']","[95, 93]"
+europe,NESN.SW,1w,['hammer'],[28]
+europe,NETC.CO,1w,"['hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[216, 213, 182, 39]"
+europe,NEXI.MI,1w,"['hammer', 'hammer']","[198, 8]"
+europe,NG.L,1w,"['hammer', 'hammer']","[96, 94]"
 europe,NIBE-B.ST,1w,,
 europe,NOKIA.HE,1w,,
 europe,NOVN.SW,1w,,
-europe,NOVO-B.CO,1w,['inverted_hammer'],[50]
+europe,NOVO-B.CO,1w,['inverted_hammer'],[51]
 europe,NTGY.MC,1w,,
 europe,NWG.L,1w,,
-europe,NXT.L,1w,"['hammer', 'piercing_line']","[213, 180]"
+europe,NXT.L,1w,"['hammer', 'piercing_line']","[214, 181]"
 europe,OR.PA,1w,,
 europe,ORA.PA,1w,,
-europe,ORSTED.CO,1w,"['inverted_hammer', 'inverted_hammer']","[28, 27]"
+europe,ORSTED.CO,1w,"['inverted_hammer', 'inverted_hammer']","[29, 28]"
 europe,OUT1V.HE,1w,,
 europe,P911.DE,1w,,
-europe,PHIA.AS,1w,['inverted_hammer'],[50]
-europe,PHNX.L,1w,['inverted_hammer'],[181]
+europe,PHIA.AS,1w,['inverted_hammer'],[51]
+europe,PHNX.L,1w,['inverted_hammer'],[182]
 europe,PKN.WA,1w,,
-europe,PRU.L,1w,"['hammer', 'hammer', 'inverted_hammer', 'hammer']","[213, 204, 102, 80]"
-europe,PRX.AS,1w,['piercing_line'],[211]
-europe,PSM.DE,1w,['hammer'],[194]
-europe,PSN.L,1w,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[212, 185, 181, 135, 68]"
+europe,PRU.L,1w,"['hammer', 'hammer', 'inverted_hammer', 'hammer']","[214, 205, 103, 81]"
+europe,PRX.AS,1w,"['piercing_line', 'inverted_hammer']","[212, 1]"
+europe,PSM.DE,1w,['hammer'],[195]
+europe,PSN.L,1w,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[213, 186, 182, 136, 69]"
 europe,PSON.L,1w,,
 europe,PST.MI,1w,,
-europe,PUM.DE,1w,['inverted_hammer'],[50]
+europe,PUM.DE,1w,['inverted_hammer'],[51]
 europe,QIA.DE,1w,,
 europe,RAA.DE,1w,,
-europe,REC.MI,1w,['hammer'],[1]
-europe,REL.L,1w,"['inverted_hammer', 'hammer']","[30, 18]"
-europe,RHM.DE,1w,['inverted_hammer'],[17]
+europe,REC.MI,1w,['hammer'],[2]
+europe,REL.L,1w,"['inverted_hammer', 'hammer']","[31, 19]"
+europe,RHM.DE,1w,['inverted_hammer'],[18]
 europe,RI.PA,1w,,
 europe,RIO.L,1w,,
-europe,RMS.PA,1w,['inverted_hammer'],[2]
-europe,RNO.PA,1w,"['inverted_hammer', 'hammer', 'inverted_hammer']","[40, 33, 2]"
-europe,ROCK-B.CO,1w,['inverted_hammer'],[2]
-europe,ROG.SW,1w,['inverted_hammer'],[33]
+europe,RMS.PA,1w,"['inverted_hammer', 'inverted_hammer']","[3, 1]"
+europe,RNO.PA,1w,"['inverted_hammer', 'hammer', 'inverted_hammer']","[41, 34, 3]"
+europe,ROCK-B.CO,1w,['inverted_hammer'],[3]
+europe,ROG.SW,1w,['inverted_hammer'],[34]
 europe,RR.L,1w,,
 europe,RRTL.DE,1w,,
-europe,RS1.L,1w,"['inverted_hammer', 'hammer', 'engulfing']","[214, 202, 48]"
+europe,RS1.L,1w,"['inverted_hammer', 'hammer', 'engulfing']","[215, 203, 49]"
 europe,RWE.DE,1w,,
 europe,SAB.MC,1w,,
-europe,SAGA-B.ST,1w,"['hammer', 'hammer']","[182, 5]"
+europe,SAGA-B.ST,1w,"['hammer', 'hammer']","[183, 6]"
 europe,SAN.MC,1w,,
 europe,SAN.PA,1w,,
-europe,SAND.ST,1w,['inverted_hammer'],[50]
-europe,SAP.DE,1w,['hammer'],[9]
-europe,SASA.IS,1w,['hammer'],[59]
-europe,SBRY.L,1w,"['hammer', 'inverted_hammer', 'hammer']","[207, 181, 71]"
-europe,SCA-B.ST,1w,['inverted_hammer'],[85]
+europe,SAND.ST,1w,['inverted_hammer'],[51]
+europe,SAP.DE,1w,"['hammer', 'inverted_hammer']","[10, 1]"
+europe,SASA.IS,1w,['hammer'],[60]
+europe,SBRY.L,1w,"['hammer', 'inverted_hammer', 'hammer']","[208, 182, 72]"
+europe,SCA-B.ST,1w,['inverted_hammer'],[86]
 europe,SCMN.SW,1w,,
 europe,SDF.DE,1w,,
-europe,SDR.L,1w,"['piercing_line', 'inverted_hammer', 'inverted_hammer']","[211, 203, 128]"
+europe,SDR.L,1w,"['piercing_line', 'inverted_hammer', 'inverted_hammer']","[212, 204, 129]"
 europe,SEB-A.ST,1w,,
-europe,SGE.L,1w,"['inverted_hammer', 'hammer']","[214, 197]"
-europe,SGL.DE,1w,"['hammer', 'engulfing', 'engulfing', 'engulfing', 'engulfing']","[213, 211, 125, 78, 60]"
-europe,SGO.PA,1w,['inverted_hammer'],[2]
-europe,SGRO.L,1w,"['hammer', 'hammer', 'hammer']","[202, 197, 182]"
+europe,SGE.L,1w,"['inverted_hammer', 'hammer']","[215, 198]"
+europe,SGL.DE,1w,"['hammer', 'engulfing', 'engulfing', 'engulfing', 'engulfing']","[214, 212, 126, 79, 61]"
+europe,SGO.PA,1w,"['inverted_hammer', 'piercing_line']","[3, 1]"
+europe,SGRO.L,1w,"['hammer', 'hammer', 'hammer']","[203, 198, 183]"
 europe,SGSN.SW,1w,,
 europe,SHB-A.ST,1w,,
-europe,SHEL.L,1w,"['hammer', 'inverted_hammer']","[80, 50]"
-europe,SIE.DE,1w,['inverted_hammer'],[2]
-europe,SIKA.SW,1w,"['hammer', 'inverted_hammer']","[20, 2]"
-europe,SINCH.ST,1w,"['hammer', 'engulfing', 'hammer', 'hammer']","[213, 202, 197, 194]"
+europe,SHEL.L,1w,"['hammer', 'inverted_hammer']","[81, 51]"
+europe,SIE.DE,1w,['inverted_hammer'],[3]
+europe,SIKA.SW,1w,"['hammer', 'inverted_hammer', 'piercing_line']","[21, 3, 1]"
+europe,SINCH.ST,1w,"['hammer', 'engulfing', 'hammer', 'hammer']","[214, 203, 198, 195]"
 europe,SKF-B.ST,1w,,
-europe,SMT.L,1w,"['hammer', 'hammer']","[213, 202]"
-europe,SMWH.L,1w,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer', 'hammer']","[181, 180, 50, 48, 29]"
-europe,SPM.MI,1w,['inverted_hammer'],[50]
-europe,SPX.L,1w,"['hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[217, 214, 213, 212]"
+europe,SMT.L,1w,"['hammer', 'hammer']","[214, 203]"
+europe,SMWH.L,1w,"['inverted_hammer', 'engulfing', 'inverted_hammer', 'hammer', 'hammer']","[182, 181, 51, 49, 30]"
+europe,SPM.MI,1w,['inverted_hammer'],[51]
+europe,SPX.L,1w,"['hammer', 'inverted_hammer', 'hammer', 'inverted_hammer']","[218, 215, 214, 213]"
 europe,SRG.MI,1w,,
-europe,SRT.DE,1w,"['hammer', 'inverted_hammer']","[180, 97]"
+europe,SRT.DE,1w,"['hammer', 'inverted_hammer']","[181, 98]"
 europe,SSAB-A.ST,1w,,
-europe,STAN.L,1w,['hammer'],[235]
-europe,STERV.HE,1w,['inverted_hammer'],[50]
-europe,STLAM.MI,1w,"['hammer', 'inverted_hammer']","[48, 1]"
-europe,STMPA.PA,1w,['inverted_hammer'],[85]
+europe,STAN.L,1w,['hammer'],[236]
+europe,STERV.HE,1w,['inverted_hammer'],[51]
+europe,STLAM.MI,1w,"['hammer', 'inverted_hammer']","[49, 2]"
+europe,STMPA.PA,1w,['inverted_hammer'],[86]
 europe,SU.PA,1w,,
 europe,SW.PA,1w,,
 europe,SWED-A.ST,1w,,
-europe,SY1.DE,1w,"['hammer', 'hammer']","[18, 15]"
-europe,TATE.L,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer']","[182, 142, 52, 2]"
+europe,SY1.DE,1w,"['hammer', 'hammer']","[19, 16]"
+europe,TATE.L,1w,"['hammer', 'inverted_hammer', 'hammer', 'hammer']","[183, 143, 53, 3]"
 europe,TEF.MC,1w,,
 europe,TEL2-B.ST,1w,,
 europe,TELIA.ST,1w,,
@@ -1678,38 +1678,38 @@ europe,TEMN.SW,1w,,
 europe,TEN.MI,1w,,
 europe,TEP.PA,1w,,
 europe,THYAO.IS,1w,,
-europe,TIT.MI,1w,['engulfing'],[182]
+europe,TIT.MI,1w,['engulfing'],[183]
 europe,TKA.DE,1w,,
-europe,TPK.L,1w,"['hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'engulfing']","[182, 181, 180, 68, 48]"
-europe,TREL-B.ST,1w,['inverted_hammer'],[50]
+europe,TPK.L,1w,"['hammer', 'inverted_hammer', 'engulfing', 'inverted_hammer', 'engulfing']","[183, 182, 181, 69, 49]"
+europe,TREL-B.ST,1w,['inverted_hammer'],[51]
 europe,TRN.MI,1w,,
 europe,TRV.DE,1w,['inverted_hammer'],[37]
 europe,TRYG.CO,1w,,
-europe,TSCO.L,1w,['inverted_hammer'],[181]
+europe,TSCO.L,1w,['inverted_hammer'],[182]
 europe,TTE.PA,1w,,
-europe,TW.L,1w,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[196, 180, 70, 53, 29]"
+europe,TW.L,1w,"['hammer', 'hammer', 'hammer', 'inverted_hammer', 'hammer']","[197, 181, 71, 54, 30]"
 europe,UCB.BR,1w,,
 europe,UCG.MI,1w,,
 europe,ULVR.L,1w,,
 europe,UNI.MI,1w,,
-europe,UPM.HE,1w,['inverted_hammer'],[50]
-europe,URW.PA,1w,['inverted_hammer'],[50]
-europe,UTG.L,1w,"['hammer', 'engulfing', 'piercing_line']","[182, 26, 22]"
+europe,UPM.HE,1w,['inverted_hammer'],[51]
+europe,URW.PA,1w,['inverted_hammer'],[51]
+europe,UTG.L,1w,"['hammer', 'engulfing', 'piercing_line']","[183, 27, 23]"
 europe,VIE.PA,1w,,
-europe,VIV.PA,1w,"['hammer', 'hammer', 'hammer']","[71, 68, 9]"
+europe,VIV.PA,1w,"['hammer', 'hammer', 'hammer']","[72, 69, 10]"
 europe,VNA.DE,1w,,
-europe,VOD.L,1w,['inverted_hammer'],[181]
+europe,VOD.L,1w,['inverted_hammer'],[182]
 europe,VOLV-B.ST,1w,,
 europe,VOW3.DE,1w,,
-europe,VWS.CO,1w,"['hammer', 'hammer', 'inverted_hammer']","[82, 71, 50]"
+europe,VWS.CO,1w,"['hammer', 'hammer', 'inverted_hammer']","[83, 72, 51]"
 europe,WCH.DE,1w,,
 europe,WEIR.L,1w,,
 europe,WHR.L,1w,['inverted_hammer'],[122]
-europe,WKL.AS,1w,"['hammer', 'engulfing']","[18, 4]"
-europe,WLN.PA,1w,"['hammer', 'hammer', 'inverted_hammer']","[197, 130, 2]"
-europe,WOSG.L,1w,['engulfing'],[48]
-europe,WPP.L,1w,"['hammer', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[130, 126, 85, 32, 20]"
+europe,WKL.AS,1w,"['hammer', 'engulfing']","[19, 5]"
+europe,WLN.PA,1w,"['hammer', 'hammer', 'inverted_hammer', 'inverted_hammer']","[198, 131, 3, 1]"
+europe,WOSG.L,1w,['engulfing'],[49]
+europe,WPP.L,1w,"['hammer', 'hammer', 'inverted_hammer', 'hammer', 'hammer']","[131, 127, 86, 33, 21]"
 europe,WRT1V.HE,1w,,
-europe,WTB.L,1w,"['inverted_hammer', 'engulfing']","[106, 50]"
-europe,ZAL.DE,1w,"['inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[214, 196, 115, 19, 4]"
+europe,WTB.L,1w,"['inverted_hammer', 'engulfing']","[107, 51]"
+europe,ZAL.DE,1w,"['inverted_hammer', 'hammer', 'inverted_hammer', 'inverted_hammer', 'engulfing']","[215, 197, 116, 20, 5]"
 europe,ZURN.SW,1w,,
