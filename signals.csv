@@ -136,7 +136,6 @@ sp500,ATR,1d,"['hammer', 'RSI_OVERSOLD', 'hammer, rebound', 'hammer', 'RSI_OVERS
 sp500,AUB,1d,"['hammer', 'hammer', 'hammer', 'RSI_OVERSOLD', 'hammer']","[288, 139, 138, 131, 4]"
 sp500,AVA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'hammer']","[807, 747, 342, 197, 35]"
 sp500,AVAV,1d,"['rebound', 'hammer', 'hammer', 'hammer', 'hammer']","[391, 389, 379, 209, 94]"
-sp500,AVB,1d,,
 sp500,AVGO,1d,"['RSI_OVERSOLD', 'inverted_hammer', 'inverted_hammer', 'RSI_OVERSOLD', 'engulfing']","[1000, 999, 391, 371, 369]"
 sp500,AVNT,1d,"['hammer', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[369, 366, 219, 216, 4]"
 sp500,AVT,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'inverted_hammer']","[887, 857, 659, 369, 214]"
@@ -433,7 +432,6 @@ sp500,DXC,1d,"['inverted_hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'inverted_hamm
 sp500,DXCM,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'inverted_hammer', 'inverted_hammer']","[246, 224, 220, 135, 111]"
 sp500,DXPE,1d,"['engulfing', 'hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[1032, 885, 784, 510, 215]"
 sp500,DY,1d,"['piercing_line', 'hammer', 'engulfing', 'inverted_hammer', 'RSI_OVERSOLD']","[368, 140, 138, 135, 20]"
-sp500,EA,1d,,
 sp500,EAT,1d,"['engulfing', 'inverted_hammer, RSI_OVERSOLD', 'hammer', 'inverted_hammer', 'hammer']","[245, 226, 139, 10, 4]"
 sp500,EBAY,1d,"['inverted_hammer', 'hammer', 'RSI_OVERSOLD', 'inverted_hammer', 'engulfing']","[476, 475, 474, 267, 223]"
 sp500,EBC,1d,"['rebound', 'RSI_OVERSOLD', 'hammer', 'hammer', 'RSI_OVERSOLD']","[887, 883, 725, 427, 389]"
@@ -475,7 +473,6 @@ sp500,EPR,1d,"['RSI_OVERSOLD', 'inverted_hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD'
 sp500,EPRT,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'inverted_hammer', 'inverted_hammer']","[747, 440, 386, 104, 4]"
 sp500,EQH,1d,"['hammer', 'inverted_hammer', 'RSI_OVERSOLD', 'hammer', 'hammer']","[214, 171, 148, 142, 136]"
 sp500,EQIX,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'engulfing', 'inverted_hammer, RSI_OVERSOLD']","[388, 369, 313, 208, 201]"
-sp500,EQR,1d,,
 sp500,EQT,1d,"['engulfing', 'hammer', 'hammer', 'RSI_OVERSOLD', 'hammer']","[69, 47, 7, 6, 3]"
 sp500,ERIE,1d,"['hammer', 'hammer', 'rebound', 'inverted_hammer', 'hammer']","[251, 138, 136, 129, 101]"
 sp500,ES,1d,"['inverted_hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'inverted_hammer', 'RSI_OVERSOLD']","[220, 211, 129, 38, 2]"
@@ -1643,7 +1640,6 @@ sp500,ATR,1w,"['inverted_hammer', 'hammer', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERS
 sp500,AUB,1w,"['hammer, RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[414, 407, 344, 179, 78]"
 sp500,AVA,1w,"['RSI_OVERSOLD', 'engulfing']","[408, 398]"
 sp500,AVAV,1w,['RSI_OVERSOLD'],[251]
-sp500,AVB,1w,,
 sp500,AVGO,1w,['RSI_OVERSOLD'],[342]
 sp500,AVNT,1w,"['RSI_OVERSOLD', 'hammer', 'inverted_hammer', 'RSI_OVERSOLD', 'hammer']","[209, 207, 91, 78, 45]"
 sp500,AVT,1w,"['hammer', 'RSI_OVERSOLD', 'inverted_hammer', 'RSI_OVERSOLD']","[489, 344, 80, 78]"
@@ -1940,7 +1936,6 @@ sp500,DXC,1w,"['inverted_hammer', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', '
 sp500,DXCM,1w,"['hammer', 'piercing_line', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[229, 157, 155, 118, 114]"
 sp500,DXPE,1w,"['hammer', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[478, 463, 343, 333]"
 sp500,DY,1w,"['RSI_OVERSOLD', 'hammer', 'inverted_hammer', 'inverted_hammer', 'hammer']","[344, 342, 199, 155, 4]"
-sp500,EA,1w,,
 sp500,EAT,1w,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[473, 343, 337, 47]"
 sp500,EBAY,1w,"['RSI_OVERSOLD', 'hammer', 'engulfing', 'RSI_OVERSOLD']","[415, 244, 239, 238]"
 sp500,EBC,1w,['RSI_OVERSOLD'],[186]
@@ -1982,7 +1977,6 @@ sp500,EPR,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']",
 sp500,EPRT,1w,"['RSI_OVERSOLD', 'hammer', 'hammer', 'hammer']","[341, 229, 224, 157]"
 sp500,EQH,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer, engulfing', 'RSI_OVERSOLD']","[407, 342, 45, 31]"
 sp500,EQIX,1w,"['hammer', 'inverted_hammer', 'hammer']","[244, 80, 43]"
-sp500,EQR,1w,,
 sp500,EQT,1w,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'hammer', 'hammer']","[374, 369, 349, 344, 190]"
 sp500,ERIE,1w,"['engulfing', 'hammer', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[275, 170, 31, 29, 23]"
 sp500,ES,1w,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[160, 157, 151]"
@@ -3150,7 +3144,6 @@ sp500,ATR,1M,,
 sp500,AUB,1M,,
 sp500,AVA,1M,,
 sp500,AVAV,1M,,
-sp500,AVB,1M,,
 sp500,AVGO,1M,,
 sp500,AVNT,1M,,
 sp500,AVT,1M,['rebound'],[113]
@@ -3447,7 +3440,6 @@ sp500,DXC,1M,"['inverted_hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[8
 sp500,DXCM,1M,,
 sp500,DXPE,1M,,
 sp500,DY,1M,['hammer'],[79]
-sp500,EA,1M,,
 sp500,EAT,1M,['RSI_OVERSOLD'],[79]
 sp500,EBAY,1M,,
 sp500,EBC,1M,,
@@ -3489,7 +3481,6 @@ sp500,EPR,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[79, 72]"
 sp500,EPRT,1M,,
 sp500,EQH,1M,,
 sp500,EQIX,1M,,
-sp500,EQR,1M,,
 sp500,EQT,1M,"['RSI_OVERSOLD', 'hammer']","[96, 80]"
 sp500,ERIE,1M,"['rebound', 'hammer', 'engulfing']","[23, 8, 4]"
 sp500,ES,1M,,
@@ -4630,7 +4621,6 @@ crypto,FLOW-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD'
 crypto,FLR-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer, RSI_OVERSOLD', 'RSI_OVERSOLD']","[284, 268, 232, 183, 115]"
 crypto,FLUID-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[682, 676, 632, 627, 185]"
 crypto,FONQ-USD,1d,,
-crypto,FTM-USD,1d,,
 crypto,FUN-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[248, 237, 169, 163, 161]"
 crypto,GALA-USD,1d,,
 crypto,GAS-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'hammer']","[282, 115, 112, 94, 93]"
@@ -4682,7 +4672,6 @@ crypto,LUNC-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'hammer
 crypto,MANA-USD,1d,"['hammer', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'rebound']","[812, 308, 280, 115, 112]"
 crypto,MANA,1d,,
 crypto,MARSCOIN-USD,1d,,
-crypto,MATIC-USD,1d,,
 crypto,MEGA38770-USD,1d,,
 crypto,MERL-USD,1d,"['RSI_OVERSOLD', 'rebound', 'rebound', 'hammer', 'RSI_OVERSOLD']","[249, 245, 243, 185, 92]"
 crypto,MINA-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[477, 460, 350, 113, 93]"
@@ -4791,7 +4780,6 @@ crypto,TSLAX-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[248, 93, 64]"
 crypto,TURBO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'hammer']","[312, 237, 231, 112, 108]"
 crypto,TWT-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD, rebound', 'hammer', 'hammer', 'RSI_OVERSOLD']","[237, 232, 231, 226, 93]"
 crypto,ULTIMA-USD,1d,"['hammer', 'engulfing', 'hammer', 'engulfing', 'inverted_hammer']","[314, 309, 191, 88, 10]"
-crypto,UNI-USD,1d,,
 crypto,UNP-USD,1d,"['hammer', 'hammer']","[113, 70]"
 crypto,UP41976-USD,1d,,
 crypto,US-USD,1d,"['RSI_OVERSOLD', 'rebound', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[243, 231, 212, 210, 42]"
@@ -4944,7 +4932,6 @@ crypto,FLOW-USD,1w,"['engulfing', 'inverted_hammer', 'engulfing']","[171, 33, 30
 crypto,FLR-USD,1w,,
 crypto,FLUID-USD,1w,"['hammer', 'engulfing']","[165, 13]"
 crypto,FONQ-USD,1w,,
-crypto,FTM-USD,1w,,
 crypto,FUN-USD,1w,"['hammer', 'engulfing']","[83, 44]"
 crypto,GALA-USD,1w,,
 crypto,GAS-USD,1w,['rebound'],[78]
@@ -4996,7 +4983,6 @@ crypto,LUNC-USD,1w,"['engulfing', 'engulfing']","[209, 158]"
 crypto,MANA-USD,1w,['hammer'],[229]
 crypto,MANA,1w,,
 crypto,MARSCOIN-USD,1w,,
-crypto,MATIC-USD,1w,,
 crypto,MEGA38770-USD,1w,"['engulfing', 'RSI_OVERSOLD']","[16, 14]"
 crypto,MERL-USD,1w,['rebound'],[36]
 crypto,MINA-USD,1w,,
@@ -5105,7 +5091,6 @@ crypto,TSLAX-USD,1w,,
 crypto,TURBO-USD,1w,,
 crypto,TWT-USD,1w,['hammer'],[26]
 crypto,ULTIMA-USD,1w,['hammer'],[69]
-crypto,UNI-USD,1w,,
 crypto,UNP-USD,1w,,
 crypto,UP41976-USD,1w,,
 crypto,US-USD,1w,,
@@ -5258,7 +5243,6 @@ crypto,FLOW-USD,1M,,
 crypto,FLR-USD,1M,,
 crypto,FLUID-USD,1M,,
 crypto,FONQ-USD,1M,,
-crypto,FTM-USD,1M,,
 crypto,FUN-USD,1M,,
 crypto,GALA-USD,1M,,
 crypto,GAS-USD,1M,,
@@ -5310,7 +5294,6 @@ crypto,LUNC-USD,1M,,
 crypto,MANA-USD,1M,,
 crypto,MANA,1M,,
 crypto,MARSCOIN-USD,1M,,
-crypto,MATIC-USD,1M,,
 crypto,MEGA38770-USD,1M,,
 crypto,MERL-USD,1M,,
 crypto,MINA-USD,1M,,
@@ -5419,7 +5402,6 @@ crypto,TSLAX-USD,1M,,
 crypto,TURBO-USD,1M,,
 crypto,TWT-USD,1M,,
 crypto,ULTIMA-USD,1M,,
-crypto,UNI-USD,1M,,
 crypto,UNP-USD,1M,,
 crypto,UP41976-USD,1M,,
 crypto,US-USD,1M,,
@@ -6222,7 +6204,6 @@ europe,TRIG.L,1d,"['inverted_hammer', 'rebound', 'RSI_OVERSOLD', 'hammer', 'RSI_
 europe,TRN.L,1d,"['inverted_hammer', 'inverted_hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[388, 240, 203, 97, 26]"
 europe,TRN.MI,1d,"['engulfing', 'hammer', 'RSI_OVERSOLD', 'hammer', 'rebound']","[444, 17, 16, 14, 10]"
 europe,TRST.L,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[218, 204, 158, 152, 9]"
-europe,TRV.DE,1d,"['hammer', 'inverted_hammer', 'RSI_OVERSOLD', 'engulfing', 'hammer']","[211, 187, 186, 183, 46]"
 europe,TRY.L,1d,"['inverted_hammer, RSI_OVERSOLD', 'inverted_hammer', 'inverted_hammer', 'inverted_hammer', 'RSI_OVERSOLD']","[127, 126, 105, 102, 13]"
 europe,TRYG.CO,1d,"['hammer', 'inverted_hammer', 'RSI_OVERSOLD', 'inverted_hammer', 'RSI_OVERSOLD']","[671, 463, 365, 104, 3]"
 europe,TSCO.L,1d,"['inverted_hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'hammer']","[843, 822, 388, 28, 26]"
@@ -6273,7 +6254,6 @@ europe,WAWI.OL,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'h
 europe,WCH.DE,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'inverted_hammer', 'hammer']","[435, 433, 375, 372, 44]"
 europe,WDP.BR,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer, RSI_OVERSOLD', 'hammer']","[449, 441, 376, 374, 202]"
 europe,WEIR.L,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'hammer']","[370, 143, 132, 103, 98]"
-europe,WHR.L,1d,,
 europe,WIX.L,1d,"['inverted_hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'inverted_hammer, RSI_OVERSOLD']","[266, 132, 97, 91, 10]"
 europe,WIZZ.L,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[224, 144, 142, 140, 9]"
 europe,WKL.AS,1d,"['inverted_hammer', 'RSI_OVERSOLD, rebound', 'hammer', 'rebound', 'RSI_OVERSOLD']","[168, 166, 163, 159, 98]"
@@ -7051,7 +7031,6 @@ europe,TRIG.L,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'hammer', 'inverted
 europe,TRN.L,1w,"['piercing_line', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[238, 81, 43, 33, 31]"
 europe,TRN.MI,1w,"['inverted_hammer', 'engulfing']","[208, 207]"
 europe,TRST.L,1w,"['engulfing', 'hammer', 'hammer']","[238, 224, 212]"
-europe,TRV.DE,1w,"['RSI_OVERSOLD', 'inverted_hammer']","[135, 37]"
 europe,TRY.L,1w,"['hammer', 'hammer', 'engulfing', 'hammer', 'hammer']","[224, 207, 206, 183, 153]"
 europe,TRYG.CO,1w,"['inverted_hammer, RSI_OVERSOLD', 'RSI_OVERSOLD']","[341, 168]"
 europe,TSCO.L,1w,"['RSI_OVERSOLD', 'inverted_hammer']","[293, 208]"
@@ -7102,7 +7081,6 @@ europe,WAWI.OL,1w,"['RSI_OVERSOLD', 'inverted_hammer', 'RSI_OVERSOLD', 'inverted
 europe,WCH.DE,1w,"['inverted_hammer', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[207, 153, 141, 93, 90]"
 europe,WDP.BR,1w,"['hammer', 'hammer', 'hammer', 'hammer', 'RSI_OVERSOLD']","[209, 157, 101, 97, 95]"
 europe,WEIR.L,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'hammer']","[421, 414, 373, 342, 20]"
-europe,WHR.L,1w,,
 europe,WIX.L,1w,"['inverted_hammer', 'inverted_hammer']","[243, 171]"
 europe,WIZZ.L,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'inverted_hammer', 'inverted_hammer']","[342, 224, 159, 112, 68]"
 europe,WKL.AS,1w,"['RSI_OVERSOLD', 'hammer', 'engulfing', 'inverted_hammer', 'hammer']","[47, 45, 31, 27, 14]"
@@ -7880,7 +7858,6 @@ europe,TRIG.L,1M,,
 europe,TRN.L,1M,['hammer'],[10]
 europe,TRN.MI,1M,,
 europe,TRST.L,1M,,
-europe,TRV.DE,1M,,
 europe,TRY.L,1M,"['hammer', 'inverted_hammer']","[46, 40]"
 europe,TRYG.CO,1M,['hammer'],[38]
 europe,TSCO.L,1M,,
@@ -7931,7 +7908,6 @@ europe,WAWI.OL,1M,,
 europe,WCH.DE,1M,,
 europe,WDP.BR,1M,,
 europe,WEIR.L,1M,['RSI_OVERSOLD'],[79]
-europe,WHR.L,1M,,
 europe,WIX.L,1M,,
 europe,WIZZ.L,1M,"['hammer', 'inverted_hammer']","[48, 23]"
 europe,WKL.AS,1M,"['rebound', 'RSI_OVERSOLD']","[15, 8]"
@@ -8147,7 +8123,6 @@ poland,KPL.WA,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVER
 poland,KRK.WA,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'inverted_hammer', 'RSI_OVERSOLD']","[1145, 1001, 774, 773, 241]"
 poland,KRU.WA,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'hammer']","[243, 131, 97, 94, 13]"
 poland,KSG.WA,1d,"['RSI_OVERSOLD', 'inverted_hammer', 'inverted_hammer', 'hammer', 'hammer']","[1148, 819, 372, 217, 123]"
-poland,KSW.WA,1d,,
 poland,KTY.WA,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[548, 536, 478, 369, 139]"
 poland,KVT.WA,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[629, 625, 534, 441, 438]"
 poland,LBT.WA,1d,"['inverted_hammer', 'hammer', 'hammer', 'hammer', 'RSI_OVERSOLD']","[592, 338, 126, 49, 6]"
@@ -8177,7 +8152,7 @@ poland,MEX.WA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'inverted_ham
 poland,MFO.WA,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[572, 441, 291, 131, 76]"
 poland,MGT.WA,1d,"['RSI_OVERSOLD', 'rebound', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[269, 255, 252, 251, 227]"
 poland,MIL.WA,1d,"['hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'hammer']","[999, 881, 880, 534, 138]"
-poland,MIR.WA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[131, 117, 109, 104, 103]"
+poland,MIR.WA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[132, 118, 110, 105, 104]"
 poland,MLG.WA,1d,"['hammer', 'hammer', 'hammer', 'RSI_OVERSOLD, rebound', 'RSI_OVERSOLD']","[544, 535, 462, 255, 145]"
 poland,MLK.WA,1d,"['hammer', 'inverted_hammer', 'hammer', 'inverted_hammer', 'RSI_OVERSOLD']","[535, 475, 262, 86, 28]"
 poland,MLP.WA,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[339, 212, 133, 123, 81]"
@@ -8195,7 +8170,7 @@ poland,MSW.WA,1d,"['rebound', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulf
 poland,MSZ.WA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'piercing_line']","[145, 142, 53, 49, 48]"
 poland,MUR.WA,1d,"['inverted_hammer', 'RSI_OVERSOLD']","[535, 462]"
 poland,MVP.WA,1d,"['RSI_OVERSOLD', 'rebound', 'hammer', 'inverted_hammer', 'inverted_hammer']","[439, 438, 227, 226, 2]"
-poland,MWT.WA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD, rebound', 'inverted_hammer', 'RSI_OVERSOLD']","[57, 49, 45, 42, 38]"
+poland,MWT.WA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD, rebound', 'inverted_hammer', 'RSI_OVERSOLD']","[58, 50, 46, 43, 39]"
 poland,MXC.WA,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD, rebound', 'rebound']","[250, 246, 239, 203, 199]"
 poland,MZA.WA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD, rebound', 'rebound', 'RSI_OVERSOLD', 'rebound']","[236, 228, 226, 205, 202]"
 poland,NCL.WA,1d,"['rebound', 'hammer', 'hammer', 'RSI_OVERSOLD', 'rebound']","[534, 501, 350, 213, 209]"
@@ -8250,7 +8225,7 @@ poland,PLZ.WA,1d,"['hammer', 'hammer', 'hammer', 'hammer', 'RSI_OVERSOLD']","[11
 poland,PNT.WA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'hammer', 'hammer']","[489, 462, 344, 342, 8]"
 poland,PPS.WA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'rebound']","[169, 165, 65, 45, 34]"
 poland,PRE.WA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[280, 144, 134]"
-poland,PRI.WA,1d,"['RSI_OVERSOLD, rebound', 'hammer', 'hammer', 'hammer', 'RSI_OVERSOLD']","[179, 169, 167, 157, 149]"
+poland,PRI.WA,1d,"['RSI_OVERSOLD, rebound', 'hammer', 'hammer', 'hammer', 'RSI_OVERSOLD']","[180, 170, 168, 158, 150]"
 poland,PRM.WA,1d,"['hammer', 'hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[51, 40, 39, 29, 28]"
 poland,PRT.WA,1d,"['rebound', 'hammer', 'RSI_OVERSOLD', 'hammer', 'hammer']","[301, 226, 225, 39, 38]"
 poland,PRTP.WA,1d,,
@@ -8260,7 +8235,6 @@ poland,PTW.WA,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'e
 poland,PWX.WA,1d,"['RSI_OVERSOLD', 'rebound', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[195, 191, 190, 138, 113]"
 poland,PXM.WA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[491, 467, 464, 442, 54]"
 poland,PZU.WA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'hammer']","[1209, 1148, 1072, 882, 880]"
-poland,QMK.WA,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[125, 123, 68, 2, 1]"
 poland,QNA.WA,1d,"['RSI_OVERSOLD', 'inverted_hammer', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[415, 221, 50, 48, 45]"
 poland,QNT.WA,1d,"['RSI_OVERSOLD, rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[791, 513, 248, 246, 121]"
 poland,QRS.WA,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[999, 998, 145, 15, 8]"
@@ -8324,7 +8298,6 @@ poland,TRK.WA,1d,"['hammer', 'inverted_hammer', 'RSI_OVERSOLD', 'engulfing', 'ha
 poland,TRN.WA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'inverted_hammer', 'hammer', 'inverted_hammer']","[1052, 637, 558, 501, 394]"
 poland,TRR.WA,1d,"['rebound', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound']","[209, 53, 50, 27, 13]"
 poland,TSG.WA,1d,"['RSI_OVERSOLD', 'rebound', 'hammer', 'hammer', 'inverted_hammer, RSI_OVERSOLD']","[197, 196, 193, 106, 83]"
-poland,TXM.WA,1d,,
 poland,TXT.WA,1d,"['RSI_OVERSOLD, rebound', 'rebound', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[207, 200, 194, 150, 20]"
 poland,UCG.WA,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'hammer', 'inverted_hammer']","[535, 370, 369, 141, 132]"
 poland,ULG.WA,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'inverted_hammer, RSI_OVERSOLD', 'hammer']","[207, 204, 196, 189, 21]"
@@ -8560,7 +8533,6 @@ poland,KPL.WA,1w,"['inverted_hammer', 'RSI_OVERSOLD', 'hammer']","[354, 340, 14]
 poland,KRK.WA,1w,['RSI_OVERSOLD'],[239]
 poland,KRU.WA,1w,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[458, 455, 364, 342]"
 poland,KSG.WA,1w,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[437, 408, 240]"
-poland,KSW.WA,1w,,
 poland,KTY.WA,1w,['inverted_hammer'],[209]
 poland,KVT.WA,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[465, 93]"
 poland,LBT.WA,1w,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[376, 368, 365, 150, 149]"
@@ -8673,7 +8645,6 @@ poland,PTW.WA,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[375, 309]"
 poland,PWX.WA,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'hammer']","[264, 149, 41, 25, 23]"
 poland,PXM.WA,1w,"['inverted_hammer', 'hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[239, 109, 108, 103, 93]"
 poland,PZU.WA,1w,"['RSI_OVERSOLD', 'hammer', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[311, 310, 309, 239, 209]"
-poland,QMK.WA,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'inverted_hammer']","[108, 102, 30]"
 poland,QNA.WA,1w,['hammer'],[125]
 poland,QNT.WA,1w,"['hammer', 'hammer', 'hammer', 'hammer']","[155, 147, 90, 88]"
 poland,QRS.WA,1w,"['RSI_OVERSOLD', 'hammer', 'engulfing', 'RSI_OVERSOLD', 'hammer']","[443, 438, 364, 240, 209]"
@@ -8737,7 +8708,6 @@ poland,TRK.WA,1w,"['hammer', 'engulfing', 'hammer', 'RSI_OVERSOLD', 'hammer']","
 poland,TRN.WA,1w,"['RSI_OVERSOLD', 'hammer']","[469, 437]"
 poland,TRR.WA,1w,"['hammer', 'hammer', 'inverted_hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[442, 430, 421, 226, 11]"
 poland,TSG.WA,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing']","[488, 460, 457, 248]"
-poland,TXM.WA,1w,,
 poland,TXT.WA,1w,"['inverted_hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'hammer']","[142, 104, 98, 44, 42]"
 poland,UCG.WA,1w,['RSI_OVERSOLD'],[434]
 poland,ULG.WA,1w,"['RSI_OVERSOLD', 'piercing_line', 'hammer, RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[253, 252, 244, 144, 94]"
@@ -8973,7 +8943,6 @@ poland,KPL.WA,1M,,
 poland,KRK.WA,1M,['rebound'],[103]
 poland,KRU.WA,1M,['RSI_OVERSOLD'],[79]
 poland,KSG.WA,1M,,
-poland,KSW.WA,1M,,
 poland,KTY.WA,1M,,
 poland,KVT.WA,1M,,
 poland,LBT.WA,1M,"['hammer', 'inverted_hammer']","[86, 80]"
@@ -9086,7 +9055,6 @@ poland,PTW.WA,1M,,
 poland,PWX.WA,1M,"['rebound', 'RSI_OVERSOLD']","[73, 29]"
 poland,PXM.WA,1M,,
 poland,PZU.WA,1M,['RSI_OVERSOLD'],[72]
-poland,QMK.WA,1M,,
 poland,QNA.WA,1M,,
 poland,QNT.WA,1M,,
 poland,QRS.WA,1M,,
@@ -9150,7 +9118,6 @@ poland,TRK.WA,1M,,
 poland,TRN.WA,1M,,
 poland,TRR.WA,1M,,
 poland,TSG.WA,1M,,
-poland,TXM.WA,1M,,
 poland,TXT.WA,1M,"['hammer', 'hammer']","[23, 10]"
 poland,UCG.WA,1M,,
 poland,ULG.WA,1M,,
