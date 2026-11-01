@@ -4808,317 +4808,317 @@ sp500,ZD,1M,,
 sp500,ZION,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[467, 229, 225]"
 sp500,ZTS,1M,['RSI_OVERSOLD'],[6]
 sp500,ZWS,1M,,
-crypto,0G-USD,1d,"['rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing', 'RSI_OVERSOLD']","[269, 155, 147, 138, 3]"
-crypto,1INCH-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[271, 266, 149, 146, 3]"
-crypto,2Z-USD,1d,['RSI_OVERSOLD'],[75]
-crypto,A7A5-USD,1d,['RSI_OVERSOLD'],[444]
-crypto,AAVE-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'hammer', 'RSI_OVERSOLD']","[269, 152, 149, 5, 3]"
-crypto,AB-USD,1d,"['RSI_OVERSOLD', 'rebound', 'hammer', 'engulfing', 'engulfing']","[634, 626, 571, 121, 17]"
-crypto,ACU36492-USD,1d,['engulfing'],[17]
-crypto,ADA-USD,1d,"['hammer', 'RSI_OVERSOLD', 'rebound', 'engulfing', 'RSI_OVERSOLD']","[157, 152, 150, 128, 3]"
-crypto,ADI38185-USD,1d,"['hammer', 'RSI_OVERSOLD', 'hammer', 'hammer', 'engulfing']","[165, 154, 149, 28, 8]"
-crypto,AIOZ-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[363, 345, 305, 149, 2]"
+crypto,0G-USD,1d,"['rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing', 'RSI_OVERSOLD']","[270, 156, 148, 139, 4]"
+crypto,1INCH-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[272, 267, 150, 147, 4]"
+crypto,2Z-USD,1d,['RSI_OVERSOLD'],[76]
+crypto,A7A5-USD,1d,['RSI_OVERSOLD'],[445]
+crypto,AAVE-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'hammer', 'RSI_OVERSOLD']","[270, 153, 150, 6, 4]"
+crypto,AB-USD,1d,"['RSI_OVERSOLD', 'rebound', 'hammer', 'engulfing', 'engulfing']","[635, 627, 572, 122, 18]"
+crypto,ACU36492-USD,1d,['engulfing'],[18]
+crypto,ADA-USD,1d,"['hammer', 'RSI_OVERSOLD', 'rebound', 'engulfing', 'RSI_OVERSOLD']","[158, 153, 151, 129, 4]"
+crypto,ADI38185-USD,1d,"['hammer', 'RSI_OVERSOLD', 'hammer', 'hammer', 'engulfing']","[166, 155, 150, 29, 9]"
+crypto,AIOZ-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[364, 346, 306, 150, 3]"
 crypto,AKE-USD,1d,,
-crypto,AKT-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'rebound']","[637, 497, 387, 385, 362]"
-crypto,ALCH-USD,1d,"['RSI_OVERSOLD', 'rebound', 'rebound', 'engulfing', 'engulfing']","[435, 434, 431, 400, 13]"
-crypto,ALGO-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[866, 822, 387, 362, 269]"
-crypto,ALLO-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[345, 286, 274, 266]"
-crypto,ALT29073-USD,1d,"['engulfing', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[860, 643, 637, 387, 273]"
+crypto,AKT-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'rebound']","[638, 498, 388, 386, 363]"
+crypto,ALCH-USD,1d,"['RSI_OVERSOLD', 'rebound', 'rebound', 'engulfing', 'engulfing']","[436, 435, 432, 401, 14]"
+crypto,ALGO-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[867, 823, 388, 363, 270]"
+crypto,ALLO-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[346, 287, 275, 267]"
+crypto,ALT29073-USD,1d,"['engulfing', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[861, 644, 638, 388, 274]"
 crypto,ANSEM-USD,1d,,
-crypto,ANVL-USD,1d,['RSI_OVERSOLD'],[149]
-crypto,APE-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[345, 274, 267, 243, 2]"
-crypto,APT21794-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'rebound']","[274, 272, 268, 151, 149]"
-crypto,AR-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'hammer', 'engulfing']","[276, 269, 249, 246, 244]"
-crypto,ARB11841-USD,1d,"['RSI_OVERSOLD', 'rebound', 'hammer', 'RSI_OVERSOLD', 'engulfing']","[276, 271, 254, 152, 147]"
-crypto,ARC23486-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[102, 89, 88, 19, 16]"
-crypto,ARKM-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[387, 385, 335, 269, 92]"
-crypto,ARRR-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'inverted_hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[1253, 1251, 1131, 590, 75]"
-crypto,ASTER36341-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[319, 285, 269]"
-crypto,ASTR-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[637, 607, 578, 573, 150]"
-crypto,ATOM-USD,1d,"['hammer', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[829, 786, 784, 387, 363]"
+crypto,ANVL-USD,1d,['RSI_OVERSOLD'],[150]
+crypto,APE-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[346, 275, 268, 244, 3]"
+crypto,APT21794-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'rebound']","[275, 273, 269, 152, 150]"
+crypto,AR-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'hammer', 'engulfing']","[277, 270, 250, 247, 245]"
+crypto,ARB11841-USD,1d,"['RSI_OVERSOLD', 'rebound', 'hammer', 'RSI_OVERSOLD', 'engulfing']","[277, 272, 255, 153, 148]"
+crypto,ARC23486-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[103, 90, 89, 20, 17]"
+crypto,ARKM-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[388, 386, 336, 270, 93]"
+crypto,ARRR-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'inverted_hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[1254, 1252, 1132, 591, 76]"
+crypto,ASTER36341-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[320, 286, 270]"
+crypto,ASTR-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[638, 608, 579, 574, 151]"
+crypto,ATOM-USD,1d,"['hammer', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[830, 787, 785, 388, 364]"
 crypto,ATOM,1d,"['RSI_OVERSOLD', 'hammer']","[13, 8]"
-crypto,AURORA14803-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing']","[386, 372, 212, 106, 103]"
-crypto,AVAX-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'rebound']","[274, 272, 268, 152, 149]"
-crypto,AWE-USD,1d,['RSI_OVERSOLD'],[345]
-crypto,AXS-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[497, 387, 363, 318, 2]"
+crypto,AURORA14803-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing']","[387, 373, 213, 107, 104]"
+crypto,AVAX-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'rebound']","[275, 273, 269, 153, 150]"
+crypto,AWE-USD,1d,['RSI_OVERSOLD'],[346]
+crypto,AXS-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[498, 388, 364, 319, 3]"
 crypto,AXS,1d,,
-crypto,BABY32198-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[362, 270, 269]"
+crypto,BABY32198-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[363, 271, 270]"
 crypto,BABYDOGE-USD,1d,,
-crypto,BANANAS31-USD,1d,"['rebound', 'RSI_OVERSOLD', 'engulfing']","[620, 387, 385]"
-crypto,BAT-USD,1d,"['hammer, RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[849, 818, 572, 497, 78]"
-crypto,BCH-USD,1d,"['rebound', 'RSI_OVERSOLD', 'rebound', 'hammer', 'hammer']","[268, 167, 158, 131, 79]"
-crypto,BDX-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[1252, 1147, 143, 142, 59]"
-crypto,BEAM28298-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[600, 499, 362, 318, 150]"
-crypto,BERA-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'hammer', 'rebound', 'RSI_OVERSOLD']","[543, 520, 506, 276, 95]"
-crypto,BGB-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[818, 613, 573, 363, 213]"
-crypto,BIM-USD,1d,"['RSI_OVERSOLD', 'engulfing']","[1141, 147]"
-crypto,BLUR-USD,1d,"['engulfing', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[361, 276, 136, 20, 14]"
-crypto,BNB-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[818, 352, 345, 274, 270]"
-crypto,BOME-USD,1d,"['rebound', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[637, 636, 387, 362, 269]"
-crypto,BONK-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD, rebound', 'RSI_OVERSOLD']","[274, 268, 157, 149, 108]"
-crypto,BORG-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[153, 149, 97, 6, 3]"
-crypto,BRZ-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[385, 314, 148, 146, 6]"
-crypto,BSV-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[271, 269, 150, 148, 147]"
-crypto,BTC-USD,1d,"['engulfing', 'rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[272, 269, 152, 149, 147]"
+crypto,BANANAS31-USD,1d,"['rebound', 'RSI_OVERSOLD', 'engulfing']","[621, 388, 386]"
+crypto,BAT-USD,1d,"['hammer, RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[850, 819, 573, 498, 79]"
+crypto,BCH-USD,1d,"['rebound', 'RSI_OVERSOLD', 'rebound', 'hammer', 'hammer']","[269, 168, 159, 132, 80]"
+crypto,BDX-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[1253, 1148, 144, 143, 60]"
+crypto,BEAM28298-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[601, 500, 363, 319, 151]"
+crypto,BERA-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'hammer', 'rebound', 'RSI_OVERSOLD']","[544, 521, 507, 277, 96]"
+crypto,BGB-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[819, 614, 574, 364, 214]"
+crypto,BIM-USD,1d,"['RSI_OVERSOLD', 'engulfing']","[1142, 148]"
+crypto,BLUR-USD,1d,"['engulfing', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[362, 277, 137, 21, 15]"
+crypto,BNB-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[819, 353, 346, 275, 271]"
+crypto,BOME-USD,1d,"['rebound', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[638, 637, 388, 363, 270]"
+crypto,BONK-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD, rebound', 'RSI_OVERSOLD']","[275, 269, 158, 150, 109]"
+crypto,BORG-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[154, 150, 98, 7, 4]"
+crypto,BRZ-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[386, 315, 149, 147, 7]"
+crypto,BSV-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[272, 270, 151, 149, 148]"
+crypto,BTC-USD,1d,"['engulfing', 'rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[273, 270, 153, 150, 148]"
 crypto,BTC,1d,,
-crypto,BTG-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'rebound', 'hammer', 'RSI_OVERSOLD']","[1791, 1759, 1744, 914, 588]"
+crypto,BTG-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'rebound', 'hammer', 'RSI_OVERSOLD']","[1792, 1760, 1745, 915, 589]"
 crypto,BTG,1d,,
-crypto,BTT-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[2232, 1793, 1634, 1487]"
-crypto,BULLA36769-USD,1d,['engulfing'],[498]
-crypto,CAKE-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'hammer']","[274, 272, 268, 149, 2]"
+crypto,BTT-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[2233, 1794, 1635, 1488]"
+crypto,BULLA36769-USD,1d,['engulfing'],[499]
+crypto,CAKE-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'hammer']","[275, 273, 269, 150, 3]"
 crypto,CAKE,1d,['RSI_OVERSOLD'],[34]
 crypto,CASHCAT-USD,1d,,
-crypto,CELO-USD,1d,"['hammer', 'engulfing', 'engulfing', 'RSI_OVERSOLD', 'hammer']","[397, 342, 156, 150, 2]"
-crypto,CFG-USD,1d,"['engulfing', 'rebound', 'engulfing', 'RSI_OVERSOLD', 'rebound']","[272, 268, 78, 73, 62]"
-crypto,CFX-USD,1d,"['engulfing', 'hammer', 'RSI_OVERSOLD', 'engulfing', 'rebound']","[361, 275, 274, 272, 268]"
-crypto,CHEEMS33280-USD,1d,['RSI_OVERSOLD'],[20]
-crypto,CHZ-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[849, 498, 387, 150, 124]"
-crypto,CKB-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[387, 274, 269, 152, 150]"
-crypto,COCO39131-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[164, 149, 2]"
-crypto,CRCLB-USD,1d,"['RSI_OVERSOLD', 'engulfing']","[124, 122]"
-crypto,CRCLON-USD,1d,"['rebound', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'engulfing']","[270, 149, 147, 124, 122]"
-crypto,CRCLX-USD,1d,"['rebound', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[270, 269, 149, 124, 122]"
-crypto,CRO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD, rebound', 'engulfing', 'RSI_OVERSOLD', 'rebound']","[275, 269, 215, 86, 85]"
-crypto,CRV-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[849, 387, 274, 268, 149]"
-crypto,CTC-USD,1d,"['RSI_OVERSOLD, rebound', 'engulfing', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[387, 272, 152, 149, 12]"
-crypto,CVX-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[871, 387, 152, 150, 149]"
-crypto,DASH-USD,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[1634, 1332, 1240, 866, 860]"
+crypto,CELO-USD,1d,"['hammer', 'engulfing', 'engulfing', 'RSI_OVERSOLD', 'hammer']","[398, 343, 157, 151, 3]"
+crypto,CFG-USD,1d,"['engulfing', 'rebound', 'engulfing', 'RSI_OVERSOLD', 'rebound']","[273, 269, 79, 74, 63]"
+crypto,CFX-USD,1d,"['engulfing', 'hammer', 'RSI_OVERSOLD', 'engulfing', 'rebound']","[362, 276, 275, 273, 269]"
+crypto,CHEEMS33280-USD,1d,['RSI_OVERSOLD'],[21]
+crypto,CHZ-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[850, 499, 388, 151, 125]"
+crypto,CKB-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[388, 275, 270, 153, 151]"
+crypto,COCO39131-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[165, 150, 3]"
+crypto,CRCLB-USD,1d,"['RSI_OVERSOLD', 'engulfing']","[125, 123]"
+crypto,CRCLON-USD,1d,"['rebound', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'engulfing']","[271, 150, 148, 125, 123]"
+crypto,CRCLX-USD,1d,"['rebound', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[271, 270, 150, 125, 123]"
+crypto,CRO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD, rebound', 'engulfing', 'RSI_OVERSOLD', 'rebound']","[276, 270, 216, 87, 86]"
+crypto,CRV-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[850, 388, 275, 269, 150]"
+crypto,CTC-USD,1d,"['RSI_OVERSOLD, rebound', 'engulfing', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[388, 273, 153, 150, 13]"
+crypto,CVX-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[872, 388, 153, 151, 150]"
+crypto,DASH-USD,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[1635, 1333, 1241, 867, 861]"
 crypto,DASH,1d,"['engulfing', 'hammer, RSI_OVERSOLD', 'RSI_OVERSOLD']","[37, 28, 25]"
-crypto,DCR-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[222, 152, 149, 75, 2]"
-crypto,DEXE-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[1011, 579, 517, 103, 71]"
+crypto,DCR-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[223, 153, 150, 76, 3]"
+crypto,DEXE-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[1012, 580, 518, 104, 72]"
 crypto,DGAI-USD,1d,,
-crypto,DGB-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD, rebound']","[184, 157, 152, 149, 146]"
-crypto,DIEM-USD,1d,['hammer'],[272]
-crypto,DOGE-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound', 'hammer']","[269, 268, 152, 149, 17]"
-crypto,DOT-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[335, 274, 268, 152, 150]"
-crypto,DUSK-USD,1d,"['RSI_OVERSOLD', 'hammer', 'engulfing', 'hammer', 'RSI_OVERSOLD']","[850, 849, 817, 681, 506]"
-crypto,DYDX-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[387, 325, 274, 268, 77]"
-crypto,EDGE39720-USD,1d,['RSI_OVERSOLD'],[152]
-crypto,EGLD-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'hammer', 'RSI_OVERSOLD']","[152, 150, 149, 130, 7]"
-crypto,EIGEN-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[304, 273]"
-crypto,ELF-USD,1d,"['hammer', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[389, 387, 380, 150, 129]"
-crypto,ELG-USD,1d,"['engulfing', 'hammer', 'hammer', 'engulfing', 'engulfing']","[857, 700, 698, 691, 678]"
-crypto,ENA-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[386, 345, 153]"
-crypto,ENJ-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[932, 643, 637, 387, 167]"
+crypto,DGB-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD, rebound']","[185, 158, 153, 150, 147]"
+crypto,DIEM-USD,1d,['hammer'],[273]
+crypto,DOGE-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound', 'hammer']","[270, 269, 153, 150, 18]"
+crypto,DOT-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[336, 275, 269, 153, 151]"
+crypto,DUSK-USD,1d,"['RSI_OVERSOLD', 'hammer', 'engulfing', 'hammer', 'RSI_OVERSOLD']","[851, 850, 818, 682, 507]"
+crypto,DYDX-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[388, 326, 275, 269, 78]"
+crypto,EDGE39720-USD,1d,['RSI_OVERSOLD'],[153]
+crypto,EGLD-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'hammer', 'RSI_OVERSOLD']","[153, 151, 150, 131, 8]"
+crypto,EIGEN-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[305, 274]"
+crypto,ELF-USD,1d,"['hammer', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[390, 388, 381, 151, 130]"
+crypto,ELG-USD,1d,"['engulfing', 'hammer', 'hammer', 'engulfing', 'engulfing']","[858, 701, 699, 692, 679]"
+crypto,ENA-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[387, 346, 154]"
+crypto,ENJ-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[933, 644, 638, 388, 168]"
 crypto,ENJ,1d,['inverted_hammer'],[16]
-crypto,ENS-USD,1d,"['rebound', 'engulfing', 'RSI_OVERSOLD', 'hammer', 'hammer']","[269, 262, 150, 17, 2]"
-crypto,EOS-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'rebound', 'hammer', 'hammer']","[288, 282, 274, 157, 75]"
+crypto,ENS-USD,1d,"['rebound', 'engulfing', 'RSI_OVERSOLD', 'hammer', 'hammer']","[270, 263, 151, 18, 3]"
+crypto,EOS-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'rebound', 'hammer', 'hammer']","[289, 283, 275, 158, 76]"
 crypto,EOS,1d,['inverted_hammer'],[6]
-crypto,ESP39548-USD,1d,['hammer'],[130]
-crypto,ETC-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'rebound']","[574, 387, 274, 272, 269]"
-crypto,ETH-USD,1d,"['rebound', 'hammer', 'RSI_OVERSOLD', 'rebound', 'hammer']","[269, 157, 152, 149, 2]"
+crypto,ESP39548-USD,1d,['hammer'],[131]
+crypto,ETC-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'rebound']","[575, 388, 275, 273, 270]"
+crypto,ETH-USD,1d,"['rebound', 'hammer', 'RSI_OVERSOLD', 'rebound', 'hammer']","[270, 158, 153, 150, 3]"
 crypto,ETH,1d,,
-crypto,ETHFI-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[578, 274, 270, 269, 149]"
-crypto,ETN-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'hammer', 'engulfing', 'engulfing']","[871, 384, 361, 360, 262]"
-crypto,FARTCOIN-USD,1d,"['hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[344, 269, 167, 152, 150]"
-crypto,FET-USD,1d,"['rebound', 'engulfing', 'RSI_OVERSOLD', 'hammer, RSI_OVERSOLD', 'hammer']","[387, 378, 274, 95, 2]"
-crypto,FIL-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[637, 497, 387, 274, 272]"
-crypto,FLOKI-USD,1d,"['hammer', 'RSI_OVERSOLD', 'hammer', 'engulfing', 'RSI_OVERSOLD']","[643, 642, 611, 600, 149]"
-crypto,FLOW-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[362, 302, 276, 269, 225]"
-crypto,FLR-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[321, 305, 269, 220, 152]"
-crypto,FLUID-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[719, 713, 669, 664, 222]"
-crypto,FONQ-USD,1d,['engulfing'],[83]
-crypto,FUN-USD,1d,"['rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing', 'RSI_OVERSOLD']","[274, 206, 200, 198, 2]"
+crypto,ETHFI-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[579, 275, 271, 270, 150]"
+crypto,ETN-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'hammer', 'engulfing', 'engulfing']","[872, 385, 362, 361, 263]"
+crypto,FARTCOIN-USD,1d,"['hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[345, 270, 168, 153, 151]"
+crypto,FET-USD,1d,"['rebound', 'engulfing', 'RSI_OVERSOLD', 'hammer, RSI_OVERSOLD', 'hammer']","[388, 379, 275, 96, 3]"
+crypto,FIL-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[638, 498, 388, 275, 273]"
+crypto,FLOKI-USD,1d,"['hammer', 'RSI_OVERSOLD', 'hammer', 'engulfing', 'RSI_OVERSOLD']","[644, 643, 612, 601, 150]"
+crypto,FLOW-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[363, 303, 277, 270, 226]"
+crypto,FLR-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[322, 306, 270, 221, 153]"
+crypto,FLUID-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[720, 714, 670, 665, 223]"
+crypto,FONQ-USD,1d,['engulfing'],[84]
+crypto,FUN-USD,1d,"['rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing', 'RSI_OVERSOLD']","[275, 207, 201, 199, 3]"
 crypto,GALA-USD,1d,,
-crypto,GAS-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[362, 319, 152, 149, 131]"
-crypto,GEKKO-USD,1d,['RSI_OVERSOLD'],[386]
-crypto,GENIUS-USD,1d,['engulfing'],[104]
-crypto,GEOD-USD,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[571, 525, 493, 386, 269]"
-crypto,GLM-USD,1d,"['RSI_OVERSOLD, rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[1240, 818, 387, 130, 128]"
-crypto,GMX11857-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[635, 600, 387, 363, 269]"
-crypto,GNO-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[269, 157, 152, 149, 3]"
-crypto,GOMINING-USD,1d,"['engulfing', 'engulfing', 'RSI_OVERSOLD']","[353, 348, 87]"
-crypto,GPS-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[444, 436, 417, 363, 19]"
-crypto,GRAM-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[616, 352, 239, 192, 188]"
-crypto,GRASS32956-USD,1d,"['hammer', 'engulfing', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[599, 496, 488, 270, 269]"
-crypto,GT-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'engulfing']","[849, 274, 270, 149, 13]"
-crypto,HBAR-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[274, 272, 269, 268, 3]"
-crypto,HNT-USD,1d,"['RSI_OVERSOLD', 'rebound', 'rebound', 'engulfing', 'engulfing']","[153, 150, 141, 94, 88]"
-crypto,HOT-USD,1d,"['RSI_OVERSOLD', 'rebound', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[152, 149, 147, 142, 3]"
+crypto,GAS-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[363, 320, 153, 150, 132]"
+crypto,GEKKO-USD,1d,['RSI_OVERSOLD'],[387]
+crypto,GENIUS-USD,1d,['engulfing'],[105]
+crypto,GEOD-USD,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[572, 526, 494, 387, 270]"
+crypto,GLM-USD,1d,"['RSI_OVERSOLD, rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[1241, 819, 388, 131, 129]"
+crypto,GMX11857-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[636, 601, 388, 364, 270]"
+crypto,GNO-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[270, 158, 153, 150, 4]"
+crypto,GOMINING-USD,1d,"['engulfing', 'engulfing', 'RSI_OVERSOLD']","[354, 349, 88]"
+crypto,GPS-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[445, 437, 418, 364, 20]"
+crypto,GRAM-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[617, 353, 240, 193, 189]"
+crypto,GRASS32956-USD,1d,"['hammer', 'engulfing', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[600, 497, 489, 271, 270]"
+crypto,GT-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'engulfing']","[850, 275, 271, 150, 14]"
+crypto,HBAR-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[275, 273, 270, 269, 4]"
+crypto,HNT-USD,1d,"['RSI_OVERSOLD', 'rebound', 'rebound', 'engulfing', 'engulfing']","[154, 151, 142, 95, 89]"
+crypto,HOT-USD,1d,"['RSI_OVERSOLD', 'rebound', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[153, 150, 148, 143, 4]"
 crypto,HTX-USD,1d,,
-crypto,ICP-USD,1d,"['rebound', 'hammer', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD, rebound']","[866, 849, 614, 402, 387]"
-crypto,INJ-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing']","[387, 363, 274, 272, 75]"
-crypto,IOTA-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[866, 849, 386, 335, 321]"
-crypto,IVVON-USD,1d,['RSI_OVERSOLD'],[216]
-crypto,JASMY-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD, rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[402, 387, 269, 150, 75]"
-crypto,JELLYJELLY-USD,1d,['RSI_OVERSOLD'],[212]
-crypto,JST-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[1635, 1602, 1453, 1331, 818]"
-crypto,JTO-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'hammer']","[380, 353, 280, 268, 2]"
-crypto,JUP29210-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[990, 866, 578, 387]"
-crypto,KAIA-USD,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'hammer']","[348, 319, 285, 276, 104]"
-crypto,KAITO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[81, 71]"
-crypto,KAS-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'rebound']","[362, 274, 272, 271, 268]"
-crypto,KAVA-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing']","[315, 251, 150, 147, 143]"
-crypto,KCS-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[270, 269, 152, 150, 147]"
+crypto,ICP-USD,1d,"['rebound', 'hammer', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD, rebound']","[867, 850, 615, 403, 388]"
+crypto,INJ-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing']","[388, 364, 275, 273, 76]"
+crypto,IOTA-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[867, 850, 387, 336, 322]"
+crypto,IVVON-USD,1d,['RSI_OVERSOLD'],[217]
+crypto,JASMY-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD, rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[403, 388, 270, 151, 76]"
+crypto,JELLYJELLY-USD,1d,['RSI_OVERSOLD'],[213]
+crypto,JST-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[1636, 1603, 1454, 1332, 819]"
+crypto,JTO-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'hammer']","[381, 354, 281, 269, 3]"
+crypto,JUP29210-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[991, 867, 579, 388]"
+crypto,KAIA-USD,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'hammer']","[349, 320, 286, 277, 105]"
+crypto,KAITO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[82, 72]"
+crypto,KAS-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'rebound']","[363, 275, 273, 272, 269]"
+crypto,KAVA-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing']","[316, 252, 151, 148, 144]"
+crypto,KCS-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[271, 270, 153, 151, 148]"
 crypto,KITE-USD,1d,,
-crypto,KLAY-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[285, 217, 129, 94, 77]"
-crypto,KMNO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[818, 248]"
+crypto,KLAY-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[286, 218, 130, 95, 78]"
+crypto,KMNO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[819, 249]"
 crypto,KNTQ-USD,1d,,
-crypto,KOGE-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer, engulfing', 'RSI_OVERSOLD, rebound']","[818, 636, 5, 4, 3]"
-crypto,KSM-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[274, 268, 152, 148, 125]"
-crypto,LDO-USD,1d,"['hammer', 'RSI_OVERSOLD', 'engulfing', 'rebound', 'RSI_OVERSOLD']","[607, 274, 272, 268, 150]"
-crypto,LEO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[319, 269, 174, 147, 78]"
-crypto,LINEA-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'engulfing']","[285, 282, 271, 149, 147]"
-crypto,LINK-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[613, 611, 345, 275, 272]"
+crypto,KOGE-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer, engulfing', 'RSI_OVERSOLD, rebound']","[819, 637, 6, 5, 4]"
+crypto,KSM-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[275, 269, 153, 149, 126]"
+crypto,LDO-USD,1d,"['hammer', 'RSI_OVERSOLD', 'engulfing', 'rebound', 'RSI_OVERSOLD']","[608, 275, 273, 269, 151]"
+crypto,LEO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[320, 270, 175, 148, 79]"
+crypto,LINEA-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'engulfing']","[286, 283, 272, 150, 148]"
+crypto,LINK-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[614, 612, 346, 276, 273]"
 crypto,LINK,1d,,
-crypto,LPT-USD,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[2194, 932, 626, 387, 126]"
-crypto,LSK-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[607, 387, 381, 274, 268]"
-crypto,LTC-USD,1d,"['RSI_OVERSOLD', 'rebound', 'hammer', 'RSI_OVERSOLD', 'rebound']","[274, 268, 157, 152, 148]"
+crypto,LPT-USD,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[2195, 933, 627, 388, 127]"
+crypto,LSK-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[608, 388, 382, 275, 269]"
+crypto,LTC-USD,1d,"['RSI_OVERSOLD', 'rebound', 'hammer', 'RSI_OVERSOLD', 'rebound']","[275, 269, 158, 153, 149]"
 crypto,LTC,1d,,
-crypto,LUNC-USD,1d,"['hammer', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[849, 643, 637, 387, 335]"
-crypto,MANA-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'rebound', 'hammer']","[345, 317, 152, 149, 2]"
+crypto,LUNC-USD,1d,"['hammer', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[850, 644, 638, 388, 336]"
+crypto,MANA-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'rebound', 'hammer']","[346, 318, 153, 150, 3]"
 crypto,MANA,1d,,
-crypto,MARSCOIN-USD,1d,['hammer'],[2]
+crypto,MARSCOIN-USD,1d,"['hammer', 'engulfing']","[3, 1]"
 crypto,MEGA38770-USD,1d,,
-crypto,MERL-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'rebound', 'RSI_OVERSOLD']","[288, 286, 282, 280, 129]"
-crypto,MINA-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[574, 514, 387, 150, 130]"
-crypto,MKR-USD,1d,"['inverted_hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[817, 745, 636, 344, 148]"
-crypto,MOG-USD,1d,"['hammer', 'RSI_OVERSOLD']","[607, 387]"
-crypto,MON-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[1466, 1462, 1445, 152, 150]"
-crypto,MORPHO34104-USD,1d,['RSI_OVERSOLD'],[574]
+crypto,MERL-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'rebound', 'RSI_OVERSOLD']","[289, 287, 283, 281, 130]"
+crypto,MINA-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[575, 515, 388, 151, 131]"
+crypto,MKR-USD,1d,"['inverted_hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[818, 746, 637, 345, 149]"
+crypto,MOG-USD,1d,"['hammer', 'RSI_OVERSOLD']","[608, 388]"
+crypto,MON-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[1467, 1463, 1446, 153, 151]"
+crypto,MORPHO34104-USD,1d,['RSI_OVERSOLD'],[575]
 crypto,MSTRB-USD,1d,,
-crypto,MSTRX-USD,1d,"['rebound', 'engulfing', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[352, 348, 342, 145, 130]"
-crypto,MX-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'engulfing']","[252, 177, 145, 11, 4]"
-crypto,NEAR-USD,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[1172, 572, 497, 275, 269]"
+crypto,MSTRX-USD,1d,"['rebound', 'engulfing', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[353, 349, 343, 146, 131]"
+crypto,MX-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'engulfing']","[253, 178, 146, 12, 5]"
+crypto,NEAR-USD,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[1173, 573, 498, 276, 270]"
 crypto,NEAR,1d,['RSI_OVERSOLD'],[25]
-crypto,NEO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[274, 269, 151, 148, 81]"
+crypto,NEO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[275, 270, 152, 149, 82]"
 crypto,NEO,1d,,
 crypto,NEX39965-USD,1d,,
-crypto,NEXO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[152, 129, 125, 124, 2]"
-crypto,NIGHT-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[534, 506, 386, 360, 104]"
-crypto,NIL35702-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'inverted_hammer', 'RSI_OVERSOLD', 'engulfing']","[574, 345, 319, 220, 216]"
-crypto,NILA-USD,1d,['hammer'],[205]
-crypto,NMR-USD,1d,"['RSI_OVERSOLD', 'inverted_hammer', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[932, 855, 852, 849, 817]"
-crypto,NOCK-USD,1d,['RSI_OVERSOLD'],[269]
-crypto,NXPC-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD, rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[397, 387, 264, 15, 12]"
-crypto,OHM-USD,1d,"['rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing', 'RSI_OVERSOLD']","[220, 149, 144, 140, 3]"
-crypto,OKB-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'rebound']","[849, 363, 359, 274, 269]"
-crypto,ONDO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[387, 362, 274, 271, 268]"
+crypto,NEXO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[153, 130, 126, 125, 3]"
+crypto,NIGHT-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[535, 507, 387, 361, 105]"
+crypto,NIL35702-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'inverted_hammer', 'RSI_OVERSOLD', 'engulfing']","[575, 346, 320, 221, 217]"
+crypto,NILA-USD,1d,['hammer'],[206]
+crypto,NMR-USD,1d,"['RSI_OVERSOLD', 'inverted_hammer', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[933, 856, 853, 850, 818]"
+crypto,NOCK-USD,1d,['RSI_OVERSOLD'],[270]
+crypto,NXPC-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD, rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[398, 388, 265, 16, 13]"
+crypto,OHM-USD,1d,"['rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing', 'RSI_OVERSOLD']","[221, 150, 145, 141, 4]"
+crypto,OKB-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'rebound']","[850, 364, 360, 275, 270]"
+crypto,ONDO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[388, 363, 275, 272, 269]"
 crypto,ONE37166-USD,1d,,
-crypto,ONT-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[849, 847, 387, 129, 95]"
-crypto,OP-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[637, 387, 363, 274, 268]"
+crypto,ONT-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[850, 848, 388, 130, 96]"
+crypto,OP-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[638, 388, 364, 275, 269]"
 crypto,ORBIO42040-USD,1d,,
-crypto,ORCA-USD,1d,"['engulfing', 'hammer', 'RSI_OVERSOLD', 'rebound', 'inverted_hammer']","[385, 345, 274, 268, 155]"
-crypto,ORDI-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'hammer']","[578, 387, 385, 274, 17]"
-crypto,OZO-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'engulfing', 'engulfing']","[1044, 963, 601, 598]"
-crypto,PEAQ-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'inverted_hammer']","[502, 497, 275, 269, 231]"
-crypto,PENDLE-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[362, 361, 352, 319, 3]"
-crypto,PENGU34466-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[272, 269, 149]"
-crypto,PEPE24478-USD,1d,"['hammer', 'hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[497, 405, 387, 362, 335]"
-crypto,PI35697-USD,1d,"['engulfing', 'rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[283, 280, 124, 115, 107]"
-crypto,PIEVERSE-USD,1d,['RSI_OVERSOLD'],[3]
-crypto,PLUME-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing', 'rebound']","[521, 353, 340, 272, 225]"
-crypto,PNUT-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[387, 362, 345, 269, 3]"
-crypto,POLYX-USD,1d,"['rebound', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[1172, 849, 387, 363, 361]"
+crypto,ORCA-USD,1d,"['engulfing', 'hammer', 'RSI_OVERSOLD', 'rebound', 'inverted_hammer']","[386, 346, 275, 269, 156]"
+crypto,ORDI-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'hammer']","[579, 388, 386, 275, 18]"
+crypto,OZO-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'engulfing', 'engulfing']","[1045, 964, 602, 599]"
+crypto,PEAQ-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'inverted_hammer']","[503, 498, 276, 270, 232]"
+crypto,PENDLE-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[363, 362, 353, 320, 4]"
+crypto,PENGU34466-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[273, 270, 150]"
+crypto,PEPE24478-USD,1d,"['hammer', 'hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[498, 406, 388, 363, 336]"
+crypto,PI35697-USD,1d,"['engulfing', 'rebound', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[284, 281, 125, 116, 108]"
+crypto,PIEVERSE-USD,1d,['RSI_OVERSOLD'],[4]
+crypto,PLUME-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing', 'rebound']","[522, 354, 341, 273, 226]"
+crypto,PNUT-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[388, 363, 346, 270, 4]"
+crypto,POLYX-USD,1d,"['rebound', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[1173, 850, 388, 364, 362]"
 crypto,PONS-USD,1d,,
-crypto,PROM-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'engulfing']","[317, 289, 280, 167, 164]"
-crypto,PUMP36507-USD,1d,"['engulfing', 'engulfing']","[469, 460]"
-crypto,PURR34332-USD,1d,"['engulfing', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[667, 385, 345, 318]"
-crypto,PYTH-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[818, 637, 335, 269, 224]"
-crypto,QNT-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[817, 572, 362, 269, 75]"
-crypto,QRL-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[850, 558, 218, 216, 182]"
-crypto,QUBIC-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[651, 403, 402, 387, 274]"
-crypto,RAIL-USD,1d,"['RSI_OVERSOLD', 'hammer', 'hammer', 'hammer', 'RSI_OVERSOLD']","[1204, 636, 573, 319, 115]"
+crypto,PROM-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'engulfing']","[318, 290, 281, 168, 165]"
+crypto,PUMP36507-USD,1d,"['engulfing', 'engulfing']","[470, 461]"
+crypto,PURR34332-USD,1d,"['engulfing', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[668, 386, 346, 319]"
+crypto,PYTH-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[819, 638, 336, 270, 225]"
+crypto,QNT-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[818, 573, 363, 270, 76]"
+crypto,QRL-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[851, 559, 219, 217, 183]"
+crypto,QUBIC-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[652, 404, 403, 388, 275]"
+crypto,RAIL-USD,1d,"['RSI_OVERSOLD', 'hammer', 'hammer', 'hammer', 'RSI_OVERSOLD']","[1205, 637, 574, 320, 116]"
 crypto,RAIN38341-USD,1d,,
-crypto,RAVE38967-USD,1d,"['RSI_OVERSOLD', 'rebound']","[53, 47]"
-crypto,RAY-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[385, 363, 274, 268, 150]"
-crypto,RE-USD,1d,"['hammer', 'RSI_OVERSOLD']","[6, 3]"
-crypto,RED21707-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'hammer', 'engulfing']","[502, 499, 497, 242, 215]"
-crypto,RENDER-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[363, 317, 269, 83, 82]"
-crypto,RIF-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing']","[362, 335, 319, 317, 5]"
-crypto,RLB-USD,1d,"['RSI_OVERSOLD', 'rebound', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[505, 501, 500, 269, 220]"
-crypto,ROSE-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[577, 497, 386, 151, 148]"
-crypto,RSR-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[387, 274, 269, 150, 2]"
-crypto,RUNE-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[387, 345, 274, 269, 150]"
-crypto,SAND-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[615, 497, 387, 276, 150]"
-crypto,SC-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[272, 269, 150, 149, 127]"
-crypto,SEI-USD,1d,"['engulfing', 'rebound', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[272, 269, 122, 97, 3]"
-crypto,SENT38868-USD,1d,"['RSI_OVERSOLD', 'rebound']","[289, 287]"
-crypto,SFP-USD,1d,"['rebound', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[1240, 728, 269, 149, 129]"
-crypto,SHFL-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[941, 820, 819, 818, 688]"
-crypto,SHIB-USD,1d,"['RSI_OVERSOLD', 'hammer', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[269, 268, 246, 243, 158]"
-crypto,SHORT-USD,1d,['RSI_OVERSOLD'],[1]
-crypto,SHX-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[362, 345, 269, 203, 3]"
-crypto,SKY33038-USD,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing']","[345, 149, 129, 82, 3]"
-crypto,SN120-USD,1d,"['engulfing', 'RSI_OVERSOLD']","[165, 157]"
-crypto,SN3-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'engulfing']","[426, 418, 269, 107, 5]"
-crypto,SN4-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'hammer']","[484, 425, 312]"
-crypto,SN44-USD,1d,"['engulfing', 'hammer', 'RSI_OVERSOLD']","[314, 5, 3]"
-crypto,SN51-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[280, 269, 151]"
-crypto,SN53-USD,1d,"['hammer', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[352, 284, 269, 147]"
-crypto,SN64-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'engulfing', 'RSI_OVERSOLD']","[484, 455, 429, 263]"
-crypto,SNX-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[319, 269, 263, 262, 129]"
-crypto,SOL-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[271, 269, 152, 149, 3]"
-crypto,SOON36542-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[515, 484, 227, 222, 206]"
-crypto,SOSO-USD,1d,['RSI_OVERSOLD'],[142]
-crypto,SPCXB-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[102, 93]"
-crypto,SPX28081-USD,1d,"['hammer', 'RSI_OVERSOLD']","[712, 601]"
-crypto,SPYX-USD,1d,['RSI_OVERSOLD'],[219]
-crypto,STABLE38892-USD,1d,['engulfing'],[317]
+crypto,RAVE38967-USD,1d,"['RSI_OVERSOLD', 'rebound']","[54, 48]"
+crypto,RAY-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[386, 364, 275, 269, 151]"
+crypto,RE-USD,1d,"['hammer', 'RSI_OVERSOLD']","[7, 4]"
+crypto,RED21707-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'hammer', 'engulfing']","[503, 500, 498, 243, 216]"
+crypto,RENDER-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[364, 318, 270, 84, 83]"
+crypto,RIF-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing']","[363, 336, 320, 318, 6]"
+crypto,RLB-USD,1d,"['RSI_OVERSOLD', 'rebound', 'rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[506, 502, 501, 270, 221]"
+crypto,ROSE-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[578, 498, 387, 152, 149]"
+crypto,RSR-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[388, 275, 270, 151, 3]"
+crypto,RUNE-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[388, 346, 275, 270, 151]"
+crypto,SAND-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[616, 498, 388, 277, 151]"
+crypto,SC-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[273, 270, 151, 150, 128]"
+crypto,SEI-USD,1d,"['engulfing', 'rebound', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[273, 270, 123, 98, 4]"
+crypto,SENT38868-USD,1d,"['RSI_OVERSOLD', 'rebound']","[290, 288]"
+crypto,SFP-USD,1d,"['rebound', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[1241, 729, 270, 150, 130]"
+crypto,SHFL-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[942, 821, 820, 819, 689]"
+crypto,SHIB-USD,1d,"['RSI_OVERSOLD', 'hammer', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[270, 269, 247, 244, 159]"
+crypto,SHORT-USD,1d,,
+crypto,SHX-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[363, 346, 270, 204, 4]"
+crypto,SKY33038-USD,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing']","[346, 150, 130, 83, 4]"
+crypto,SN120-USD,1d,"['engulfing', 'RSI_OVERSOLD']","[166, 158]"
+crypto,SN3-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'engulfing']","[427, 419, 270, 108, 6]"
+crypto,SN4-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'hammer']","[485, 426, 313]"
+crypto,SN44-USD,1d,"['engulfing', 'hammer', 'RSI_OVERSOLD']","[315, 6, 4]"
+crypto,SN51-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[281, 270, 152]"
+crypto,SN53-USD,1d,"['hammer', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[353, 285, 270, 148]"
+crypto,SN64-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'engulfing', 'RSI_OVERSOLD']","[485, 456, 430, 264]"
+crypto,SNX-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[320, 270, 264, 263, 130]"
+crypto,SOL-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[272, 270, 153, 150, 4]"
+crypto,SOON36542-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[516, 485, 228, 223, 207]"
+crypto,SOSO-USD,1d,['RSI_OVERSOLD'],[143]
+crypto,SPCXB-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[103, 94]"
+crypto,SPX28081-USD,1d,"['hammer', 'RSI_OVERSOLD']","[713, 602]"
+crypto,SPYX-USD,1d,['RSI_OVERSOLD'],[220]
+crypto,STABLE38892-USD,1d,['engulfing'],[318]
 crypto,STONK42022-USD,1d,,
-crypto,STRCX-USD,1d,"['RSI_OVERSOLD', 'rebound']","[137, 130]"
-crypto,STRK-USD,1d,"['RSI_OVERSOLD', 'rebound', 'engulfing', 'engulfing', 'engulfing']","[520, 515, 411, 381, 126]"
-crypto,SUN-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'engulfing', 'rebound']","[149, 140, 75, 73, 63]"
-crypto,SUSHI-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[635, 600, 387, 269, 263]"
-crypto,SYRUP-USD,1d,"['hammer', 'engulfing', 'RSI_OVERSOLD', 'rebound', 'hammer']","[573, 332, 158, 152, 17]"
-crypto,TAG34958-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing', 'engulfing']","[387, 269, 267, 20, 12]"
-crypto,TEL-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'engulfing', 'hammer']","[269, 215, 107, 105, 86]"
-crypto,TFUEL-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[387, 363, 313, 274, 269]"
-crypto,THETA-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[363, 335, 213, 149, 2]"
-crypto,TIA-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[362, 339, 335, 274, 269]"
-crypto,TOSHI27750-USD,1d,"['engulfing', 'engulfing', 'engulfing', 'RSI_OVERSOLD', 'engulfing']","[785, 603, 575, 312, 310]"
-crypto,TRAC-USD,1d,"['inverted_hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[1643, 1273, 1240, 1179, 269]"
-crypto,TRB-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[637, 636, 387, 274, 272]"
+crypto,STRCX-USD,1d,"['RSI_OVERSOLD', 'rebound']","[138, 131]"
+crypto,STRK-USD,1d,"['RSI_OVERSOLD', 'rebound', 'engulfing', 'engulfing', 'engulfing']","[521, 516, 412, 382, 127]"
+crypto,SUN-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'engulfing', 'rebound']","[150, 141, 76, 74, 64]"
+crypto,SUSHI-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[636, 601, 388, 270, 264]"
+crypto,SYRUP-USD,1d,"['hammer', 'engulfing', 'RSI_OVERSOLD', 'rebound', 'hammer']","[574, 333, 159, 153, 18]"
+crypto,TAG34958-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'engulfing', 'engulfing']","[388, 270, 268, 21, 13]"
+crypto,TEL-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'engulfing', 'hammer']","[270, 216, 108, 106, 87]"
+crypto,TFUEL-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[388, 364, 314, 275, 270]"
+crypto,THETA-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[364, 336, 214, 150, 3]"
+crypto,TIA-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[363, 340, 336, 275, 270]"
+crypto,TOSHI27750-USD,1d,"['engulfing', 'engulfing', 'engulfing', 'RSI_OVERSOLD', 'engulfing']","[786, 604, 576, 313, 311]"
+crypto,TRAC-USD,1d,"['inverted_hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[1644, 1274, 1241, 1180, 270]"
+crypto,TRB-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[638, 637, 388, 275, 273]"
 crypto,TREAD-USD,1d,,
-crypto,TRUMP35336-USD,1d,"['engulfing', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'engulfing']","[272, 234, 224, 149, 147]"
-crypto,TRX-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[888, 363, 345, 269, 149]"
+crypto,TRUMP35336-USD,1d,"['engulfing', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'engulfing']","[273, 235, 225, 150, 148]"
+crypto,TRX-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[889, 364, 346, 270, 150]"
 crypto,TRX,1d,,
-crypto,TSLAX-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[285, 101]"
-crypto,TURBO-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[361, 349, 274, 268, 149]"
-crypto,TWT-USD,1d,"['RSI_OVERSOLD, rebound', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[269, 130, 17, 8, 3]"
-crypto,ULTIMA-USD,1d,"['RSI_OVERSOLD', 'hammer', 'engulfing', 'hammer', 'engulfing']","[389, 351, 346, 228, 125]"
-crypto,UNP-USD,1d,['hammer'],[107]
+crypto,TSLAX-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[286, 102]"
+crypto,TURBO-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[362, 350, 275, 269, 150]"
+crypto,TWT-USD,1d,"['RSI_OVERSOLD, rebound', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[270, 131, 18, 9, 4]"
+crypto,ULTIMA-USD,1d,"['RSI_OVERSOLD', 'hammer', 'engulfing', 'hammer', 'engulfing']","[390, 352, 347, 229, 126]"
+crypto,UNP-USD,1d,['hammer'],[108]
 crypto,UP41976-USD,1d,,
-crypto,US-USD,1d,"['RSI_OVERSOLD', 'rebound', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[280, 268, 249, 247, 79]"
-crypto,USDC-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[2124, 1331, 1330, 528]"
+crypto,US-USD,1d,"['RSI_OVERSOLD', 'rebound', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[281, 269, 250, 248, 80]"
+crypto,USDC-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[2125, 1332, 1331, 529]"
 crypto,USDC,1d,,
-crypto,USDT-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound', 'inverted_hammer']","[1635, 1634, 1453, 1452, 886]"
-crypto,VELO-USD,1d,"['hammer', 'RSI_OVERSOLD', 'engulfing', 'hammer', 'RSI_OVERSOLD']","[643, 387, 385, 380, 346]"
-crypto,VET-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[274, 272, 269, 150, 3]"
+crypto,USDT-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound', 'inverted_hammer']","[1636, 1635, 1454, 1453, 887]"
+crypto,VELO-USD,1d,"['hammer', 'RSI_OVERSOLD', 'engulfing', 'hammer', 'RSI_OVERSOLD']","[644, 388, 386, 381, 347]"
+crypto,VET-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[275, 273, 270, 151, 4]"
 crypto,VET,1d,,
-crypto,VIRTUAL-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[872, 871, 387, 385, 269]"
-crypto,VTHO-USD,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'hammer']","[305, 274, 269, 268, 96]"
-crypto,WBT-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[274, 216, 153, 151, 147]"
-crypto,WBTC-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'rebound']","[274, 272, 269, 152, 149]"
-crypto,WEMIX-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'engulfing']","[220, 142, 137, 98, 94]"
-crypto,WIF-USD,1d,"['RSI_OVERSOLD', 'rebound', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[657, 642, 627, 387, 274]"
-crypto,WLD-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[932, 864, 818, 286, 219]"
-crypto,XDC-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[387, 380, 363, 270, 125]"
-crypto,XEC-USD,1d,"['RSI_OVERSOLD, rebound', 'hammer', 'hammer', 'RSI_OVERSOLD', 'hammer']","[387, 345, 271, 269, 17]"
-crypto,XEM-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[860, 856, 396, 387, 284]"
-crypto,XLM-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[497, 362, 345, 274, 269]"
-crypto,XMR-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[849, 763, 761, 760, 451]"
-crypto,XNO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[849, 578, 387, 272, 269]"
-crypto,XPL-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[321, 269]"
-crypto,XPR-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[1402, 501, 347, 269, 15]"
-crypto,XRP-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound']","[387, 274, 269, 152, 148]"
+crypto,VIRTUAL-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[873, 872, 388, 386, 270]"
+crypto,VTHO-USD,1d,"['rebound', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'hammer']","[306, 275, 270, 269, 97]"
+crypto,WBT-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'rebound', 'engulfing']","[275, 217, 154, 152, 148]"
+crypto,WBTC-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'rebound']","[275, 273, 270, 153, 150]"
+crypto,WEMIX-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'engulfing']","[221, 143, 138, 99, 95]"
+crypto,WIF-USD,1d,"['RSI_OVERSOLD', 'rebound', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[658, 643, 628, 388, 275]"
+crypto,WLD-USD,1d,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[933, 865, 819, 287, 220]"
+crypto,XDC-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[388, 381, 364, 271, 126]"
+crypto,XEC-USD,1d,"['RSI_OVERSOLD, rebound', 'hammer', 'hammer', 'RSI_OVERSOLD', 'hammer']","[388, 346, 272, 270, 18]"
+crypto,XEM-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[861, 857, 397, 388, 285]"
+crypto,XLM-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[498, 363, 346, 275, 270]"
+crypto,XMR-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[850, 764, 762, 761, 452]"
+crypto,XNO-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[850, 579, 388, 273, 270]"
+crypto,XPL-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[322, 270]"
+crypto,XPR-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[1403, 502, 348, 270, 16]"
+crypto,XRP-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'rebound']","[388, 275, 270, 153, 149]"
 crypto,XRP,1d,,
-crypto,XTZ-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'engulfing']","[635, 567, 563, 387, 128]"
-crypto,XVG-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[1633, 1599, 1453, 1172, 150]"
-crypto,XVS-USD,1d,"['hammer, rebound', 'engulfing', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[849, 631, 276, 263, 149]"
-crypto,YFI-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[637, 334, 274, 269, 2]"
-crypto,YZY-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[423, 387, 281, 206]"
-crypto,ZAMA-USD,1d,"['engulfing', 'engulfing', 'engulfing']","[284, 275, 261]"
-crypto,ZANO-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'hammer', 'engulfing']","[249, 248, 94, 3, 2]"
-crypto,ZBCN-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'hammer']","[850, 849, 271, 130]"
+crypto,XTZ-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'engulfing']","[636, 568, 564, 388, 129]"
+crypto,XVG-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[1634, 1600, 1454, 1173, 151]"
+crypto,XVS-USD,1d,"['hammer, rebound', 'engulfing', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD']","[850, 632, 277, 264, 150]"
+crypto,YFI-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[638, 335, 275, 270, 3]"
+crypto,YZY-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[424, 388, 282, 207]"
+crypto,ZAMA-USD,1d,"['engulfing', 'engulfing', 'engulfing']","[285, 276, 262]"
+crypto,ZANO-USD,1d,"['RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'hammer', 'engulfing']","[250, 249, 95, 4, 3]"
+crypto,ZBCN-USD,1d,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'hammer']","[851, 850, 272, 131]"
 crypto,ZCAT-USD,1d,,
-crypto,ZEC-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[1600, 1454, 1240, 1172, 849]"
-crypto,ZEN-USD,1d,"['hammer', 'hammer', 'RSI_OVERSOLD', 'engulfing', 'hammer']","[636, 246, 149, 147, 2]"
-crypto,ZETA-USD,1d,"['rebound', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[573, 397, 387, 150, 144]"
-crypto,ZIG-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[210, 81, 9, 7, 2]"
-crypto,ZIL-USD,1d,"['rebound', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'engulfing']","[148, 105, 97, 16, 11]"
-crypto,ZK24091-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[850, 150, 94]"
-crypto,ZRX-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'hammer']","[849, 818, 387, 75, 2]"
+crypto,ZEC-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[1601, 1455, 1241, 1173, 850]"
+crypto,ZEN-USD,1d,"['hammer', 'hammer', 'RSI_OVERSOLD', 'engulfing', 'hammer']","[637, 247, 150, 148, 3]"
+crypto,ZETA-USD,1d,"['rebound', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[574, 398, 388, 151, 145]"
+crypto,ZIG-USD,1d,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[211, 82, 10, 8, 3]"
+crypto,ZIL-USD,1d,"['rebound', 'RSI_OVERSOLD', 'rebound', 'RSI_OVERSOLD', 'engulfing']","[149, 106, 98, 17, 12]"
+crypto,ZK24091-USD,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[851, 151, 95]"
+crypto,ZRX-USD,1d,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'hammer']","[850, 819, 388, 76, 3]"
 crypto,0G-USD,1w,"['engulfing', 'engulfing']","[45, 41]"
 crypto,1INCH-USD,1w,,
 crypto,2Z-USD,1w,"['engulfing', 'engulfing']","[48, 45]"
@@ -5232,7 +5232,7 @@ crypto,FONQ-USD,1w,,
 crypto,FUN-USD,1w,['engulfing'],[49]
 crypto,GALA-USD,1w,,
 crypto,GAS-USD,1w,['rebound'],[83]
-crypto,GEKKO-USD,1w,,
+crypto,GEKKO-USD,1w,['RSI_OVERSOLD'],[1]
 crypto,GENIUS-USD,1w,,
 crypto,GEOD-USD,1w,,
 crypto,GLM-USD,1w,,
@@ -5430,7 +5430,7 @@ crypto,ZIG-USD,1w,,
 crypto,ZIL-USD,1w,['engulfing'],[450]
 crypto,ZK24091-USD,1w,,
 crypto,ZRX-USD,1w,['engulfing'],[401]
-crypto,0G-USD,1M,['engulfing'],[3]
+crypto,0G-USD,1M,['engulfing'],[4]
 crypto,1INCH-USD,1M,,
 crypto,2Z-USD,1M,,
 crypto,A7A5-USD,1M,,
@@ -5451,11 +5451,11 @@ crypto,ANVL-USD,1M,,
 crypto,APE-USD,1M,,
 crypto,APT21794-USD,1M,,
 crypto,AR-USD,1M,,
-crypto,ARB11841-USD,1M,['rebound'],[38]
-crypto,ARC23486-USD,1M,"['engulfing', 'engulfing']","[37, 33]"
-crypto,ARKM-USD,1M,['engulfing'],[7]
-crypto,ARRR-USD,1M,['engulfing'],[82]
-crypto,ASTER36341-USD,1M,"['engulfing', 'engulfing']","[6, 3]"
+crypto,ARB11841-USD,1M,['rebound'],[39]
+crypto,ARC23486-USD,1M,"['engulfing', 'engulfing']","[38, 34]"
+crypto,ARKM-USD,1M,['engulfing'],[8]
+crypto,ARRR-USD,1M,['engulfing'],[83]
+crypto,ASTER36341-USD,1M,"['engulfing', 'engulfing']","[7, 4]"
 crypto,ASTR-USD,1M,,
 crypto,ATOM-USD,1M,,
 crypto,ATOM,1M,"['engulfing', 'engulfing']","[112, 108]"
@@ -5469,25 +5469,25 @@ crypto,BABYDOGE-USD,1M,,
 crypto,BANANAS31-USD,1M,,
 crypto,BAT-USD,1M,,
 crypto,BCH-USD,1M,,
-crypto,BDX-USD,1M,['rebound'],[48]
+crypto,BDX-USD,1M,['rebound'],[49]
 crypto,BEAM28298-USD,1M,,
-crypto,BERA-USD,1M,['engulfing'],[9]
+crypto,BERA-USD,1M,['engulfing'],[10]
 crypto,BGB-USD,1M,,
 crypto,BIM-USD,1M,,
-crypto,BLUR-USD,1M,"['engulfing', 'engulfing']","[37, 7]"
+crypto,BLUR-USD,1M,"['engulfing', 'engulfing']","[38, 8]"
 crypto,BNB-USD,1M,,
 crypto,BOME-USD,1M,,
 crypto,BONK-USD,1M,,
 crypto,BORG-USD,1M,,
-crypto,BRZ-USD,1M,['RSI_OVERSOLD'],[70]
+crypto,BRZ-USD,1M,['RSI_OVERSOLD'],[71]
 crypto,BSV-USD,1M,,
 crypto,BTC-USD,1M,,
 crypto,BTC,1M,,
-crypto,BTG-USD,1M,"['engulfing', 'engulfing']","[82, 79]"
+crypto,BTG-USD,1M,"['engulfing', 'engulfing']","[83, 80]"
 crypto,BTG,1M,,
 crypto,BTT-USD,1M,,
 crypto,BULLA36769-USD,1M,,
-crypto,CAKE-USD,1M,['rebound'],[42]
+crypto,CAKE-USD,1M,['rebound'],[43]
 crypto,CAKE,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[221, 217, 215, 80]"
 crypto,CASHCAT-USD,1M,,
 crypto,CELO-USD,1M,,
@@ -5501,7 +5501,7 @@ crypto,CRCLB-USD,1M,,
 crypto,CRCLON-USD,1M,,
 crypto,CRCLX-USD,1M,,
 crypto,CRO-USD,1M,,
-crypto,CRV-USD,1M,['rebound'],[39]
+crypto,CRV-USD,1M,['rebound'],[40]
 crypto,CTC-USD,1M,,
 crypto,CVX-USD,1M,,
 crypto,DASH-USD,1M,,
@@ -5519,25 +5519,25 @@ crypto,EDGE39720-USD,1M,,
 crypto,EGLD-USD,1M,,
 crypto,EIGEN-USD,1M,,
 crypto,ELF-USD,1M,,
-crypto,ELG-USD,1M,['RSI_OVERSOLD'],[24]
+crypto,ELG-USD,1M,['RSI_OVERSOLD'],[25]
 crypto,ENA-USD,1M,,
 crypto,ENJ-USD,1M,,
 crypto,ENJ,1M,,
-crypto,ENS-USD,1M,['engulfing'],[46]
+crypto,ENS-USD,1M,['engulfing'],[47]
 crypto,EOS-USD,1M,,
 crypto,EOS,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[217, 213]"
 crypto,ESP39548-USD,1M,,
 crypto,ETC-USD,1M,,
 crypto,ETH-USD,1M,,
 crypto,ETH,1M,,
-crypto,ETHFI-USD,1M,['engulfing'],[24]
+crypto,ETHFI-USD,1M,['engulfing'],[25]
 crypto,ETN-USD,1M,,
 crypto,FARTCOIN-USD,1M,,
 crypto,FET-USD,1M,,
 crypto,FIL-USD,1M,,
 crypto,FLOKI-USD,1M,,
 crypto,FLOW-USD,1M,,
-crypto,FLR-USD,1M,['rebound'],[41]
+crypto,FLR-USD,1M,['rebound'],[42]
 crypto,FLUID-USD,1M,,
 crypto,FONQ-USD,1M,,
 crypto,FUN-USD,1M,,
@@ -5550,24 +5550,24 @@ crypto,GLM-USD,1M,,
 crypto,GMX11857-USD,1M,,
 crypto,GNO-USD,1M,,
 crypto,GOMINING-USD,1M,,
-crypto,GPS-USD,1M,['engulfing'],[10]
-crypto,GRAM-USD,1M,"['engulfing', 'engulfing', 'engulfing']","[24, 20, 16]"
+crypto,GPS-USD,1M,['engulfing'],[11]
+crypto,GRAM-USD,1M,"['engulfing', 'engulfing', 'engulfing']","[25, 21, 17]"
 crypto,GRASS32956-USD,1M,,
 crypto,GT-USD,1M,,
 crypto,HBAR-USD,1M,,
 crypto,HNT-USD,1M,,
-crypto,HOT-USD,1M,['RSI_OVERSOLD'],[74]
-crypto,HTX-USD,1M,['RSI_OVERSOLD'],[1]
+crypto,HOT-USD,1M,['RSI_OVERSOLD'],[75]
+crypto,HTX-USD,1M,,
 crypto,ICP-USD,1M,,
 crypto,INJ-USD,1M,,
 crypto,IOTA-USD,1M,,
 crypto,IVVON-USD,1M,,
-crypto,JASMY-USD,1M,['engulfing'],[33]
+crypto,JASMY-USD,1M,['engulfing'],[34]
 crypto,JELLYJELLY-USD,1M,,
 crypto,JST-USD,1M,,
 crypto,JTO-USD,1M,,
 crypto,JUP29210-USD,1M,,
-crypto,KAIA-USD,1M,['engulfing'],[9]
+crypto,KAIA-USD,1M,['engulfing'],[10]
 crypto,KAITO-USD,1M,,
 crypto,KAS-USD,1M,,
 crypto,KAVA-USD,1M,,
@@ -5580,7 +5580,7 @@ crypto,KOGE-USD,1M,,
 crypto,KSM-USD,1M,,
 crypto,LDO-USD,1M,,
 crypto,LEO-USD,1M,,
-crypto,LINEA-USD,1M,['engulfing'],[3]
+crypto,LINEA-USD,1M,['engulfing'],[4]
 crypto,LINK-USD,1M,,
 crypto,LINK,1M,"['RSI_OVERSOLD', 'inverted_hammer', 'inverted_hammer']","[220, 200, 103]"
 crypto,LPT-USD,1M,,
@@ -5607,12 +5607,12 @@ crypto,NEO-USD,1M,,
 crypto,NEO,1M,['RSI_OVERSOLD'],[56]
 crypto,NEX39965-USD,1M,,
 crypto,NEXO-USD,1M,,
-crypto,NIGHT-USD,1M,['engulfing'],[16]
-crypto,NIL35702-USD,1M,['engulfing'],[3]
+crypto,NIGHT-USD,1M,['engulfing'],[17]
+crypto,NIL35702-USD,1M,['engulfing'],[4]
 crypto,NILA-USD,1M,,
-crypto,NMR-USD,1M,['engulfing'],[97]
+crypto,NMR-USD,1M,['engulfing'],[98]
 crypto,NOCK-USD,1M,,
-crypto,NXPC-USD,1M,['engulfing'],[7]
+crypto,NXPC-USD,1M,['engulfing'],[8]
 crypto,OHM-USD,1M,,
 crypto,OKB-USD,1M,,
 crypto,ONDO-USD,1M,,
@@ -5623,19 +5623,19 @@ crypto,ORBIO42040-USD,1M,,
 crypto,ORCA-USD,1M,,
 crypto,ORDI-USD,1M,,
 crypto,OZO-USD,1M,,
-crypto,PEAQ-USD,1M,"['engulfing', 'engulfing']","[14, 7]"
-crypto,PENDLE-USD,1M,"['rebound', 'engulfing']","[54, 52]"
+crypto,PEAQ-USD,1M,"['engulfing', 'engulfing']","[15, 8]"
+crypto,PENDLE-USD,1M,"['rebound', 'engulfing']","[55, 53]"
 crypto,PENGU34466-USD,1M,,
 crypto,PEPE24478-USD,1M,,
 crypto,PI35697-USD,1M,,
 crypto,PIEVERSE-USD,1M,,
 crypto,PLUME-USD,1M,,
-crypto,PNUT-USD,1M,['engulfing'],[7]
+crypto,PNUT-USD,1M,['engulfing'],[8]
 crypto,POLYX-USD,1M,,
 crypto,PONS-USD,1M,,
 crypto,PROM-USD,1M,,
 crypto,PUMP36507-USD,1M,,
-crypto,PURR34332-USD,1M,['RSI_OVERSOLD'],[7]
+crypto,PURR34332-USD,1M,['RSI_OVERSOLD'],[8]
 crypto,PYTH-USD,1M,,
 crypto,QNT-USD,1M,,
 crypto,QRL-USD,1M,,
@@ -5655,7 +5655,7 @@ crypto,RUNE-USD,1M,,
 crypto,SAND-USD,1M,,
 crypto,SC-USD,1M,,
 crypto,SEI-USD,1M,,
-crypto,SENT38868-USD,1M,['engulfing'],[2]
+crypto,SENT38868-USD,1M,['engulfing'],[3]
 crypto,SFP-USD,1M,,
 crypto,SHFL-USD,1M,,
 crypto,SHIB-USD,1M,,
@@ -5667,8 +5667,8 @@ crypto,SN3-USD,1M,,
 crypto,SN4-USD,1M,,
 crypto,SN44-USD,1M,,
 crypto,SN51-USD,1M,,
-crypto,SN53-USD,1M,['engulfing'],[8]
-crypto,SN64-USD,1M,"['engulfing', 'RSI_OVERSOLD']","[9, 1]"
+crypto,SN53-USD,1M,['engulfing'],[9]
+crypto,SN64-USD,1M,"['engulfing', 'RSI_OVERSOLD']","[10, 2]"
 crypto,SNX-USD,1M,,
 crypto,SOL-USD,1M,,
 crypto,SOON36542-USD,1M,,
@@ -5684,10 +5684,10 @@ crypto,SUN-USD,1M,,
 crypto,SUSHI-USD,1M,,
 crypto,SYRUP-USD,1M,,
 crypto,TAG34958-USD,1M,,
-crypto,TEL-USD,1M,"['engulfing', 'engulfing']","[98, 88]"
+crypto,TEL-USD,1M,"['engulfing', 'engulfing']","[99, 89]"
 crypto,TFUEL-USD,1M,,
 crypto,THETA-USD,1M,,
-crypto,TIA-USD,1M,['engulfing'],[46]
+crypto,TIA-USD,1M,['engulfing'],[47]
 crypto,TOSHI27750-USD,1M,,
 crypto,TRAC-USD,1M,,
 crypto,TRB-USD,1M,,
@@ -5699,7 +5699,7 @@ crypto,TSLAX-USD,1M,,
 crypto,TURBO-USD,1M,,
 crypto,TWT-USD,1M,,
 crypto,ULTIMA-USD,1M,,
-crypto,UNP-USD,1M,['engulfing'],[25]
+crypto,UNP-USD,1M,['engulfing'],[26]
 crypto,UP41976-USD,1M,,
 crypto,US-USD,1M,,
 crypto,USDC-USD,1M,,
@@ -5709,13 +5709,13 @@ crypto,VELO-USD,1M,,
 crypto,VET-USD,1M,,
 crypto,VET,1M,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[129, 80, 77, 20]"
 crypto,VIRTUAL-USD,1M,,
-crypto,VTHO-USD,1M,"['engulfing', 'engulfing']","[84, 72]"
+crypto,VTHO-USD,1M,"['engulfing', 'engulfing']","[85, 73]"
 crypto,WBT-USD,1M,,
 crypto,WBTC-USD,1M,,
 crypto,WEMIX-USD,1M,,
 crypto,WIF-USD,1M,,
 crypto,WLD-USD,1M,,
-crypto,XDC-USD,1M,"['engulfing', 'engulfing']","[91, 86]"
+crypto,XDC-USD,1M,"['engulfing', 'engulfing']","[92, 87]"
 crypto,XEC-USD,1M,,
 crypto,XEM-USD,1M,,
 crypto,XLM-USD,1M,,
@@ -5739,7 +5739,7 @@ crypto,ZEN-USD,1M,,
 crypto,ZETA-USD,1M,,
 crypto,ZIG-USD,1M,,
 crypto,ZIL-USD,1M,,
-crypto,ZK24091-USD,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[13, 11]"
+crypto,ZK24091-USD,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[14, 12]"
 crypto,ZRX-USD,1M,,
 europe,3IN.L,1d,"['RSI_OVERSOLD', 'rebound', 'inverted_hammer', 'RSI_OVERSOLD', 'rebound']","[477, 460, 298, 190, 188]"
 europe,8TRA.DE,1d,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'inverted_hammer']","[344, 278, 263, 167, 22]"
@@ -9493,7 +9493,7 @@ currencies,AUDUSD=X,1w,"['hammer', 'engulfing', 'RSI_OVERSOLD', 'hammer', 'RSI_O
 currencies,CADJPY=X,1w,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[563, 560, 451, 347, 111]"
 currencies,CHFJPY=X,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'hammer']","[544, 542, 540, 449, 13]"
 currencies,CHFPLN=X,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'engulfing']","[461, 137, 135, 128, 85]"
-currencies,EURAUD=X,1w,"['piercing_line', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[240, 239, 38, 25, 1]"
+currencies,EURAUD=X,1w,"['RSI_OVERSOLD', 'piercing_line', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[241, 240, 239, 38, 25]"
 currencies,EURCAD=X,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[238, 226, 224, 219, 1]"
 currencies,EURCHF=X,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'inverted_hammer', 'RSI_OVERSOLD']","[244, 223, 220, 148, 35]"
 currencies,EURCZK=X,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[70, 60, 58, 51, 49]"
@@ -9523,38 +9523,38 @@ currencies,USDSGD=X,1w,"['hammer', 'RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 
 currencies,USDTRY=X,1w,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[996, 838]"
 currencies,USDZAR=X,1w,"['RSI_OVERSOLD', 'inverted_hammer, RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[838, 457, 307, 103, 42]"
 currencies,AUDJPY=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD']","[217, 80]"
-currencies,AUDNZD=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[160, 158, 155, 92]"
-currencies,AUDUSD=X,1M,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[215, 142, 136]"
+currencies,AUDNZD=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[161, 159, 156, 93]"
+currencies,AUDUSD=X,1M,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[216, 143, 137]"
 currencies,CADJPY=X,1M,"['RSI_OVERSOLD', 'engulfing', 'rebound']","[216, 213, 94]"
 currencies,CHFJPY=X,1M,"['RSI_OVERSOLD', 'engulfing']","[217, 121]"
 currencies,CHFPLN=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[235, 233, 229, 222, 111]"
-currencies,EURAUD=X,1M,"['RSI_OVERSOLD', 'hammer', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[200, 194, 190, 184, 172]"
-currencies,EURCAD=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[252, 249, 197, 55, 53]"
-currencies,EURCHF=X,1M,"['inverted_hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[145, 142, 55, 53, 35]"
+currencies,EURAUD=X,1M,"['RSI_OVERSOLD', 'hammer', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[201, 195, 191, 185, 173]"
+currencies,EURCAD=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[253, 250, 198, 56, 54]"
+currencies,EURCHF=X,1M,"['inverted_hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[146, 143, 56, 54, 36]"
 currencies,EURCZK=X,1M,"['RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[226, 220, 218, 113, 45]"
 currencies,EURGBP=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'inverted_hammer']","[314, 141, 27]"
 currencies,EURHUF=X,1M,['hammer'],[220]
-currencies,EURJPY=X,1M,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[217, 215, 214, 197, 27]"
+currencies,EURJPY=X,1M,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[218, 216, 215, 198, 28]"
 currencies,EURNOK=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[293, 291, 82]"
-currencies,EURNZD=X,1M,['RSI_OVERSOLD'],[252]
+currencies,EURNZD=X,1M,['RSI_OVERSOLD'],[253]
 currencies,EURPLN=X,1M,"['hammer', 'RSI_OVERSOLD']","[227, 223]"
 currencies,EURSEK=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer']","[315, 172, 171]"
 currencies,EURUSD=X,1M,"['engulfing', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'rebound']","[137, 136, 132, 51, 1]"
-currencies,GBPAUD=X,1M,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[202, 201, 191]"
-currencies,GBPCHF=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[191, 186, 121, 87, 50]"
+currencies,GBPAUD=X,1M,"['hammer', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[203, 202, 192]"
+currencies,GBPCHF=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'hammer', 'RSI_OVERSOLD']","[192, 187, 122, 88, 51]"
 currencies,GBPJPY=X,1M,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD']","[217, 213, 123]"
 currencies,GBPPLN=X,1M,"['RSI_OVERSOLD', 'hammer', 'engulfing', 'hammer']","[228, 223, 218, 12]"
-currencies,GBPUSD=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[217, 129, 124, 50]"
-currencies,NZDUSD=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'inverted_hammer', 'RSI_OVERSOLD', 'hammer']","[217, 214, 213, 135, 97]"
-currencies,USDCAD=X,1M,"['RSI_OVERSOLD', 'rebound']","[230, 70]"
-currencies,USDCHF=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[226, 221, 185, 71, 13]"
-currencies,USDCNY=X,1M,"['inverted_hammer', 'rebound', 'engulfing', 'rebound', 'RSI_OVERSOLD']","[158, 110, 103, 5, 1]"
+currencies,GBPUSD=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[218, 130, 125, 51]"
+currencies,NZDUSD=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'inverted_hammer', 'RSI_OVERSOLD', 'hammer']","[218, 215, 214, 136, 98]"
+currencies,USDCAD=X,1M,"['RSI_OVERSOLD', 'rebound']","[231, 71]"
+currencies,USDCHF=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'engulfing']","[227, 222, 186, 72, 14]"
+currencies,USDCNY=X,1M,"['rebound', 'engulfing', 'rebound', 'RSI_OVERSOLD', 'inverted_hammer']","[111, 104, 6, 2, 1]"
 currencies,USDJPY=X,1M,"['RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD', 'RSI_OVERSOLD']","[274, 224, 215, 204, 183]"
-currencies,USDMXN=X,1M,['RSI_OVERSOLD'],[40]
-currencies,USDNOK=X,1M,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'engulfing', 'rebound']","[230, 228, 225, 220, 82]"
-currencies,USDPLN=X,1M,"['RSI_OVERSOLD', 'hammer', 'rebound']","[230, 223, 111]"
-currencies,USDSEK=X,1M,"['engulfing', 'RSI_OVERSOLD', 'rebound', 'rebound']","[272, 224, 82, 70]"
-currencies,USDSGD=X,1M,"['RSI_OVERSOLD', 'hammer', 'engulfing', 'RSI_OVERSOLD', 'rebound']","[230, 220, 192, 189, 82]"
+currencies,USDMXN=X,1M,['RSI_OVERSOLD'],[41]
+currencies,USDNOK=X,1M,"['RSI_OVERSOLD', 'engulfing', 'RSI_OVERSOLD', 'engulfing', 'rebound']","[231, 229, 226, 221, 83]"
+currencies,USDPLN=X,1M,"['RSI_OVERSOLD', 'hammer', 'rebound']","[231, 224, 112]"
+currencies,USDSEK=X,1M,"['engulfing', 'RSI_OVERSOLD', 'rebound', 'rebound']","[273, 225, 83, 71]"
+currencies,USDSGD=X,1M,"['RSI_OVERSOLD', 'hammer', 'engulfing', 'RSI_OVERSOLD', 'rebound']","[231, 221, 193, 190, 83]"
 currencies,USDTRY=X,1M,,
 currencies,USDZAR=X,1M,,
 indexes,000001.SS,1d,"['rebound', 'rebound', 'RSI_OVERSOLD', 'piercing_line', 'inverted_hammer']","[661, 659, 381, 6, 1]"
