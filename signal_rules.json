@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-12T10:55:46Z",
-  "signal_rules": "patterns on bars with volume >= 1.2x its 20-bar average and CMO(8) < -35 (or previous < -50); RSI_OVERSOLD = RSI(14) crossing below 30 on that volume",
-  "downtrend_method": "cmo",
+  "generated": "2026-11-12T12:07:47Z",
+  "signal_rules": "patterns on bars with volume >= 1.2x its 20-bar average and no downtrend filter; RSI_OVERSOLD = RSI(14) crossing below 30 on that volume",
+  "downtrend_method": "none",
   "strength_version": "v1",
   "strength": {
     "5": "Strong: momentum leader (top 20% of its market, 12-1 month return), no earnings report for over 30 days, RSI oversold",
