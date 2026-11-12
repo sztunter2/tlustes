@@ -1,2 +1,2 @@
-Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,sps,bps
-2026-10-01,0.0,30.989999771118164,30.940000534057617,30.950000762939453,40.0,[],[],[],0,,14.025243,13.09781
+Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,sps,bps
+2026-10-01,0.0,30.989999771118164,30.940000534057617,30.950000762939453,40.0,[],[],[],0,,0,,14.025243,13.09781

@@ -1,15 +1,24 @@
 {
-  "generated": "2026-11-12T12:34:15Z",
+  "generated": "2026-11-12T13:41:58Z",
   "signal_rules": "patterns on bars with volume >= 0.8x its 20-bar average and no downtrend filter; RSI_OVERSOLD = RSI(14) crossing below 30 on that volume",
-  "bearish_rules": "bear_patterns: shooting star, hanging man, dark cloud cover, evening star or bearish engulfing on a bar with volume >= 0.8x its 20-bar average; RSI_OVERBOUGHT = RSI(14) crossing above 70 on that volume",
+  "bearish_rules": "bear_patterns: shooting star, hanging man, dark cloud cover, evening star or bearish engulfing on a bar with volume >= 0.8x its 20-bar average and RSI(14) >= 60; RSI_OVERBOUGHT = RSI(14) crossing above 70 on that volume",
   "downtrend_method": "none",
-  "strength_version": "v1",
+  "strength_version": "v2",
   "strength": {
-    "5": "Strong: momentum leader (top 20% of its market, 12-1 month return), no earnings report for over 30 days, RSI oversold",
-    "4": "Good: leader, no report for over 30 days, candle pattern",
-    "3": "Medium: leader with a report in 8-30 days (or no earnings dates)",
-    "2": "Weak: not a leader (no proven edge)",
-    "1": "Risky: an earnings report within 7 days"
+    "5": "Strong: score >= 11, RSI oversold or bullish engulfing, liquid, price >= 3, not after a 20-bar drop of 25%, not below EMA200, last report not a miss",
+    "4": "Good: score >= 10, a candle pattern (or RSI oversold on weekly / monthly), liquid",
+    "3": "Medium: score >= 12",
+    "2": "Weak: score >= 1",
+    "1": "Risky: score under 1"
   },
-  "strength_limits": "weekly / monthly at most 4; illiquid at most 2; a forming candle one lower"
+  "strength_limits": "none",
+  "strength_score": "1 point each: drop 5 bars >= 2 ATR, drop 20 bars >= 3 ATR, RSI(2) < 15 / < 10 / < 5, volume >= 1.2x / 1.5x / 2x, volume <= 1x, ADX >= 20 with +DI > -DI, EPS growing y/y, pattern + RSI oversold, no red arrow in 3 bars, S&P 500 member, low within 1 ATR of EMA50 / EMA200, low 20% of the 55-bar channel, trend score 3, RSI(14) <= 35, last report beat",
+  "bear_strength": {
+    "5": "score >= 0, RSI overbought or bearish engulfing, liquid, not after a 20-bar rise of 25%, below EMA200, last report not a beat",
+    "4": "score >= 9, a bearish candle pattern, liquid",
+    "3": "score >= 11",
+    "2": "score >= 1",
+    "1": "score under 1"
+  },
+  "bear_strength_score": "the mirror of strength_score (rise, RSI(2) > 85 / 90 / 95, -DI > +DI, EPS falling, ...)"
 }
