@@ -6,7 +6,7 @@ data pipeline. The apps download these files directly; nothing here is edited by
 | Path | Contents |
 |---|---|
 | `signals.csv` | The last five signals per ticker and interval: `area, ticker, interval, signal, candles_from_last, strength, partial, partial_frac` (`strength` = each listed candle's signal strength 1–5; `partial` = found on a candle that is still forming) |
-| `data_<area>/<TICKER>_<interval>.csv` | Candles (`1d`, `1w`, `1M`): `Date, Open, High, Low, Close, Volume`, the signal and candle-pattern columns, `strength` (1–5, 0 = no signal) and `strength_why` (the reasons), and for companies the per-share figures `eps_ttm, dps_ttm, sps, bps` |
+| `data_<area>/<TICKER>_<interval>.csv` | Candles (`1d`, `1w`, `1M`): `Date, Open, High, Low, Close, Volume`, the bullish `signal` (= `bull_patterns`) and bearish `bear_patterns` (shooting star, hanging man, dark cloud cover, evening star, bearish engulfing, `RSI_OVERBOUGHT`), `strength` (1–5, 0 = no signal) and `strength_why` (the reasons), and for companies the per-share figures `eps_ttm, dps_ttm, sps, bps` |
 | `signal_rules.json` | The rules behind the signals and their strength, and when the files were built |
 | `fundamentals.csv` | One row per company: valuation, dividend, analysts, earnings dates and track record |
 | `fundamentals/<area>/<TICKER>.json` | Everything known about a company: statements, earnings history, estimates, holders |

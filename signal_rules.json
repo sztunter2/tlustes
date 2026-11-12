@@ -1,6 +1,7 @@
 {
-  "generated": "2026-11-12T12:07:47Z",
-  "signal_rules": "patterns on bars with volume >= 1.2x its 20-bar average and no downtrend filter; RSI_OVERSOLD = RSI(14) crossing below 30 on that volume",
+  "generated": "2026-11-12T12:34:15Z",
+  "signal_rules": "patterns on bars with volume >= 0.8x its 20-bar average and no downtrend filter; RSI_OVERSOLD = RSI(14) crossing below 30 on that volume",
+  "bearish_rules": "bear_patterns: shooting star, hanging man, dark cloud cover, evening star or bearish engulfing on a bar with volume >= 0.8x its 20-bar average; RSI_OVERBOUGHT = RSI(14) crossing above 70 on that volume",
   "downtrend_method": "none",
   "strength_version": "v1",
   "strength": {
