@@ -1,0 +1,14 @@
+{
+  "generated": "2026-11-12T10:55:46Z",
+  "signal_rules": "patterns on bars with volume >= 1.2x its 20-bar average and CMO(8) < -35 (or previous < -50); RSI_OVERSOLD = RSI(14) crossing below 30 on that volume",
+  "downtrend_method": "cmo",
+  "strength_version": "v1",
+  "strength": {
+    "5": "Strong: momentum leader (top 20% of its market, 12-1 month return), no earnings report for over 30 days, RSI oversold",
+    "4": "Good: leader, no report for over 30 days, candle pattern",
+    "3": "Medium: leader with a report in 8-30 days (or no earnings dates)",
+    "2": "Weak: not a leader (no proven edge)",
+    "1": "Risky: an earnings report within 7 days"
+  },
+  "strength_limits": "weekly / monthly at most 4; illiquid at most 2; a forming candle one lower"
+}
