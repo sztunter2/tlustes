@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,eps_ttm,sps,bps
-2024-11-08,36.5,39.81999969482422,36.5,39.400001525878906,10153040.0,[],[],['RSI_OVERBOUGHT'],0,,3,score 11: rise 5 bars ≥ 2 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · volume ≥ 1.2× · volume ≥ 1.5× · volume ≥ 2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: above EMA200,1.47,26.179371,5.717371
 2024-11-12,39.400001525878906,41.5,38.77999877929688,40.43999862670898,6546120.0,[],[],[],0,,0,,1.47,26.179371,5.717371
 2024-11-13,40.59999847412109,40.7400016784668,39.04999923706055,39.31999969482422,4709560.0,[],[],['engulfing'],0,,2,score 6: rise 5 bars ≥ 2 ATR · volume ≥ 1.2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: above EMA200,1.47,26.179371,5.717371
 2024-11-14,39.29999923706055,40.150001525878906,38.7400016784668,39.95000076293945,3992240.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 7: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · pattern + RSI overbought · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: above EMA200,1.47,26.179371,5.717371
@@ -499,3 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-06,39.0,39.9900016784668,37.22999954223633,37.400001525878906,8103261.0,[],[],[],0,,0,,,36.511668,9.556703
 2026-11-09,37.59999847412109,38.77000045776367,37.16999816894531,38.150001525878906,3755268.0,[],[],[],0,,0,,,36.511668,9.556703
 2026-11-10,38.09999847412109,38.09999847412109,37.400001525878906,37.79999923706055,3649713.0,[],[],[],0,,0,,,36.511668,9.556703
+2026-11-12,37.5,38.02000045776367,37.08000183105469,37.81999969482422,3551550.0,[],[],[],0,,0,,,36.511668,9.556703

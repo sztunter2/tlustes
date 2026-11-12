@@ -498,4 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-10-25,509.0,524.0,509.0,511.0,1091147.0,['inverted_hammer'],['inverted_hammer'],[],2,"score 5: volume ≤ 1× (no panic) · ADX ≥ 20, +DI > −DI · no red arrow in 3 bars · low at EMA50 / EMA200 · trend score 3 | not ★5: no RSI oversold / engulfing",0,
 2026-11-01,512.0,524.0,509.0,514.0,1040798.0,[],[],[],0,,0,
 2026-11-08,513.0,520.0,509.0,517.0,1591423.0,[],[],[],0,,0,
-2026-11-15,513.2000122070312,520.594970703125,513.2000122070312,518.0,136609.0,[],[],[],0,,0,
+2026-11-15,520.0,520.594970703125,508.9200134277344,517.0,783616.0,[],[],[],0,,0,

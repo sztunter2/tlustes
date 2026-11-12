@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,eps_ttm,dps_ttm,sps,bps
-2024-11-20,43.87607266646817,44.086924344136776,43.51187896728516,43.51187896728516,190188.0,[],[],[],0,,0,,2.63,1.0,31.204942,14.029238
 2024-11-21,43.5118784113781,44.35527779917864,43.41603507909443,44.31694412231445,271837.0,['engulfing'],['engulfing'],[],2,score 5: volume ≤ 1× (no panic) · no red arrow in 3 bars · low at EMA50 / EMA200 · trend score 3 · last report beat,0,,2.63,1.0,31.204942,14.029238
 2024-11-22,44.50862426386203,44.85365295410156,43.97191621775554,44.85365295410156,208332.0,[],[],[],0,,0,,2.63,1.0,31.204942,14.029238
 2024-11-25,44.85365370067813,45.25618839800744,44.68113935268691,44.93032836914063,903415.0,[],[],[],0,,0,,2.63,1.0,31.204942,14.029238
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-06,68.80000305175781,69.75,68.3499984741211,69.3499984741211,429876.0,[],[],[],0,,0,,2.96,1.3,34.648421,15.372048
 2026-11-09,67.94999694824219,71.55000305175781,67.5999984741211,71.44999694824219,430617.0,[],[],[],0,,0,,2.96,1.3,34.648421,15.372048
 2026-11-10,72.3499984741211,72.69999694824219,71.30000305175781,72.19999694824219,462915.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 8: rise 5 bars ≥ 2 ATR · RSI(2) > 85 · RSI(2) > 90 · volume ≥ 1.2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: above EMA200,2.96,1.3,34.648421,15.372048
-2026-11-11,72.94999694824219,73.19999694824219,72.3499984741211,73.1500015258789,284015.0,[],[],['hanging_man'],0,,4,score 11: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · volume ≤ 1× · pattern + RSI overbought · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200,2.96,1.3,34.648421,15.372048
+2026-11-11,72.94999694824219,73.19999694824219,72.3499984741211,73.1500015258789,284115.0,[],[],['hanging_man'],0,,4,score 11: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · volume ≤ 1× · pattern + RSI overbought · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200,2.96,1.3,34.648421,15.372048
+2026-11-12,74.0999984741211,74.44999694824219,69.4000015258789,70.0,856597.0,[],[],[],0,,0,,2.96,1.3,34.648421,15.372048

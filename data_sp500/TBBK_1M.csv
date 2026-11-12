@@ -272,4 +272,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-08-01,69.04000091552734,73.0199966430664,63.77999877929688,65.0,6606800.0,[],[],[],0,,0,,5.32,15.16197
 2026-09-01,64.63999938964844,68.0999984741211,47.40999984741211,48.15999984741211,14344200.0,[],[],[],0,,0,,5.32,15.16197
 2026-10-01,48.0,51.810001373291016,46.45000076293945,46.75,10932500.0,['inverted_hammer'],['inverted_hammer'],[],2,score 6: RSI(2) < 15 · RSI(2) < 10 · volume ≤ 1× (no panic) · EPS growing y/y · no red arrow in 3 bars · low at EMA50 / EMA200 | not ★5: no RSI oversold / engulfing,0,,5.32,15.16197
-2026-11-01,46.54999923706055,50.255001068115234,45.08000183105469,49.790000915527344,4444844.0,['engulfing'],['engulfing'],[],2,score 4: volume ≤ 1× (no panic) · EPS growing y/y · no red arrow in 3 bars · low at EMA50 / EMA200,0,,5.61,15.16197
+2026-11-01,46.54999923706055,50.2599983215332,45.08000183105469,48.400001525878906,5875717.0,['engulfing'],['engulfing'],[],2,score 3: EPS growing y/y · no red arrow in 3 bars · low at EMA50 / EMA200,0,,5.61,15.16197

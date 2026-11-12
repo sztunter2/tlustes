@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,dps_ttm
-2024-11-08,2.8399999141693115,2.8399999141693115,2.4800000190734863,2.8399999141693115,2620.0,[],[],['hanging_man'],0,,2,score 3: volume ≥ 1.2× · no green arrow in 3 bars · high at EMA50 / EMA200 | not ★5: no RSI overbought / bearish engulfing · not ★5: low liquidity · not ★5: above EMA200,0.0
 2024-11-12,2.799999952316284,2.799999952316284,2.5,2.5199999809265137,1504.0,[],[],[],0,,0,,0.0
 2024-11-13,2.5,2.6600000858306885,2.5,2.6600000858306885,122.0,[],[],[],0,,0,,0.0
 2024-11-14,2.640000104904175,2.640000104904175,2.640000104904175,2.640000104904175,4.0,[],[],[],0,,0,,0.0
@@ -499,3 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-06,16.299999237060547,16.5,15.300000190734863,16.5,14671.0,[],[],['hanging_man'],0,,2,score 6: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · volume ≥ 1.2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: no RSI overbought / bearish engulfing · not ★5: low liquidity · not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200,0.0
 2026-11-09,15.699999809265137,16.5,15.699999809265137,16.5,15079.0,[],[],[],0,,0,,0.0
 2026-11-10,15.800000190734863,16.5,15.800000190734863,16.5,8598.0,[],[],[],0,,0,,0.0
+2026-11-12,16.5,16.5,15.800000190734863,16.5,7285.0,[],[],[],0,,0,,0.0

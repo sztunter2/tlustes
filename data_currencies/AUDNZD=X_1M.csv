@@ -274,4 +274,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-08-01,1.194409966468811,1.213170051574707,1.1908999681472778,1.2094299793243408,0.0,[],[],[],0,,0,
 2026-09-01,1.210860013961792,1.248767971992493,1.2101000547409058,1.2390799522399902,0.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 6: rise 20 bars ≥ 3 ATR · RSI(2) > 85 · volume ≤ 1× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: above EMA200
 2026-10-01,1.2326899766921997,1.2598400115966797,1.2267999649047852,1.2476999759674072,0.0,[],[],[],0,,0,
-2026-11-01,1.249559998512268,1.252079963684082,1.2280000448226929,1.22979998588562,0.0,[],[],['engulfing'],0,,2,score 5: rise 20 bars ≥ 3 ATR · volume ≤ 1× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: above EMA200
+2026-11-01,1.249559998512268,1.252079963684082,1.223230004310608,1.2261600494384766,0.0,[],[],['engulfing'],0,,2,score 5: rise 20 bars ≥ 3 ATR · volume ≤ 1× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: above EMA200

@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why
-2025-06-30,0.1445710062980651,0.1451510041952133,0.1428180038928985,0.1447129994630813,149653.0,[],[],[],0,,0,
 2025-07-01,0.1446850001811981,0.1482499986886978,0.1426649987697601,0.1439799964427948,173417.0,[],[],[],0,,0,
 2025-07-02,0.1439789980649948,0.1455080062150955,0.1426119953393936,0.1451500058174133,182468.0,['engulfing'],['engulfing'],[],2,score 3: volume ≤ 1× (no panic) · no red arrow in 3 bars · low at EMA50 / EMA200 | not ★5: low liquidity · not ★5: below EMA200,0,
 2025-07-03,0.1451500058174133,0.1455110013484954,0.1416199952363968,0.1418160051107406,174205.0,[],[],[],0,,0,
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-08,0.1794819980859756,0.1829160004854202,0.1763810068368911,0.1794440001249313,59908.0,[],[],[],0,,0,
 2026-11-09,0.1794440001249313,0.1836220026016235,0.1755129992961883,0.1814890056848526,66701.0,['engulfing'],['engulfing'],[],2,score 2: volume ≤ 1× (no panic) · no red arrow in 3 bars | not ★5: low liquidity · not ★5: below EMA200,0,
 2026-11-10,0.1814890056848526,0.1846950054168701,0.1610430032014846,0.1731750071048736,73501.0,[],[],[],0,,0,
-2026-11-11,0.1731745153665542,0.1731745153665542,0.1274162083864212,0.1274162083864212,99721.0,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 9: drop 5 bars ≥ 2 ATR · drop 20 bars ≥ 3 ATR · RSI(2) < 15 · RSI(2) < 10 · RSI(2) < 5 · volume ≥ 1.2× · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: low liquidity · not ★5: fell ≥ 25% in 20 bars · not ★5: below EMA200,0,
+2026-11-11,0.1731750071048736,0.1731750071048736,0.1155249997973442,0.1341969966888427,100174.0,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 8: drop 5 bars ≥ 2 ATR · RSI(2) < 15 · RSI(2) < 10 · RSI(2) < 5 · volume ≥ 1.2× · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: low liquidity · not ★5: fell ≥ 25% in 20 bars · not ★5: below EMA200,0,
+2026-11-12,0.1341992765665054,0.1469741910696029,0.1256947368383407,0.1420405209064483,76834.0,[],[],[],0,,0,

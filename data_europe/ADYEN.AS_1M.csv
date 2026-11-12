@@ -100,4 +100,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-08-01,883.4000244140625,1095.0,883.4000244140625,1047.4000244140625,3051968.0,[],[],[],0,,0,,83.733929,167.596113
 2026-09-01,1040.5999755859375,1063.5999755859375,843.5,876.5999755859375,2752950.0,[],[],[],0,,0,,83.733929,187.183719
 2026-10-01,870.0,971.0,810.7999877929688,826.9000244140625,3109418.0,['inverted_hammer'],['inverted_hammer'],[],2,score 4: drop 20 bars ≥ 3 ATR · volume ≥ 1.2× · no red arrow in 3 bars · low of 55-bar channel | not ★5: no RSI oversold / engulfing · not ★5: fell ≥ 25% in 20 bars · not ★5: last report missed,0,,83.733929,187.183719
-2026-11-01,825.0,906.0999755859376,818.5,880.7000122070312,992234.0,['engulfing'],['engulfing'],[],2,score 1: no red arrow in 3 bars | not ★5: fell ≥ 25% in 20 bars · not ★5: last report missed,0,,83.733929,187.183719
+2026-11-01,825.0,906.0999755859376,818.5,868.0,1263969.0,[],[],[],0,,0,,83.733929,187.183719

@@ -426,4 +426,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-08,0.0056019998155534,0.0056360000744462,0.0048659997992217,0.0048659997992217,17647639.0,[],[],[],0,,0,
 2026-11-09,0.0048659997992217,0.0049680001102387,0.0045280000194907,0.0045400001108646,22452656.0,['rebound'],['rebound'],[],2,score 7: drop 20 bars ≥ 3 ATR · RSI(2) < 15 · RSI(2) < 10 · RSI(2) < 5 · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: no RSI oversold / engulfing · not ★5: low liquidity · not ★5: fell ≥ 25% in 20 bars · not ★5: below EMA200,0,
 2026-11-10,0.0045400001108646,0.0045949998311698,0.0037299999967217,0.0039119999855756,17863229.0,['rebound'],['rebound'],[],2,score 9: drop 5 bars ≥ 2 ATR · drop 20 bars ≥ 3 ATR · RSI(2) < 15 · RSI(2) < 10 · RSI(2) < 5 · volume ≤ 1× (no panic) · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: no RSI oversold / engulfing · not ★5: low liquidity · not ★5: fell ≥ 25% in 20 bars · not ★5: below EMA200,0,
-2026-11-11,0.0039123552851378,0.0044128461740911,0.003691162681207,0.00379832345061,19118556.0,[],[],[],0,,0,
+2026-11-11,0.0039119999855756,0.0044129998423159,0.0036879999097436,0.0037819999270141,18808542.0,[],[],[],0,,0,
+2026-11-12,0.0037824360188096,0.0039066774770617,0.0037443744949996,0.0037445863708853,16756325.0,[],[],[],0,,0,

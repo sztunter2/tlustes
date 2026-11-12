@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,dps_ttm,sps,bps
-2024-11-08,84.80000305175781,84.80000305175781,78.5999984741211,82.4000015258789,417,[],[],[],0,,0,,0.0,15.03481,99.838708
 2024-11-12,80.0,81.0,78.80000305175781,81.0,86,[],[],[],0,,0,,0.0,15.03481,99.838708
 2024-11-13,80.0,80.0,79.0,79.0,424,[],[],[],0,,0,,0.0,15.03481,99.838708
 2024-11-14,79.0,81.0,76.0,81.0,267,[],[],[],0,,0,,0.0,15.03481,99.838708
@@ -499,3 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-06,96.8000030517578,98.4000015258789,95.4000015258789,96.0,3900,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 9: drop 5 bars ≥ 2 ATR · drop 20 bars ≥ 3 ATR · RSI(2) < 15 · volume ≥ 1.2× · volume ≥ 1.5× · volume ≥ 2× · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: low liquidity · not ★5: below EMA200,0,,0.0,19.524999,139.922881
 2026-11-09,95.5999984741211,95.5999984741211,93.5999984741211,95.0,1548,"['hammer', 'rebound']","['hammer', 'rebound']",[],2,score 9: drop 20 bars ≥ 3 ATR · RSI(2) < 15 · RSI(2) < 10 · volume ≥ 1.2× · volume ≥ 1.5× · pattern + RSI oversold · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: no RSI oversold / engulfing · not ★5: low liquidity · not ★5: below EMA200,0,,0.0,19.524999,139.922881
 2026-11-10,95.0,96.0,91.0,91.0,4580,[],[],[],0,,0,,0.0,19.524999,139.922881
+2026-11-12,92.0,95.5999984741211,91.1999969482422,93.8000030517578,2633,[],[],[],0,,0,,0.0,19.524999,139.922881

@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,eps_ttm,sps,bps
-2024-11-08,35.29999923706055,35.29999923706055,34.459999084472656,34.650001525878906,1291422.0,[],[],[],0,,0,,,9.613939,8.574615
 2024-11-12,34.650001525878906,34.79999923706055,33.90999984741211,34.20500183105469,3423021.0,[],[],[],0,,0,,,9.613939,8.574615
 2024-11-13,34.20500183105469,35.400001525878906,34.15999984741211,35.1150016784668,2850303.0,['engulfing'],['engulfing'],[],2,score 5: volume ≥ 1.2× · EPS growing y/y · no red arrow in 3 bars · low at EMA50 / EMA200 · last report beat,0,,,9.613939,8.574615
 2024-11-14,33.9900016784668,33.9900016784668,29.104999542236328,31.13500022888184,12773296.0,"['RSI_OVERSOLD', 'rebound']","['RSI_OVERSOLD', 'rebound']",[],2,score 11: drop 5 bars ≥ 2 ATR · drop 20 bars ≥ 3 ATR · RSI(2) < 15 · volume ≥ 1.2× · volume ≥ 1.5× · volume ≥ 2× · EPS growing y/y · pattern + RSI oversold · no red arrow in 3 bars · RSI(14) ≤ 35 · last report beat | not ★5: below EMA200,0,,,9.613939,8.574615
@@ -499,3 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-06,58.59999847412109,59.79999923706055,57.709999084472656,59.79999923706055,5292337.0,[],[],[],0,,0,,,11.865937,11.106396
 2026-11-09,60.0,60.5099983215332,59.36000061035156,60.20000076293945,4485296.0,[],[],[],0,,0,,,11.865937,11.106396
 2026-11-10,60.52000045776367,61.20000076293945,60.38999938964844,60.900001525878906,6637004.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 7: rise 20 bars ≥ 3 ATR · RSI(2) > 85 · volume ≥ 1.2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: above EMA200,,11.865937,11.106396
+2026-11-12,63.95000076293945,64.66000366210938,62.72999954223633,64.0,8702136.0,[],[],[],0,,0,,,11.865937,11.106396
