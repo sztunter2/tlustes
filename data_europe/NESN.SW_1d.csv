@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,dps_ttm,sps,bps
-2024-11-12,72.75015727795947,72.88000145565886,72.17512800816434,72.34207153320312,5120013.0,[],[],[],0,,0,,3.0,35.253399,13.635186
 2024-11-13,72.26787950938503,72.41627691244078,71.58155921019626,72.08238983154297,4050273.0,['rebound'],['rebound'],[],2,score 8: drop 20 bars ≥ 3 ATR · RSI(2) < 15 · RSI(2) < 10 · RSI(2) < 5 · volume ≤ 1× (no panic) · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: no RSI oversold / engulfing · not ★5: below EMA200 · not ★5: last report missed,0,,3.0,35.253399,13.635186
 2024-11-14,71.98964311604313,73.77036945042754,71.71140153055542,73.02839660644531,5027775.0,['engulfing'],['engulfing'],[],2,score 5: drop 20 bars ≥ 3 ATR · volume ≥ 1.2× · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: below EMA200 · not ★5: last report missed,0,,3.0,35.253399,13.635186
 2024-11-15,72.80579735591077,72.9541947342514,71.89688110351562,71.89688110351562,5593655.0,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 6: drop 20 bars ≥ 3 ATR · volume ≥ 1.2× · pattern + RSI oversold · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: below EMA200 · not ★5: last report missed,0,,3.0,35.253399,13.635186
@@ -499,3 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-10,86.19999694824219,86.95999908447266,86.04000091552734,86.41000366210938,2527532.0,[],[],[],0,,0,,3.1,34.893245,11.363725
 2026-11-11,86.12000274658203,86.62000274658203,85.62000274658203,85.91000366210938,2908998.0,[],[],[],0,,0,,3.1,34.893245,11.363725
 2026-11-12,86.80000305175781,86.98999786376953,85.9800033569336,86.56999969482422,4153230.0,[],[],[],0,,0,,3.1,34.893245,11.363725
+2026-11-13,87.20999908447266,87.75,86.69999694824219,87.72000122070312,3701374.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 8: rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · volume ≤ 1× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: above EMA200,3.1,34.893245,11.363725

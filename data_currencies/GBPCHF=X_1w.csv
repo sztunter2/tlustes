@@ -498,4 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-10-25,1.098270058631897,1.1062599420547483,1.0966999530792236,1.098770022392273,0.0,['engulfing'],['engulfing'],[],2,"score 3: volume ≤ 1× (no panic) · ADX ≥ 20, +DI > −DI · no red arrow in 3 bars | not ★5: below EMA200",0,
 2026-11-01,1.1020499467849731,1.1057499647140503,1.0984599590301514,1.1016900539398191,0.0,[],[],[],0,,0,
 2026-11-08,1.1038800477981567,1.1045900583267212,1.094050049781799,1.0972000360488892,0.0,[],[],[],0,,0,
-2026-11-15,1.094789981842041,1.1062999963760376,1.0946799516677856,1.1053800582885742,0.0,['engulfing'],['engulfing'],[],2,"score 3: volume ≤ 1× (no panic) · ADX ≥ 20, +DI > −DI · no red arrow in 3 bars | not ★5: below EMA200",0,
+2026-11-15,1.094789981842041,1.1094000339508057,1.0946799516677856,1.1079599857330322,0.0,['engulfing'],['engulfing'],[],2,"score 3: volume ≤ 1× (no panic) · ADX ≥ 20, +DI > −DI · no red arrow in 3 bars | not ★5: below EMA200",0,

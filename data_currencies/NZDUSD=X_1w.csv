@@ -498,4 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-10-25,0.5660494565963745,0.5710892081260681,0.5652911067008972,0.5684999823570251,0.0,[],[],[],0,,0,
 2026-11-01,0.5701904296875,0.5707795023918152,0.5586904287338257,0.5631994009017944,0.0,[],[],[],0,,0,
 2026-11-08,0.56238853931427,0.5657804608345032,0.5528924465179443,0.5595595240592957,0.0,[],[],[],0,,0,
-2026-11-15,0.555802583694458,0.5650068521499634,0.554231584072113,0.5548774003982544,0.0,['inverted_hammer'],['inverted_hammer'],[],2,score 4: RSI(2) < 15 · volume ≤ 1× (no panic) · no red arrow in 3 bars · low of 55-bar channel | not ★5: no RSI oversold / engulfing · not ★5: below EMA200,0,
+2026-11-15,0.555802583694458,0.5650068521499634,0.5522725582122803,0.5525166988372803,0.0,['inverted_hammer'],['inverted_hammer'],[],2,score 5: RSI(2) < 15 · RSI(2) < 10 · volume ≤ 1× (no panic) · no red arrow in 3 bars · low of 55-bar channel | not ★5: no RSI oversold / engulfing · not ★5: below EMA200,0,

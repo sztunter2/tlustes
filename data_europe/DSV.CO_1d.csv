@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,eps_ttm,dps_ttm,sps,bps
-2024-11-08,1471.0090459247867,1486.3681838243044,1466.0544853120389,1469.0272216796875,184169.0,[],[],[],0,,0,,53.6,7.0,699.639937,328.469925
 2024-11-11,1470.0180330476962,1489.8362741403514,1470.0180330476962,1484.8817138671875,213685.0,[],[],[],0,,0,,53.6,7.0,699.639937,328.469925
 2024-11-12,1477.9453736591274,1483.8908461646286,1457.631675931999,1463.5771484375,225602.0,[],[],[],0,,0,,53.6,7.0,699.639937,328.469925
 2024-11-13,1451.190724282178,1457.631652727268,1439.2997794604735,1443.263427734375,231262.0,[],[],[],0,,0,,53.6,7.0,699.639937,328.469925
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-09,1475.5,1479.5,1444.0,1447.0,481555.0,[],[],['dark_cloud_cover'],0,,2,score 5: rise 20 bars ≥ 3 ATR · volume ≤ 1× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: no RSI overbought / bearish engulfing · not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200 · not ★5: last report beat,52.4,7.0,1047.307111,526.209298
 2026-11-10,1461.5,1462.5,1426.0,1433.0,280933.0,[],[],[],0,,0,,52.4,7.0,1047.307111,526.209298
 2026-11-11,1438.5,1468.0,1426.5,1468.0,315798.0,[],[],[],0,,0,,52.4,7.0,1047.307111,526.209298
-2026-11-12,1469.0,1492.5,1465.5,1476.5,727231.0,[],[],['shooting_star'],0,,2,score 5: rise 20 bars ≥ 3 ATR · volume ≥ 1.2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200 · not ★5: last report beat,52.4,7.0,1047.307111,526.209298
+2026-11-12,1469.0,1492.5,1465.5,1476.5,737146.0,[],[],['shooting_star'],0,,2,score 5: rise 20 bars ≥ 3 ATR · volume ≥ 1.2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200 · not ★5: last report beat,52.4,7.0,1047.307111,526.209298
+2026-11-13,1476.5,1487.0,1468.0,1482.5,358219.0,[],[],[],0,,0,,52.4,7.0,1047.307111,526.209298

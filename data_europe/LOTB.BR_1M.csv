@@ -321,4 +321,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-08-01,11140.0,13200.0,10980.0,12760.0,17411.0,['engulfing'],['engulfing'],[],2,"score 3: ADX ≥ 20, +DI > −DI · no red arrow in 3 bars · trend score 3",0,,90.0,1666.721197,1058.55406
 2026-09-01,12700.0,12840.0,11860.0,12240.0,13668.0,[],[],[],0,,0,,90.0,1666.721197,1103.683637
 2026-10-01,12180.0,13580.0,11920.0,13580.0,13907.0,['engulfing'],['engulfing'],[],2,"score 4: volume ≤ 1× (no panic) · ADX ≥ 20, +DI > −DI · no red arrow in 3 bars · trend score 3",0,,90.0,1666.721197,1103.683637
-2026-11-01,13580.0,14340.0,13560.0,14200.0,6354.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 7: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · volume ≤ 1× · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200,90.0,1666.721197,1103.683637
+2026-11-01,13580.0,14340.0,13560.0,14000.0,7247.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 6: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · volume ≤ 1× · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200,90.0,1666.721197,1103.683637

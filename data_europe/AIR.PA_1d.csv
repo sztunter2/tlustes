@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,eps_ttm,dps_ttm,sps,bps
-2024-11-27,130.92344754446663,135.01421459793264,129.90556182870148,133.84268188476562,1653296.0,['engulfing'],['engulfing'],[],2,score 5: volume ≥ 1.2× · EPS growing y/y · no red arrow in 3 bars · low at EMA50 / EMA200 · last report beat,0,,4.48,2.8,82.86815,22.472068
 2024-11-28,135.20626447987158,139.73874828356236,135.11023144444215,139.37384033203125,1312109.0,[],[],[],0,,0,,4.48,2.8,82.86815,22.472068
 2024-11-29,139.25860914577603,141.87054940029623,139.1625761125987,141.69769287109375,1656440.0,[],[],[],0,,0,,4.48,2.8,82.86815,22.472068
 2024-12-02,140.69902815863182,144.59772931999893,140.62220465636537,144.5401153564453,1799001.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 9: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · volume ≥ 1.2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: above EMA200 · not ★5: last report beat,4.48,2.8,82.86815,22.472068
@@ -499,3 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-10,207.3500061035156,211.8500061035156,207.3500061035156,208.25,1603309.0,[],[],['shooting_star'],0,,2,score 8: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · volume ≥ 1.2× · EPS falling y/y · no green arrow in 3 bars · top of 55-bar channel · last report missed | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200,7.19,3.2,97.568256,32.690635
 2026-11-11,210.75,211.5,208.1499938964844,210.6999969482422,928916.0,[],[],[],0,,0,,7.19,3.2,97.568256,32.690635
 2026-11-12,211.8000030517578,212.8000030517578,206.3000030517578,208.25,1273044.0,[],[],[],0,,0,,7.19,3.2,97.568256,32.690635
+2026-11-13,207.1000061035156,207.25,204.8999938964844,206.6499938964844,793552.0,[],[],[],0,,0,,7.19,3.2,97.568256,32.690635

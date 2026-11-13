@@ -162,4 +162,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-08-01,5010.0,5060.0,4316.0,4570.0,15573598.0,[],[],['engulfing'],0,,2,score 3: rise 20 bars ≥ 3 ATR · EPS falling y/y · top of 55-bar channel | not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200 · not ★5: last report beat,100.195
 2026-09-01,4562.0,4662.0,4205.9208984375,4354.0,17893408.0,[],[],[],0,,0,,100.195
 2026-10-01,4312.0,4740.0,4206.0,4704.0,14134899.0,['engulfing'],['engulfing'],[],2,"score 3: volume ≤ 1× (no panic) · ADX ≥ 20, +DI > −DI · last report beat",0,,100.195
-2026-11-01,4726.0,5055.0,3998.0,4208.0,11217023.0,[],[],[],0,,0,,100.195
+2026-11-01,4726.0,5055.0,3998.0,4238.0,11811746.0,[],[],[],0,,0,,100.195

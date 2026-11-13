@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,dps_ttm,sps,bps
-2024-11-27,136.50836935088563,136.92802544542164,135.59913404514592,136.63076782226562,737803.0,[],[],[],0,,0,,2.64463,43.460484,38.421666
 2024-11-28,137.06790102738952,137.12036170778555,135.66907183612983,136.63076782226562,532604.0,[],[],[],0,,0,,2.64463,43.460484,38.421666
 2024-11-29,135.96633061409432,137.50503540039062,135.93136171830537,137.50503540039062,730886.0,['engulfing'],['engulfing'],[],2,score 4: drop 20 bars ≥ 3 ATR · volume ≤ 1× (no panic) · no red arrow in 3 bars · low of 55-bar channel | not ★5: below EMA200 · not ★5: last report missed,0,,2.64463,43.460484,38.421666
 2024-12-02,137.12035566395372,139.88304502921048,136.68322247809726,139.4808807373047,1038183.0,[],[],[],0,,0,,2.64463,43.460484,38.421666
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-09,186.5,190.05999755859372,186.0200042724609,189.4600067138672,1014871.0,[],[],[],0,,0,,3.36364,46.56085,41.234003
 2026-11-10,189.8999938964844,191.0,188.6999969482422,190.33999633789065,1054510.0,[],[],[],0,,0,,3.36364,46.56085,41.234003
 2026-11-11,190.3000030517578,192.63999938964844,190.05999755859372,192.16000366210935,736404.0,[],[],[],0,,0,,3.36364,46.56085,41.234003
-2026-11-12,193.1999969482422,194.32000732421875,192.6199951171875,192.83999633789065,960768.0,[],[],['shooting_star'],0,,2,score 8: rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · volume ≤ 1× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200,3.36364,46.56085,41.234003
+2026-11-12,193.1999969482422,194.32000732421875,192.6199951171875,192.83999633789065,960801.0,[],[],['shooting_star'],0,,2,score 8: rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · volume ≤ 1× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200,3.36364,46.56085,41.234003
+2026-11-13,193.5,194.6000061035156,193.25999450683597,193.32000732421875,978998.0,[],[],['shooting_star'],0,,2,score 8: rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200,3.36364,46.56085,41.234003

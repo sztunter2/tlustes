@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why
-2024-12-06,1.978060007095337,1.996790051460266,1.9779399633407595,1.978060007095337,0.0,[],[],['shooting_star'],0,,2,score 4: RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · volume ≤ 1× | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200
 2024-12-09,1.9918899536132808,1.994140028953552,1.9764399528503416,1.9918899536132808,0.0,[],[],[],0,,0,
 2024-12-10,1.980329990386963,2.000960111618042,1.9803999662399288,1.980329990386963,0.0,['inverted_hammer'],['inverted_hammer'],[],2,"score 3: volume ≤ 1× (no panic) · ADX ≥ 20, +DI > −DI · trend score 3 | not ★5: no RSI oversold / engulfing",0,
 2024-12-11,2.0037999153137207,2.007889986038208,1.9999300241470337,2.0037999153137207,0.0,[],[],[],0,,0,
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-09,1.945739984512329,1.9470499753952024,1.9374200105667116,1.9449100494384768,0.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 8: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · volume ≤ 1× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: above EMA200
 2026-11-10,1.9419000148773196,1.949530005455017,1.9411300420761108,1.9420100450515747,0.0,['inverted_hammer'],['inverted_hammer'],[],2,"score 2: volume ≤ 1× (no panic) · ADX ≥ 20, +DI > −DI | not ★5: no RSI oversold / engulfing",0,
 2026-11-11,1.943300008773804,1.9433399438858032,1.936710000038147,1.942989945411682,0.0,[],[],[],0,,0,
-2026-11-12,1.9378000497817995,1.94720995426178,1.935770034790039,1.944280028343201,0.0,['engulfing'],['engulfing'],[],2,"score 3: volume ≤ 1× (no panic) · ADX ≥ 20, +DI > −DI · no red arrow in 3 bars",0,
+2026-11-12,1.9395500421524048,1.9470200538635252,1.9358400106430051,1.9399299621582031,0.0,[],[],[],0,,0,
+2026-11-13,1.9428399801254272,1.95212996006012,1.9422800540924072,1.95088005065918,0.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 5: RSI(2) > 85 · volume ≤ 1× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: above EMA200

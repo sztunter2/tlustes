@@ -498,4 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-10-25,283.0,283.3999938964844,268.0,273.79998779296875,27341761.0,[],[],[],0,,0,,9.6,,79.399963
 2026-11-01,275.6000061035156,282.0,271.3999938964844,275.3999938964844,19803983.0,[],[],[],0,,0,,9.6,,79.399963
 2026-11-08,278.0,287.0,267.20001220703125,280.0,16522029.0,[],[],[],0,,0,,9.6,,79.399963
-2026-11-15,283.0,339.0,273.79998779296875,337.3999938964844,35202417.0,[],[],['RSI_OVERBOUGHT'],0,,4,score 11: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · volume ≥ 1.2× · volume ≥ 1.5× · no green arrow in 3 bars · high at EMA50 / EMA200 · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200,9.6,,79.399963
+2026-11-15,283.0,351.0,273.79998779296875,351.0,42888916.0,[],[],['RSI_OVERBOUGHT'],0,,4,score 10: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · volume ≥ 1.2× · volume ≥ 1.5× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200,9.6,,79.399963

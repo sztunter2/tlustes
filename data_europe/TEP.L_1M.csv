@@ -315,4 +315,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-08-01,844.8819446012465,915.0,825.0,875.0,8333551.0,[],[],[],0,,0,,38.0,2404.083478,334.152777
 2026-09-01,868.0,879.0,781.0,809.0,8467309.0,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 6: drop 20 bars ≥ 3 ATR · volume ≥ 1.2× · volume ≥ 1.5× · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: fell ≥ 25% in 20 bars · not ★5: below EMA200,0,,50.0,2404.083478,334.152777
 2026-10-01,799.0,912.0,794.0,901.0,6013348.0,['engulfing'],['engulfing'],[],2,score 5: drop 20 bars ≥ 3 ATR · pattern + RSI oversold · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: fell ≥ 25% in 20 bars · not ★5: below EMA200,0,,50.0,2404.083478,334.152777
-2026-11-01,886.0,955.0,884.0,913.0,2398245.0,[],[],[],0,,0,,50.0,2404.083478,334.152777
+2026-11-01,886.0,955.0,884.0,913.0,2525523.0,[],[],[],0,,0,,50.0,2404.083478,334.152777

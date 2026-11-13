@@ -498,4 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-10-25,707.0,713.0,673.0,673.0,624669.0,[],[],[],0,,0,,,25.0,143.60895,430.528377
 2026-11-01,679.5,726.0,677.5,712.5,535175.0,[],[],[],0,,0,,,25.0,143.60895,430.528377
 2026-11-08,714.0,754.0,703.0,728.0,747947.0,[],[],[],0,,0,,,25.0,143.60895,430.528377
-2026-11-15,730.0,774.0,728.5,769.5,510201.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 8: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · volume ≤ 1× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200 · not ★5: last report beat,,25.0,136.328217,441.326028
+2026-11-15,730.0,774.0,728.5,764.0,624835.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 7: rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · volume ≤ 1× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200 · not ★5: last report beat,,25.0,136.328217,441.326028

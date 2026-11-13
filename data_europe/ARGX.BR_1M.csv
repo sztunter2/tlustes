@@ -147,4 +147,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-08-01,745.0,913.0,717.4000244140625,875.5999755859375,1716376.0,['engulfing'],['engulfing'],[],2,"score 5: volume ≤ 1× (no panic) · ADX ≥ 20, +DI > −DI · EPS growing y/y · no red arrow in 3 bars · last report beat",0,
 2026-09-01,885.4000244140625,925.0,826.0,846.7999877929688,1515177.0,[],[],[],0,,0,
 2026-10-01,846.5999755859375,862.4000244140625,682.0,807.2000122070312,2331302.0,[],[],[],0,,0,
-2026-11-01,800.2000122070312,891.4000244140625,776.5999755859375,886.5999755859375,915701.0,['engulfing'],['engulfing'],[],2,"score 4: ADX ≥ 20, +DI > −DI · EPS growing y/y · no red arrow in 3 bars · last report beat",0,
+2026-11-01,800.2000122070312,896.0,776.5999755859375,878.4000244140625,980378.0,['engulfing'],['engulfing'],[],2,"score 4: ADX ≥ 20, +DI > −DI · EPS growing y/y · no red arrow in 3 bars · last report beat",0,

@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,eps_ttm,sps,bps
-2024-11-21,94.0999984741211,103.0,93.0,101.5999984741211,12409827.0,[],[],[],0,,0,,,248.645563,168.580279
 2024-11-22,100.0,102.0,96.4000015258789,102.0,2300349.0,[],[],[],0,,0,,,248.645563,168.580279
 2024-11-25,103.0,107.98699951171876,100.8000030517578,107.0,2568483.0,[],[],[],0,,0,,,248.645563,168.580279
 2024-11-26,107.0,108.69400024414062,102.4000015258789,102.8000030517578,2333328.0,[],[],['engulfing'],0,,2,score 7: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · volume ≤ 1× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200,,248.645563,168.580279
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-09,174.0,180.6000061035156,174.0,178.39999389648438,415143.0,[],[],[],0,,0,,,86.371177,220.40941
 2026-11-10,184.0,184.0,177.0,177.39999389648438,460802.0,[],[],[],0,,0,,,86.371177,220.40941
 2026-11-11,176.0,179.8000030517578,174.88600158691406,178.60000610351562,507319.0,[],[],[],0,,0,,,86.371177,220.40941
-2026-11-12,185.0,197.0,182.1999969482422,196.0,3826806.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 10: RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · volume ≥ 1.2× · volume ≥ 1.5× · volume ≥ 2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: above EMA200,,86.371177,220.40941
+2026-11-12,185.0,197.0,182.1999969482422,196.0,3826797.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 10: RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · volume ≥ 1.2× · volume ≥ 1.5× · volume ≥ 2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: above EMA200,,86.371177,220.40941
+2026-11-13,198.6000061035156,199.8000030517578,189.1999969482422,189.8000030517578,902670.0,[],[],['dark_cloud_cover'],0,,2,score 5: volume ≤ 1× · pattern + RSI overbought · no green arrow in 3 bars · top of 55-bar channel · last report missed | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200,,86.371177,220.40941
