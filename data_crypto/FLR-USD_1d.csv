@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why
-2025-07-02,0.0167699996381998,0.0174279995262622,0.0167110003530979,0.0172429997473955,5509123.0,[],[],[],0,,0,
 2025-07-03,0.0172429997473955,0.0172869991511106,0.0168590005487203,0.0168709997087717,5772697.0,[],[],[],0,,0,
 2025-07-04,0.0168709997087717,0.0170159991830587,0.0165379997342824,0.0166180003434419,5867716.0,[],[],[],0,,0,
 2025-07-05,0.0166180003434419,0.0167789999395608,0.0165550000965595,0.0165819991379976,3863105.0,[],[],[],0,,0,
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-10,0.0054330001585185,0.005460999906063,0.0052600000053644,0.0053280000574886,3383180.0,['rebound'],['rebound'],[],2,score 9: drop 5 bars ≥ 2 ATR · drop 20 bars ≥ 3 ATR · RSI(2) < 15 · RSI(2) < 10 · RSI(2) < 5 · volume ≥ 1.2× · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: no RSI oversold / engulfing · not ★5: low liquidity · not ★5: below EMA200,0,
 2026-11-11,0.0053280000574886,0.0059059998020529,0.0052760001271963,0.0054009999148547,5685166.0,[],[],[],0,,0,
 2026-11-12,0.0054009999148547,0.0054250000976026,0.0052319997921586,0.0052689998410642,4393672.0,[],[],[],0,,0,
-2026-11-13,0.0052692634053528,0.0052692634053528,0.0050004501827061,0.0050070001743733,5640284.0,['rebound'],['rebound'],[],2,score 11: drop 5 bars ≥ 2 ATR · drop 20 bars ≥ 3 ATR · RSI(2) < 15 · RSI(2) < 10 · RSI(2) < 5 · volume ≥ 1.2× · volume ≥ 1.5× · volume ≥ 2× · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: no RSI oversold / engulfing · not ★5: low liquidity · not ★5: below EMA200,0,
+2026-11-13,0.0052689998410642,0.0052709998562932,0.0049419999122619,0.0049840002320706,5858127.0,['rebound'],['rebound'],[],2,score 11: drop 5 bars ≥ 2 ATR · drop 20 bars ≥ 3 ATR · RSI(2) < 15 · RSI(2) < 10 · RSI(2) < 5 · volume ≥ 1.2× · volume ≥ 1.5× · volume ≥ 2× · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: no RSI oversold / engulfing · not ★5: low liquidity · not ★5: below EMA200,0,
+2026-11-14,0.0049864812754094,0.0050232005305588,0.0048018195666372,0.0048400000669062,4388220.0,[],[],[],0,,0,
