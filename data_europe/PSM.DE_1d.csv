@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,eps_ttm,dps_ttm,sps,bps
-2024-11-22,4.675066937831945,4.7142872596097085,4.604470265123347,4.659378528594971,297033.0,[],[],[],0,,0,,1.25,0.05,16.968082,5.557998
 2024-11-25,4.6397684990329315,4.72605358342077,4.545639911119272,4.704482078552246,753659.0,['engulfing'],['engulfing'],[],2,score 6: drop 20 bars ≥ 3 ATR · volume ≥ 1.2× · EPS growing y/y · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: below EMA200 · not ★5: last report missed,0,,1.25,0.05,16.968082,5.557998
 2024-11-26,4.663300473331451,4.6691835680061775,4.516224041549463,4.545639514923096,623743.0,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 7: drop 20 bars ≥ 3 ATR · RSI(2) < 15 · EPS growing y/y · pattern + RSI oversold · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: below EMA200 · not ★5: last report missed,0,,1.25,0.05,16.968082,5.557998
 2024-11-27,4.553483719250835,4.586820945758313,4.512302521955088,4.541717529296875,484054.0,[],[],[],0,,0,,1.25,0.05,16.968082,5.557998
@@ -499,3 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-11,3.140000104904175,3.140000104904175,3.0859999656677246,3.0899999141693115,145220.0,[],[],[],0,,0,,,0.05,15.413125,4.845116
 2026-11-12,3.049999952316284,3.2039999961853027,2.970000028610229,3.177999973297119,352054.0,['engulfing'],['engulfing'],[],2,score 5: volume ≥ 1.2× · volume ≥ 1.5× · EPS growing y/y · no red arrow in 3 bars · last report beat | not ★5: below EMA200,0,,,0.05,15.413125,4.845116
 2026-11-13,3.180000066757202,3.2939999103546143,3.115999937057495,3.140000104904175,208826.0,[],[],[],0,,0,,,0.05,15.413125,4.845116
+2026-11-16,3.0840001106262207,3.1419999599456787,2.880000114440918,3.118000030517578,365827.0,"['hammer', 'rebound']","['hammer', 'rebound']",[],2,score 5: volume ≥ 1.2× · volume ≥ 1.5× · EPS growing y/y · no red arrow in 3 bars · last report beat | not ★5: no RSI oversold / engulfing · not ★5: below EMA200,0,,,0.05,15.413125,4.845116
