@@ -1,7 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,eps_ttm,dps_ttm,sps,bps
-2024-11-14,178.0,194.5,172.60000610351562,194.0,505747,[],[],[],0,,0,,,0.0,142.818457,11.935877
-2024-11-15,194.0,205.0,190.0,202.0,490790,[],[],[],0,,0,,,0.0,142.818457,11.935877
-2024-11-18,202.0,207.6000061035156,199.1000061035156,205.8000030517578,363962,[],[],['RSI_OVERBOUGHT'],0,,3,score 11: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · volume ≥ 1.2× · volume ≥ 1.5× · volume ≥ 2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: above EMA200 · not ★5: last report beat,,0.0,142.818457,11.935877
 2024-11-19,205.8000030517578,207.6000061035156,196.1999969482422,201.1999969482422,284302,[],[],['engulfing'],0,,2,score 7: rise 5 bars ≥ 2 ATR · volume ≥ 1.2× · volume ≥ 1.5× · pattern + RSI overbought · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: above EMA200 · not ★5: last report beat,,0.0,142.818457,11.935877
 2024-11-20,199.8999938964844,204.8000030517578,198.1000061035156,203.8000030517578,197364,[],[],[],0,,0,,,0.0,142.818457,11.935877
 2024-11-21,204.1999969482422,212.0,202.8000030517578,212.0,238087,[],[],['RSI_OVERBOUGHT'],0,,2,score 8: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · volume ≥ 1.2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: above EMA200 · not ★5: last report beat,,0.0,142.818457,11.935877
@@ -499,3 +496,6 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-12,112.0,116.1999969482422,110.75,113.4499969482422,414980,[],[],[],0,,0,,,0.0,144.7,25.560236
 2026-11-13,113.4499969482422,115.4000015258789,112.3000030517578,112.5,302460,[],[],[],0,,0,,,0.0,144.7,25.560236
 2026-11-16,112.5,113.4000015258789,109.0999984741211,110.0,268444,[],[],[],0,,0,,,0.0,144.7,25.560236
+2026-11-17,109.3000030517578,109.8000030517578,105.8000030517578,108.5999984741211,264670,[],[],[],0,,0,,,0.0,144.7,25.560236
+2026-11-18,109.0,116.0999984741211,106.5999984741211,114.4499969482422,606977,[],[],[],0,,0,,,0.0,144.7,25.560236
+2026-11-19,116.0,120.1999969482422,116.0,117.25,749662,[],[],"['shooting_star', 'RSI_OVERBOUGHT']",0,,4,score 9: RSI(2) > 85 · volume ≥ 1.2× · volume ≥ 1.5× · EPS falling y/y · pattern + RSI overbought · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: above EMA200,,0.0,144.7,25.560236
