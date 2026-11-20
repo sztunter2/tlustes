@@ -498,4 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-16,0.1450999975204467,0.147599995136261,0.1061900034546852,0.1201310008764267,92588.0,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 6: RSI(2) < 15 · RSI(2) < 10 · volume ≥ 1.2× · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: low liquidity · not ★5: fell ≥ 25% in 20 bars · not ★5: below EMA200,0,
 2026-11-17,0.1201310008764267,0.1201390027999877,0.0839560031890869,0.1018999963998794,74772.0,['rebound'],['rebound'],[],2,score 7: drop 20 bars ≥ 3 ATR · RSI(2) < 15 · RSI(2) < 10 · RSI(2) < 5 · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: no RSI oversold / engulfing · not ★5: low liquidity · not ★5: fell ≥ 25% in 20 bars · not ★5: below EMA200,0,
 2026-11-18,0.1018999963998794,0.1020649969577789,0.072842001914978,0.07829300314188,155520.0,[],[],[],0,,0,
-2026-11-19,0.0782930180430412,0.0906916409730911,0.0759598985314369,0.0851657539606094,99784.0,[],[],[],0,,0,
+2026-11-20,0.0838010907173156,0.0843201875686645,0.0810509920120239,0.0843201875686645,90647.0,[],[],[],0,,0,

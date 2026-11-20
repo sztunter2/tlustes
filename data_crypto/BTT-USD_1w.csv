@@ -406,4 +406,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-01,0.0,0.0,0.0,0.0,115774880.0,[],[],[],0,,0,
 2026-11-08,0.0,0.0,0.0,0.0,154795925.0,[],[],[],0,,0,
 2026-11-15,0.0,0.0,0.0,0.0,194147515.0,[],[],[],0,,0,
-2026-11-22,0.0,3.109570911874471e-07,0.0,3.0958264574110217e-07,93872608.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 10: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · volume ≥ 1.2× · volume ≥ 1.5× · volume ≥ 2× · no green arrow in 3 bars · RSI(14) ≥ 65 | not ★5: low liquidity · not ★5: rose ≥ 25% in 20 bars
+2026-11-22,0.0,3.109414876689698e-07,0.0,3.092725364695071e-07,95143812.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 9: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · volume ≥ 1.2× · volume ≥ 1.5× · no green arrow in 3 bars · RSI(14) ≥ 65 | not ★5: low liquidity · not ★5: rose ≥ 25% in 20 bars
