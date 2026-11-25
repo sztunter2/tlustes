@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,eps_ttm,dps_ttm,sps,bps
-2017-04-30,78.74776697274405,87.07937046181556,78.71490614117893,84.02281951904297,45722400,[],[],[],0,,0,,4.05,3.08,,
 2017-05-07,84.34323754866594,84.62259840074694,81.04839085304977,81.87007904052734,24665300,[],[],[],0,,0,,4.05,3.08,,
 2017-05-14,81.73859155601116,83.74343651272898,81.29489520715005,82.7492446899414,28865600,[],[],[],0,,0,,4.05,3.08,,
 2017-05-21,83.47228826313889,84.51580429429957,80.30891762651552,84.16249084472656,22058500,[],[],['hanging_man'],0,,2,score 5: rise 5 bars ≥ 2 ATR · volume ≤ 1× · no green arrow in 3 bars · S&P 500 member · top of 55-bar channel | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200 · not ★5: last report beat,4.05,3.08,,
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-01,685.4099731445312,732.72998046875,616.6599731445312,622.75,21694800,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],4,score 11: drop 5 bars ≥ 2 ATR · drop 20 bars ≥ 3 ATR · RSI(2) < 15 · RSI(2) < 10 · RSI(2) < 5 · volume ≥ 1.2× · EPS growing y/y · no red arrow in 3 bars · S&P 500 member · RSI(14) ≤ 35 · last report beat | not ★5: fell ≥ 25% in 20 bars,0,,26.07,6.28,143.106077,42.192864
 2026-11-08,630.0,632.0,550.8099975585938,558.6300048828125,24990500,[],[],[],0,,0,,26.07,6.28,143.106077,42.192864
 2026-11-15,573.989990234375,613.5700073242188,566.1199951171875,600.2000122070312,16314500,[],[],[],0,,0,,26.07,6.28,168.741593,46.947713
-2026-11-22,588.0,592.0,535.530029296875,537.3699951171875,13848500,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 9: drop 5 bars ≥ 2 ATR · drop 20 bars ≥ 3 ATR · EPS growing y/y · no red arrow in 3 bars · S&P 500 member · low at EMA50 / EMA200 · low of 55-bar channel · RSI(14) ≤ 35 · last report beat | not ★5: fell ≥ 25% in 20 bars,0,,26.07,6.28,168.741593,46.947713
+2026-11-22,588.0,592.0,508.1099853515625,510.4500122070313,19012400,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],4,score 11: drop 5 bars ≥ 2 ATR · drop 20 bars ≥ 3 ATR · RSI(2) < 15 · volume ≥ 1.2× · EPS growing y/y · no red arrow in 3 bars · S&P 500 member · low at EMA50 / EMA200 · low of 55-bar channel · RSI(14) ≤ 35 · last report beat | not ★5: fell ≥ 25% in 20 bars,0,,26.07,6.28,168.741593,46.947713
+2026-11-29,554.7899780273438,560.0,512.5999755859375,543.6900024414062,11089643,[],[],[],0,,0,,26.07,6.28,168.741593,46.947713

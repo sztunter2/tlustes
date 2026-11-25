@@ -1,8 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,dps_ttm
-2024-12-04,49.372548616814285,49.50781897335977,48.812157596944395,48.83148193359375,1488587.0,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 7: RSI(2) < 15 · volume ≤ 1× (no panic) · EPS growing y/y · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 · last report beat | not ★5: below EMA200,0,,0.82
-2024-12-05,48.65756764258293,49.102016337916226,48.61891896844775,48.77350997924805,1808224.0,['inverted_hammer'],['inverted_hammer'],[],2,score 8: drop 20 bars ≥ 3 ATR · RSI(2) < 15 · EPS growing y/y · pattern + RSI oversold · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 · last report beat | not ★5: no RSI oversold / engulfing · not ★5: below EMA200,0,,0.82
-2024-12-06,48.63823805010474,49.12133536737406,48.54162006094688,48.580265045166016,1807075.0,['inverted_hammer'],['inverted_hammer'],[],2,score 8: drop 20 bars ≥ 3 ATR · RSI(2) < 15 · RSI(2) < 10 · EPS growing y/y · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 · last report beat | not ★5: no RSI oversold / engulfing · not ★5: below EMA200,0,,0.82
-2024-12-09,48.56094687215616,48.83148391045904,48.44500453330664,48.7928352355957,1501226.0,['engulfing'],['engulfing'],[],2,score 7: drop 20 bars ≥ 3 ATR · volume ≤ 1× (no panic) · EPS growing y/y · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 · last report beat | not ★5: below EMA200,0,,0.82
 2024-12-10,48.77350905960361,49.14066408548411,48.67689106182786,48.75418472290039,2909228.0,[],[],[],0,,0,,0.82
 2024-12-11,48.773510653096416,49.005399015370806,48.5416259765625,48.5416259765625,1688611.0,[],[],[],0,,0,,0.82
 2024-12-12,48.30973575735291,49.54646381330424,48.30007543192719,49.237281799316406,2339796.0,['engulfing'],['engulfing'],[],2,score 6: drop 20 bars ≥ 3 ATR · volume ≥ 1.2× · EPS growing y/y · no red arrow in 3 bars · low of 55-bar channel · last report beat | not ★5: below EMA200,0,,0.82
@@ -499,3 +495,7 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-17,76.39279034814652,76.5320474262364,75.39809259668077,75.6368179321289,1575186.0,[],[],[],0,,0,,1.15
 2026-11-18,75.59702922875157,75.85565276943778,74.8410568115604,75.04000091552734,1394157.0,[],[],[],0,,0,,1.0
 2026-11-19,74.86000061035156,75.0199966430664,72.18000030517578,72.83999633789062,1632862.0,[],[],[],0,,0,,1.0
+2026-11-20,73.22000122070312,73.33999633789062,72.44000244140625,73.0,2122517.0,[],[],[],0,,0,,1.0
+2026-11-23,72.0,72.66000366210938,71.80000305175781,72.62000274658203,1990541.0,[],[],[],0,,0,,1.0
+2026-11-24,72.62000274658203,72.94000244140625,72.0199966430664,72.68000030517578,1830418.0,[],[],[],0,,0,,1.0
+2026-11-25,72.45999908447266,73.23999786376953,72.0199966430664,72.66000366210938,2543915.0,[],[],[],0,,0,,1.0

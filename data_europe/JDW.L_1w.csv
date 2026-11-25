@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,dps_ttm,sps,bps
-2017-04-30,999.2151016344678,999.2151016344678,968.7390169184258,993.7595825195312,1220019.0,[],[],['hanging_man'],0,,2,score 5: rise 20 bars ≥ 3 ATR · RSI(2) > 85 · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200,12.0,,
 2017-05-07,989.262937035891,1059.2109299807507,989.262937035891,1038.2265625,1366059.0,['engulfing'],['engulfing'],['RSI_OVERBOUGHT'],2,"score 2: ADX ≥ 20, +DI > −DI · trend score 3",2,score 8: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · pattern + RSI overbought · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: above EMA200,12.0,,
 2017-05-14,1045.221435546875,1059.2108287865724,1042.223668523318,1050.217529296875,1103545.0,[],[],[],0,,0,,12.0,,
 2017-05-21,1056.213037947227,1057.2122802734375,1010.247350568602,1013.2451171875,1250257.0,[],[],"['evening_star', 'engulfing']",0,,2,score 2: rise 20 bars ≥ 3 ATR · top of 55-bar channel | not ★5: above EMA200,12.0,,
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-01,1024.0,1074.0,1003.0,1062.0,2344763.0,[],[],[],0,,0,,12.0,,
 2026-11-08,1065.0,1086.0,1000.0,1016.0,3240113.0,[],[],['engulfing'],0,,2,score 7: rise 20 bars ≥ 3 ATR · volume ≥ 1.2× · volume ≥ 1.5× · volume ≥ 2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200,12.0,,
 2026-11-15,1056.0,1056.0,967.0,1030.0,2662836.0,[],[],[],0,,0,,12.0,,
-2026-11-22,1034.0,1039.0,1000.0,1027.0,1012056.0,[],[],[],0,,0,,12.0,,
+2026-11-22,1034.0,1059.0,1000.0,1016.0,1541700.0,[],[],[],0,,0,,12.0,,
+2026-11-29,1000.0,1036.0,976.0,1016.0,4312104.0,[],[],[],0,,0,,12.0,,

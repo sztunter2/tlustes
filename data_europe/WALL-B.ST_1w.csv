@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,eps_ttm,dps_ttm,sps,bps
-2017-04-30,32.7490571544385,33.690117438107926,32.55373606267735,33.14141845703125,2897106.0,[],[],[],0,,0,,1.15,0.425,,
 2017-05-07,33.1414188394,34.04128646850586,33.09752359020599,34.04128646850586,2979124.0,[],[],[],0,,0,,1.15,0.425,,
 2017-05-14,33.975440475049446,35.0728335419125,33.975440475049446,35.05088424682617,3949708.0,[],[],['RSI_OVERBOUGHT'],0,,4,score 9: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · volume ≥ 1.2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: above EMA200 · not ★5: last report beat,1.15,0.425,,
 2017-05-21,35.0728364105553,35.2703666632066,33.99738642418435,34.45829391479492,2523346.0,[],[],['dark_cloud_cover'],0,,2,score 6: rise 20 bars ≥ 3 ATR · volume ≤ 1× · pattern + RSI overbought · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200 · not ★5: last report beat,1.15,0.425,,
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-01,37.75130890549048,38.50633341611822,36.91999816894531,37.36000061035156,2719408.0,[],[],[],0,,0,,,0.55,5.033877,51.394654
 2026-11-08,37.31999969482422,39.68000030517578,36.77999877929688,39.52000045776367,3053806.0,['engulfing'],['engulfing'],[],2,score 4: volume ≤ 1× (no panic) · EPS growing y/y · no red arrow in 3 bars · last report beat | not ★5: below EMA200,0,,,0.55,5.033877,51.394654
 2026-11-15,39.20000076293945,40.15999984741211,38.79999923706055,39.13999938964844,2554149.0,[],[],[],0,,0,,,0.55,5.033877,52.920141
-2026-11-22,39.0,39.5,38.68000030517578,39.060001373291016,1233186.0,[],[],[],0,,0,,,0.55,5.033877,52.920141
+2026-11-22,39.0,39.5,38.2599983215332,38.459999084472656,2070632.0,[],[],[],0,,0,,,0.55,5.033877,52.920141
+2026-11-29,38.060001373291016,40.220001220703125,38.060001373291016,40.220001220703125,1915146.0,['engulfing'],['engulfing'],[],2,score 3: EPS growing y/y · no red arrow in 3 bars · last report beat | not ★5: below EMA200,0,,,0.55,5.033877,52.920141

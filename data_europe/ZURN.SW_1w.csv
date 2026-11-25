@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,dps_ttm
-2017-04-30,163.69489150669136,167.58805590279673,163.08658646100616,167.5272216796875,2929783.0,[],[],[],0,,0,,17.0
 2017-05-07,167.52719514160427,168.98713684082028,165.21566795003426,168.98713684082028,3172676.0,[],[],[],0,,0,,17.0
 2017-05-14,169.10879587947727,171.84617151532854,168.0138542670071,171.48118591308594,3077326.0,[],[],[],0,,0,,17.0
 2017-05-21,171.42034184619968,174.27940368652344,170.082081982475,174.27940368652344,3425260.0,[],[],['RSI_OVERBOUGHT'],0,,4,score 9: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 · last report missed | not ★5: above EMA200,17.0
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-01,619.0,630.0,612.0,625.5999755859375,1222558.0,[],[],[],0,,0,,30.0
 2026-11-08,622.0,647.0,619.2000122070312,630.2000122070312,1309551.0,[],[],[],0,,0,,30.0
 2026-11-15,626.0,655.5999755859375,624.5999755859375,655.4000244140625,1305422.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 8: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: above EMA200 · not ★5: last report beat,30.0
-2026-11-22,657.5999755859375,661.5999755859375,635.2000122070312,635.2000122070312,1056783.0,[],[],['dark_cloud_cover'],0,,2,score 3: pattern + RSI overbought · no green arrow in 3 bars · top of 55-bar channel | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200 · not ★5: last report beat,30.0
+2026-11-22,657.5999755859375,661.5999755859375,630.0,633.4000244140625,1397145.0,[],[],['dark_cloud_cover'],0,,2,score 3: pattern + RSI overbought · no green arrow in 3 bars · top of 55-bar channel | not ★5: no RSI overbought / bearish engulfing · not ★5: above EMA200 · not ★5: last report beat,30.0
+2026-11-29,632.2000122070312,642.5999755859375,631.4000244140625,637.4000244140625,1004510.0,[],[],[],0,,0,,30.0

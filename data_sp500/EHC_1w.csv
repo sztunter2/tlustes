@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,eps_ttm,dps_ttm,sps,bps
-2017-04-30,30.63709941996208,32.925743103027344,30.41243057757099,32.925743103027344,8996726.0,[],[],['RSI_OVERBOUGHT'],0,,4,score 10: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · RSI(2) > 90 · RSI(2) > 95 · volume ≥ 1.2× · volume ≥ 1.5× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: above EMA200 · not ★5: last report beat,2.76,0.755768,,
 2017-05-07,33.1012637633725,33.62077212342159,32.71514097764453,33.33292770385742,7385881.0,[],[],[],0,,0,,2.76,0.755768,,
 2017-05-14,33.32590977368607,33.53651836297091,33.00297203355691,33.417171478271484,5800803.0,[],[],[],0,,0,,2.76,0.755768,,
 2017-05-21,33.445257652929925,33.62076859139171,31.65504947092971,32.27987289428711,6329372.0,[],[],['engulfing'],0,,2,score 3: rise 20 bars ≥ 3 ATR · no green arrow in 3 bars · top of 55-bar channel | not ★5: above EMA200 · not ★5: last report beat,2.76,0.755768,,
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-01,124.0999984741211,137.27000427246094,120.9499969482422,135.89999389648438,6573200.0,[],[],[],0,,0,,6.13,0.78,62.061,26.29251
 2026-11-08,136.30999755859375,143.36000061035156,134.55999755859375,137.5399932861328,6713700.0,[],[],['RSI_OVERBOUGHT'],0,,2,score 7: rise 5 bars ≥ 2 ATR · rise 20 bars ≥ 3 ATR · RSI(2) > 85 · volume ≥ 1.2× · no green arrow in 3 bars · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200 · not ★5: last report beat,6.13,0.78,62.061,26.29251
 2026-11-15,138.10000610351562,143.89999389648438,137.5800018310547,140.99000549316406,4100200.0,[],[],[],0,,0,,6.13,0.78,63.571715,27.275687
-2026-11-22,142.75999450683594,143.52000427246094,130.5,132.27999877929688,3565600.0,[],[],['engulfing'],0,,2,score 3: rise 20 bars ≥ 3 ATR · volume ≤ 1× · no green arrow in 3 bars | not ★5: above EMA200 · not ★5: last report beat,6.13,0.78,63.571715,27.275687
+2026-11-22,142.75999450683594,143.52000427246094,130.5,133.64999389648438,4477500.0,[],[],['engulfing'],0,,2,score 4: rise 20 bars ≥ 3 ATR · volume ≤ 1× · no green arrow in 3 bars · top of 55-bar channel | not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200 · not ★5: last report beat,6.13,0.78,63.571715,27.275687
+2026-11-29,132.61000061035156,138.07000732421875,132.61000061035156,137.6699981689453,2094892.0,[],[],[],0,,0,,6.13,0.78,63.571715,27.275687
