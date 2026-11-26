@@ -498,4 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-08,2970.0,3172.0,2951.0,3064.0,7661240.0,[],[],[],0,,0,,51.8159
 2026-11-15,3056.0,3076.0,2935.0,2967.0,8170289.0,[],[],[],0,,0,,51.8159
 2026-11-22,2987.0,3011.0,2764.0,2811.0,15420120.0,[],[],[],0,,0,,51.8159
-2026-11-29,2783.0,3007.0,2782.0,3000.0,7449112.0,['engulfing'],['engulfing'],[],2,score 2: no red arrow in 3 bars · low at EMA50 / EMA200 | not ★5: below EMA200,0,,51.8159
+2026-11-29,2783.0,3064.0,2782.0,3042.0,8885401.0,['engulfing'],['engulfing'],[],2,score 3: volume ≤ 1× (no panic) · no red arrow in 3 bars · low at EMA50 / EMA200 | not ★5: below EMA200,0,,51.8159

@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why
-2025-07-14,0.0745450034737587,0.0761720016598701,0.0724750012159347,0.0728740021586418,7568269.0,[],[],[],0,,0,
 2025-07-15,0.0728740021586418,0.073744997382164,0.0711089968681335,0.0736069977283477,8506884.0,['hammer'],['hammer'],[],2,score 3: volume ≥ 1.2× · no red arrow in 3 bars · low of 55-bar channel | not ★5: no RSI oversold / engulfing · not ★5: low liquidity · not ★5: below EMA200,0,
 2025-07-16,0.0735979974269867,0.0767460018396377,0.0735870003700256,0.0754510015249252,7786060.0,[],[],[],0,,0,
 2025-07-17,0.0754510015249252,0.0790499970316886,0.0747900009155273,0.0783570036292076,44674254.0,[],[],[],0,,0,
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-22,0.0200689993798732,0.0209999997168779,0.0193220004439353,0.0197310000658035,1840851.0,[],[],[],0,,0,
 2026-11-23,0.0197310000658035,0.0236779991537332,0.0195269994437694,0.021756999194622,3967225.0,['engulfing'],['engulfing'],[],2,score 5: drop 20 bars ≥ 3 ATR · volume ≥ 1.2× · volume ≥ 1.5× · no red arrow in 3 bars · low of 55-bar channel | not ★5: low liquidity · not ★5: fell ≥ 25% in 20 bars · not ★5: below EMA200,0,
 2026-11-24,0.021756999194622,0.0221880003809928,0.0191169995814561,0.0192099995911121,1584165.0,[],[],[],0,,0,
-2026-11-25,0.0192099642008543,0.0197970084846019,0.0180187262594699,0.019717413932085,2096167.0,['hammer'],['hammer'],[],2,score 5: drop 20 bars ≥ 3 ATR · volume ≤ 1× (no panic) · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: no RSI oversold / engulfing · not ★5: low liquidity · not ★5: fell ≥ 25% in 20 bars · not ★5: below EMA200,0,
+2026-11-25,0.0192099995911121,0.0197999998927116,0.0180060006678104,0.0197299998253583,2035077.0,['hammer'],['hammer'],[],2,score 5: drop 20 bars ≥ 3 ATR · volume ≤ 1× (no panic) · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: no RSI oversold / engulfing · not ★5: low liquidity · not ★5: fell ≥ 25% in 20 bars · not ★5: below EMA200,0,
+2026-11-26,0.0197304692119359,0.0198461972177028,0.019224664196372,0.0193519312888383,738749.0,[],[],[],0,,0,

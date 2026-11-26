@@ -498,4 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-08,4846.615127672446,5108.593978323884,4783.619802145156,4929.6083984375,21160371.0,[],[],[],0,,0,,120.8
 2026-11-15,4912.109653109744,5011.0,4867.5,4987.5,19313801.0,[],[],[],0,,0,,120.8
 2026-11-22,5014.0,5068.0,4755.5,4887.5,19888943.0,[],[],[],0,,0,,120.8
-2026-11-29,4837.5,5082.0,4800.0,5067.0,16500995.0,['engulfing'],['engulfing'],[],2,score 6: volume ≥ 1.2× · volume ≥ 1.5× · no red arrow in 3 bars · low at EMA50 / EMA200 · trend score 3 · last report beat,0,,120.8
+2026-11-29,4837.5,5082.15576171875,4800.0,5062.0,21996404.0,['engulfing'],['engulfing'],[],2,score 6: volume ≥ 1.2× · volume ≥ 1.5× · no red arrow in 3 bars · low at EMA50 / EMA200 · trend score 3 · last report beat,0,,120.8

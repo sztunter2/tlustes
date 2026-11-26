@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why
-2024-12-04,402.0,409.0,402.0,407.5,1163976.0,['engulfing'],['engulfing'],['RSI_OVERBOUGHT'],2,"score 2: ADX ≥ 20, +DI > −DI · trend score 3",2,score 4: rise 20 bars ≥ 3 ATR · RSI(2) > 85 · top of 55-bar channel · RSI(14) ≥ 65 | not ★5: above EMA200
 2024-12-05,406.0,406.0,403.0570068359375,405.0,1115419.0,[],[],[],0,,0,
 2024-12-06,404.0,405.5,403.0,403.0,399212.0,[],[],[],0,,0,
 2024-12-09,401.0,404.5,401.0,403.5,3652507.0,[],[],[],0,,0,
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-20,404.0,420.9549865722656,402.7000122070313,406.0,510771.0,['engulfing'],['engulfing'],[],2,score 4: volume ≤ 1× (no panic) · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: below EMA200,0,
 2026-11-23,406.0,408.0,405.0,407.5,685525.0,[],[],[],0,,0,
 2026-11-24,407.5,411.1900024414063,406.0,409.0,563857.0,[],[],[],0,,0,
-2026-11-25,410.0,412.0,408.0,412.0,621478.0,[],[],[],0,,0,
+2026-11-25,410.0,412.0,408.0,412.0,621477.0,[],[],[],0,,0,
+2026-11-26,413.385009765625,413.385009765625,409.5,410.5,452350.0,[],[],[],0,,0,

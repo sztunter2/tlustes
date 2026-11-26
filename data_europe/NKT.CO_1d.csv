@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,dps_ttm
-2024-11-21,550.0,554.0,545.0,548.0,104001.0,[],[],[],0,,0,,0.0
 2024-11-22,547.5,560.0,547.0,556.0,142152.0,['engulfing'],['engulfing'],[],2,score 6: drop 20 bars ≥ 3 ATR · volume ≤ 1× (no panic) · EPS growing y/y · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: below EMA200 · not ★5: last report missed,0,,0.0
 2024-11-25,556.5,562.0,554.5,555.0,150430.0,[],[],[],0,,0,,0.0
 2024-11-26,554.5,555.0,544.5,549.5,165496.0,[],[],[],0,,0,,0.0
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-20,802.0,807.5,774.0,774.5,454413.0,[],[],[],0,,0,,0.0
 2026-11-23,788.0,797.5,777.0,791.5,255803.0,[],[],[],0,,0,,0.0
 2026-11-24,793.0,793.0,754.0,754.0,227808.0,[],[],[],0,,0,,0.0
-2026-11-25,747.5,758.5,710.5,710.5,362358.0,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 11: drop 5 bars ≥ 2 ATR · drop 20 bars ≥ 3 ATR · RSI(2) < 15 · RSI(2) < 10 · volume ≥ 1.2× · volume ≥ 1.5× · EPS growing y/y · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 · last report beat | not ★5: below EMA200,0,,0.0
+2026-11-25,747.5,758.5,710.5,710.5,393755.0,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 11: drop 5 bars ≥ 2 ATR · drop 20 bars ≥ 3 ATR · RSI(2) < 15 · RSI(2) < 10 · volume ≥ 1.2× · volume ≥ 1.5× · EPS growing y/y · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 · last report beat | not ★5: below EMA200,0,,0.0
+2026-11-26,745.0,751.0,736.5,745.5,210401.0,[],[],[],0,,0,,0.0

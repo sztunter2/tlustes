@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why
-2025-07-14,0.1503479927778244,0.1573870033025741,0.148824006319046,0.151978000998497,16264582.0,[],[],[],0,,0,
 2025-07-15,0.151978000998497,0.1573500037193298,0.1464879959821701,0.1531160026788711,9792145.0,[],[],[],0,,0,
 2025-07-16,0.1531160026788711,0.1577329933643341,0.1506479978561401,0.1538480073213577,5047481.0,[],[],[],0,,0,
 2025-07-17,0.1538480073213577,0.1590059995651245,0.1502179950475692,0.1570499986410141,6833780.0,[],[],[],0,,0,
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-22,0.0248680002987384,0.0252410005778074,0.024269999936223,0.0246729999780654,474300.0,[],[],[],0,,0,
 2026-11-23,0.0246729999780654,0.0263180006295442,0.0242679994553327,0.0251640006899833,755861.0,['engulfing'],['engulfing'],[],2,score 5: drop 20 bars ≥ 3 ATR · volume ≤ 1× (no panic) · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: low liquidity · not ★5: below EMA200,0,
 2026-11-24,0.0251640006899833,0.0252749994397163,0.0240339990705251,0.0245009995996952,674985.0,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 6: drop 20 bars ≥ 3 ATR · volume ≤ 1× (no panic) · pattern + RSI oversold · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: low liquidity · not ★5: fell ≥ 25% in 20 bars · not ★5: below EMA200,0,
-2026-11-25,0.0245009381324052,0.025500213727355,0.0239264331758022,0.0254559684544801,1215599.0,['engulfing'],['engulfing'],[],2,score 5: drop 20 bars ≥ 3 ATR · volume ≥ 1.2× · pattern + RSI oversold · no red arrow in 3 bars · low of 55-bar channel | not ★5: low liquidity · not ★5: below EMA200,0,
+2026-11-25,0.0245009995996952,0.025527000427246,0.0239039994776248,0.0254939999431371,1225508.0,['engulfing'],['engulfing'],[],2,score 5: drop 20 bars ≥ 3 ATR · volume ≥ 1.2× · pattern + RSI oversold · no red arrow in 3 bars · low of 55-bar channel | not ★5: low liquidity · not ★5: below EMA200,0,
+2026-11-26,0.0254949890077114,0.0262475088238716,0.0253442283719778,0.0262475088238716,1600032.0,[],[],[],0,,0,

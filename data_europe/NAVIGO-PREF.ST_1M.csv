@@ -136,4 +136,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-08-01,139.015625,155.0,139.015625,152.09375,260067.0,['engulfing'],['engulfing'],[],2,"score 5: volume ≥ 1.2× · volume ≥ 1.5× · volume ≥ 2× · ADX ≥ 20, +DI > −DI · no red arrow in 3 bars",0,,9.5,7.764435,14.21959
 2026-09-01,152.09375,156.9375,138.0,151.5,194693.0,[],[],[],0,,0,,9.5,8.314012,14.154333
 2026-10-01,150.0,152.5,136.5,150.0,117572.0,[],[],[],0,,0,,12.1,8.314012,14.154333
-2026-11-01,151.0,151.5,121.5,138.0,91500.0,[],[],['engulfing'],0,,2,score 3: rise 20 bars ≥ 3 ATR · no green arrow in 3 bars · RSI(14) ≥ 65 | not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200,12.1,8.314012,14.154333
+2026-11-01,151.0,151.5,121.5,137.0,92752.0,[],[],['engulfing'],0,,2,score 3: rise 20 bars ≥ 3 ATR · no green arrow in 3 bars · RSI(14) ≥ 65 | not ★5: rose ≥ 25% in 20 bars · not ★5: above EMA200,12.1,8.314012,14.154333

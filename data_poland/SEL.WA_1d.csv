@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,dps_ttm,sps,bps
-2024-11-25,26.23034212129982,27.836282476714835,26.23034212129982,27.39018821716309,4250.0,[],[],[],0,,0,,1.5,82.358219,32.252907
 2024-11-26,27.211748980706048,27.83628160521133,26.854873924580673,27.300968170166016,1384.0,[],[],[],0,,0,,1.5,82.358219,32.252907
 2024-11-27,27.033310793428047,27.479405042175802,26.854874114957653,27.122529983520508,1255.0,[],[],[],0,,0,,1.5,82.358219,32.252907
 2024-11-28,27.122529983520508,27.122529983520508,26.854874114957653,27.122529983520508,324.0,[],[],[],0,,0,,1.5,82.358219,32.252907
@@ -499,3 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-23,52.59999847412109,53.79999923706055,52.59999847412109,52.79999923706055,3743.0,['inverted_hammer'],['inverted_hammer'],[],2,score 9: drop 5 bars ≥ 2 ATR · RSI(2) < 15 · RSI(2) < 10 · RSI(2) < 5 · no red arrow in 3 bars · low at EMA50 / EMA200 · low of 55-bar channel · trend score 3 · RSI(14) ≤ 35 | not ★5: no RSI oversold / engulfing · not ★5: low liquidity,0,,2.5,87.878664,37.033775
 2026-11-24,52.79999923706055,53.20000076293945,52.20000076293945,52.79999923706055,3135.0,[],[],[],0,,0,,2.5,87.878664,37.033775
 2026-11-25,52.400001525878906,53.20000076293945,52.20000076293945,52.20000076293945,7881.0,"['inverted_hammer', 'RSI_OVERSOLD']","['inverted_hammer', 'RSI_OVERSOLD']",[],3,score 13: drop 5 bars ≥ 2 ATR · RSI(2) < 15 · RSI(2) < 10 · RSI(2) < 5 · volume ≥ 1.2× · volume ≥ 1.5× · volume ≥ 2× · pattern + RSI oversold · no red arrow in 3 bars · low at EMA50 / EMA200 · low of 55-bar channel · trend score 3 · RSI(14) ≤ 35 | not ★5: low liquidity,0,,2.5,87.878664,37.033775
+2026-11-26,52.0,54.0,49.400001525878906,53.400001525878906,4120.0,['engulfing'],['engulfing'],[],2,score 4: drop 5 bars ≥ 2 ATR · pattern + RSI oversold · no red arrow in 3 bars · trend score 3 | not ★5: low liquidity,0,,2.5,87.878664,37.033775

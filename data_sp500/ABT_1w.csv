@@ -498,4 +498,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-08,106.88999938964844,117.06999969482422,106.4000015258789,109.93000030517578,47488000.0,[],[],[],0,,0,,5.38,2.52,25.834066,29.888969
 2026-11-15,110.87999725341795,111.01000213623048,106.88999938964844,108.5199966430664,40339800.0,[],[],[],0,,0,,5.38,2.52,25.834066,29.46231
 2026-11-22,109.5500030517578,110.44000244140624,102.8000030517578,103.0,37136100.0,[],[],[],0,,0,,5.38,2.52,25.834066,29.46231
-2026-11-29,102.70999908447266,109.3499984741211,102.0,108.0,23290386.0,['piercing_line'],['piercing_line'],[],2,score 6: volume ≤ 1× (no panic) · EPS growing y/y · no red arrow in 3 bars · S&P 500 member · low at EMA50 / EMA200 · last report beat | not ★5: no RSI oversold / engulfing,0,,5.38,2.52,25.834066,29.46231
+2026-11-29,102.70999908447266,109.37000274658205,102.0,108.0,23339100.0,['piercing_line'],['piercing_line'],[],2,score 6: volume ≤ 1× (no panic) · EPS growing y/y · no red arrow in 3 bars · S&P 500 member · low at EMA50 / EMA200 · last report beat | not ★5: no RSI oversold / engulfing,0,,5.38,2.52,25.834066,29.46231

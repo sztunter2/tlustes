@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,dps_ttm,sps,bps
-2024-12-04,208.0,225.0,207.6999969482422,222.1999969482422,1190640.0,[],[],[],0,,0,,0.0,528.666667,1224.353832
 2024-12-05,222.1999969482422,234.0,222.0,226.3999938964844,1181029.0,[],[],[],0,,0,,0.0,528.666667,1224.353832
 2024-12-06,225.1999969482422,232.6000061035156,221.1999969482422,228.1999969482422,1102755.0,[],[],[],0,,0,,0.0,528.666667,1224.353832
 2024-12-09,227.0,236.0,226.6000061035156,234.6000061035156,762025.0,[],[],[],0,,0,,0.0,528.666667,1224.353832
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-20,345.0,348.8580017089844,326.6000061035156,326.6000061035156,1985017.0,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 10: drop 5 bars ≥ 2 ATR · RSI(2) < 15 · RSI(2) < 10 · RSI(2) < 5 · volume ≥ 1.2× · volume ≥ 1.5× · volume ≥ 2× · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: below EMA200,0,,0.0,472.547729,1095.843177
 2026-11-23,325.0,340.20001220703125,324.6000061035156,340.20001220703125,764077.0,['piercing_line'],['piercing_line'],[],2,score 5: drop 5 bars ≥ 2 ATR · pattern + RSI oversold · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: no RSI oversold / engulfing · not ★5: below EMA200,0,,0.0,472.547729,1095.843177
 2026-11-24,332.0,347.0,332.0,340.0,423341.0,[],[],[],0,,0,,0.0,472.547729,1095.843177
-2026-11-25,338.0,346.20001220703125,322.3999938964844,325.79998779296875,683225.0,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 6: drop 5 bars ≥ 2 ATR · drop 20 bars ≥ 3 ATR · RSI(2) < 15 · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: below EMA200,0,,0.0,472.547729,1095.843177
+2026-11-25,338.0,346.20001220703125,322.3999938964844,325.79998779296875,683226.0,['RSI_OVERSOLD'],['RSI_OVERSOLD'],[],2,score 6: drop 5 bars ≥ 2 ATR · drop 20 bars ≥ 3 ATR · RSI(2) < 15 · no red arrow in 3 bars · low of 55-bar channel · RSI(14) ≤ 35 | not ★5: below EMA200,0,,0.0,472.547729,1095.843177
+2026-11-26,325.0,338.3999938964844,325.0,331.6000061035156,357453.0,[],[],[],0,,0,,0.0,472.547729,1095.843177
