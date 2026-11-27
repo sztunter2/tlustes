@@ -1,5 +1,4 @@
 Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,strength_why,bear_strength,bear_strength_why,dps_ttm
-2024-12-05,3150.889970858135,3170.8639167906745,3100.955106026786,3145.896484375,9026.0,[],[],[],0,,0,,154.4808
 2024-12-06,3135.9094140625,3185.84427734375,3120.928955078125,3120.928955078125,21603.0,['inverted_hammer'],['inverted_hammer'],[],2,score 3: volume ≥ 1.2× · no red arrow in 3 bars · low at EMA50 / EMA200 | not ★5: no RSI oversold / engulfing · not ★5: below EMA200,0,,154.4808
 2024-12-09,3120.928887153468,3155.883290689587,3115.9354009340223,3140.90283203125,13889.0,['engulfing'],['engulfing'],[],2,score 3: volume ≤ 1× (no panic) · no red arrow in 3 bars · low at EMA50 / EMA200 | not ★5: below EMA200,0,,154.4808
 2024-12-10,3115.9354207677166,3180.850742033711,3085.9745032603346,3170.86376953125,12884.0,[],[],[],0,,0,,154.4808
@@ -498,4 +497,5 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-23,2375.0,2560.0,2375.0,2520.0,37940.0,['piercing_line'],['piercing_line'],[],2,score 3: volume ≥ 1.2× · no red arrow in 3 bars · low of 55-bar channel | not ★5: no RSI oversold / engulfing · not ★5: below EMA200,0,,150.3058
 2026-11-24,2545.0,2600.0,2375.0,2420.0,58866.0,[],[],[],0,,0,,150.3058
 2026-11-25,2420.0,2460.0,2345.0,2385.0,33445.0,[],[],[],0,,0,,150.3058
-2026-11-26,2420.0,2500.0,2415.0,2475.0,17680.0,[],[],[],0,,0,,150.3058
+2026-11-26,2425.0,2500.0,2415.0,2475.0,17679.0,[],[],[],0,,0,,150.3058
+2026-11-27,2509.699951171875,2585.0,2509.699951171875,2560.0,27344.0,[],[],[],0,,0,,150.3058

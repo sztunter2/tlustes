@@ -459,4 +459,4 @@ Date,Open,High,Low,Close,Volume,signal,bull_patterns,bear_patterns,strength,stre
 2026-11-08,3692.0,4116.0,3554.0,4094.0,3251966.0,['engulfing'],['engulfing'],[],2,score 5: volume ≤ 1× (no panic) · EPS growing y/y · no red arrow in 3 bars · low at EMA50 / EMA200 · last report beat,0,,134.7567
 2026-11-15,4163.0,4335.0,3696.0,3790.0,2774597.0,[],[],[],0,,0,,134.7567
 2026-11-22,3716.0,3793.0,3169.0,3174.0,4775532.0,[],[],[],0,,0,,134.7567
-2026-11-29,3243.0,3350.0,3067.0,3320.0,3059590.0,['hammer'],['hammer'],[],2,score 5: EPS growing y/y · no red arrow in 3 bars · low at EMA50 / EMA200 · low of 55-bar channel · last report beat | not ★5: no RSI oversold / engulfing,0,,134.7567
+2026-11-29,3243.0,3484.5791015625,3067.0,3424.0,3444791.0,[],[],[],0,,0,,134.7567
